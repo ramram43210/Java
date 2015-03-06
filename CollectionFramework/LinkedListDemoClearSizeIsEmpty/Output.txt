@@ -1,0 +1,9 @@
+linkedList : [200, 300, 10000, 5000, 2000]
+
+size : 5
+isEmpty : false
+
+After linkedList is cleared :[]
+
+size : 0
+isEmpty : true

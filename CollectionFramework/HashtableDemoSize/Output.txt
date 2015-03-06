@@ -1,0 +1,3 @@
+hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}
+
+size : 4

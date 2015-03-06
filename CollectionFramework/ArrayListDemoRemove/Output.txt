@@ -1,0 +1,15 @@
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+ArrayList after removing element from the index 1 : [Ram, Peter, Julia, Akram]
+
+ArrayList after removing String object "Julia" : [Ram, Peter, Akram]
+
+
+-------------------------------------------------------
+
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+RemoveList : [Dave, Peter]
+
+ArrayList after removing elements which are present in the removeList : [Ram, Julia, Akram]
+

@@ -1,0 +1,11 @@
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+ArrayList1 : [Ram, Julia]
+
+Is ArrayList1 elements are there in ArrayList : true
+
+#########################################################
+
+ArrayList2 : [Ram, Raju]
+
+Is ArrayList2 elements are there in ArrayList : false

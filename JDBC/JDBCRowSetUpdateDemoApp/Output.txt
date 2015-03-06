@@ -1,0 +1,3 @@
+3rd row population column is updated
+5080th row has been inserted into the city table
+1st row has been deleted from the city table

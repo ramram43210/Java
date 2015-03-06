@@ -1,0 +1,3 @@
+linkedList : [1, 2, 3]
+set : [4, 5]
+linkedList : [1, 4, 5, 2, 3]

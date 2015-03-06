@@ -1,0 +1,5 @@
+hashtable : {}
+isEmpty : true
+
+hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}
+isEmpty : false

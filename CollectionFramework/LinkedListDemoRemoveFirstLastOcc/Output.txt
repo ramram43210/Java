@@ -1,0 +1,7 @@
+linkedList : [200, 300, 200, 5000, 200, 800]
+
+isRemoved : true
+linkedList : [300, 200, 5000, 200, 800]
+
+isRemoved : true
+linkedList : [300, 200, 5000, 800]

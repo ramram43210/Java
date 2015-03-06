@@ -1,0 +1,2 @@
+linkedList : [1, 2, 3]
+linkedList : [1, 2, 10, 3]

@@ -1,0 +1,4 @@
+arrayList : [Ram, Dave, Peter, Julia, Akram]
+
+List : [Stephan, Dave, Virat, Peter, Julia, Akram]
+

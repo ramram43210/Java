@@ -1,0 +1,7 @@
+arrayList : [Ram, Dave, Peter, Julia, Akram]
+
+Forward Direction -----
+
+2 : Peter
+3 : Julia
+4 : Akram

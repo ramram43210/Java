@@ -1,0 +1,4 @@
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+Is 'Ram' exist :  true
+Is 'Karthick' exist :  false

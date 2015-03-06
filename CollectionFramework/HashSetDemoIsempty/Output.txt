@@ -1,0 +1,5 @@
+hashSet: []
+isEmpty :  true
+
+hashSet: [Rohit, Dave, Phil, Peter, Virat]
+isEmpty :  false

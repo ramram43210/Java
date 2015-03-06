@@ -1,0 +1,4 @@
+linkedHashMap : {1=Apple, 3=Cat, 2=Ball}
+
+value for the Key '2' : Ball
+value for the Key '10' : null

@@ -1,0 +1,11 @@
+hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}
+
+set : [IN, AF, BE, US]
+
+-----------------------
+Key | value
+-----------------------
+IN   |  INDIA
+AF   |  AFGHANISTAN
+BE   |  BELGIUM
+US   |  UNITED STATES

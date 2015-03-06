@@ -1,0 +1,48 @@
+Employee [employeeId=3, name=Carol] is going to be add in treeSet
+
+Compare method has been called in EmployeeNameComparator,
+to arrange the employee objects in Ascending order based on employee name : 
+employee1 = Employee [employeeId=3, name=Carol], employee2 = Employee [employeeId=3, name=Carol]
+
+Employee [employeeId=5, name=Balu] is going to be add in treeSet
+
+Compare method has been called in EmployeeNameComparator,
+to arrange the employee objects in Ascending order based on employee name : 
+employee1 = Employee [employeeId=5, name=Balu], employee2 = Employee [employeeId=3, name=Carol]
+
+Employee [employeeId=4, name=Ajay] is going to be add in treeSet
+
+Compare method has been called in EmployeeNameComparator,
+to arrange the employee objects in Ascending order based on employee name : 
+employee1 = Employee [employeeId=4, name=Ajay], employee2 = Employee [employeeId=3, name=Carol]
+
+
+Compare method has been called in EmployeeNameComparator,
+to arrange the employee objects in Ascending order based on employee name : 
+employee1 = Employee [employeeId=4, name=Ajay], employee2 = Employee [employeeId=5, name=Balu]
+
+Employee [employeeId=1, name=Dave] is going to be add in treeSet
+
+Compare method has been called in EmployeeNameComparator,
+to arrange the employee objects in Ascending order based on employee name : 
+employee1 = Employee [employeeId=1, name=Dave], employee2 = Employee [employeeId=5, name=Balu]
+
+
+Compare method has been called in EmployeeNameComparator,
+to arrange the employee objects in Ascending order based on employee name : 
+employee1 = Employee [employeeId=1, name=Dave], employee2 = Employee [employeeId=3, name=Carol]
+
+treeSet : [Employee [employeeId=4, name=Ajay], Employee [employeeId=5, name=Balu], Employee [employeeId=3, name=Carol], Employee [employeeId=1, name=Dave]]
+
+Name : Ajay
+Employee ID : 4
+-----------------------------------
+Name : Balu
+Employee ID : 5
+-----------------------------------
+Name : Carol
+Employee ID : 3
+-----------------------------------
+Name : Dave
+Employee ID : 1
+-----------------------------------

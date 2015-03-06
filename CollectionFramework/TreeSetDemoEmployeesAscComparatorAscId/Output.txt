@@ -1,0 +1,48 @@
+Employee [employeeId=3, name=John] is going to be add in treeSet
+
+Compare method has been called in EmployeeIdComparator,
+to arrange employee objects in ascending order based on employeeId : 
+employee1 = Employee [employeeId=3, name=John], employee2 = Employee [employeeId=3, name=John]
+
+Employee [employeeId=2, name=David] is going to be add in treeSet
+
+Compare method has been called in EmployeeIdComparator,
+to arrange employee objects in ascending order based on employeeId : 
+employee1 = Employee [employeeId=2, name=David], employee2 = Employee [employeeId=3, name=John]
+
+Employee [employeeId=1, name=Peter] is going to be add in treeSet
+
+Compare method has been called in EmployeeIdComparator,
+to arrange employee objects in ascending order based on employeeId : 
+employee1 = Employee [employeeId=1, name=Peter], employee2 = Employee [employeeId=3, name=John]
+
+
+Compare method has been called in EmployeeIdComparator,
+to arrange employee objects in ascending order based on employeeId : 
+employee1 = Employee [employeeId=1, name=Peter], employee2 = Employee [employeeId=2, name=David]
+
+Employee [employeeId=4, name=Juli] is going to be add in treeSet
+
+Compare method has been called in EmployeeIdComparator,
+to arrange employee objects in ascending order based on employeeId : 
+employee1 = Employee [employeeId=4, name=Juli], employee2 = Employee [employeeId=2, name=David]
+
+
+Compare method has been called in EmployeeIdComparator,
+to arrange employee objects in ascending order based on employeeId : 
+employee1 = Employee [employeeId=4, name=Juli], employee2 = Employee [employeeId=3, name=John]
+
+treeSet : [Employee [employeeId=1, name=Peter], Employee [employeeId=2, name=David], Employee [employeeId=3, name=John], Employee [employeeId=4, name=Juli]]
+
+Employee ID : 1
+Name : Peter
+-----------------------------------
+Employee ID : 2
+Name : David
+-----------------------------------
+Employee ID : 3
+Name : John
+-----------------------------------
+Employee ID : 4
+Name : Juli
+-----------------------------------

@@ -1,0 +1,9 @@
+treeSet : [10, 20, 30, 40, 50]
+
+floor(22) : 20
+
+floor(37) : 30
+
+floor(40) : 40
+
+floor(5) : null

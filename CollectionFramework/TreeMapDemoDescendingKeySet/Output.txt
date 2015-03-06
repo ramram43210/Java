@@ -1,0 +1,8 @@
+treeMap : {10=Cat, 20=Ball, 30=Apple, 40=Dog}
+
+navigableSet : [40, 30, 20, 10]
+
+40
+30
+20
+10

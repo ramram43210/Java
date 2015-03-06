@@ -1,0 +1,3 @@
+treeMap : {10=Cat, 20=Ball, 30=Apple, 40=Ball, 50=Dog}
+
+firstKey : 10

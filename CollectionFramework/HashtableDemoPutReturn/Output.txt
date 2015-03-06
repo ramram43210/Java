@@ -1,0 +1,5 @@
+hashtable : {AF=AFGHAN}
+Previous value associated with key 'AF' : null
+
+hashtable : {AF=AFGHANISTAN}
+Previous value associated with key 'AF' : AFGHAN

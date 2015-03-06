@@ -1,0 +1,3 @@
+arrayList : [1000, 2000]
+linkedHashSet : [1000, 2000]
+

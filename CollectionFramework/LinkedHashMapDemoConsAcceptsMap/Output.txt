@@ -1,0 +1,3 @@
+treeMap : {1=Apple, 2=Ball, 3=Cat}
+
+linkedHashMap : {1=Apple, 2=Ball, 3=Cat}

@@ -1,0 +1,5 @@
+Previous value associated with key '1' : null
+linkedHashMap : {1=Apple}
+
+Previous value associated with key '1' : Apple
+linkedHashMap : {1=Ball}

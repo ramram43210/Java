@@ -1,0 +1,5 @@
+treeMap : {10=Cat, 20=Eagle, 30=Apple, 40=Ball, 50=Dog}
+
+ceilingEntry(15) : 20=Eagle
+ceilingEntry(30) : 30=Apple
+ceilingEntry(200) : null

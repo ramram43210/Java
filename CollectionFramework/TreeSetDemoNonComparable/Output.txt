@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.ClassCastException: java.lang.StringBuffer cannot be cast to java.lang.Comparable
+	at java.util.TreeMap.compare(Unknown Source)
+	at java.util.TreeMap.put(Unknown Source)
+	at java.util.TreeSet.add(Unknown Source)
+	at TreeSetExample.main(TreeSetExample.java:28)

@@ -1,0 +1,410 @@
+Enter City Country Code :ind
+ID: 1024, Name: Mumbai (Bombay), CountryCode: IND, District: Maharashtra, Population: 10500000
+ID: 1025, Name: Delhi, CountryCode: IND, District: Delhi, Population: 7206704
+ID: 1026, Name: Calcutta [Kolkata], CountryCode: IND, District: West Bengali, Population: 4399819
+ID: 1027, Name: Chennai (Madras), CountryCode: IND, District: Tamil Nadu, Population: 3841396
+ID: 1028, Name: Hyderabad, CountryCode: IND, District: Andhra Pradesh, Population: 2964638
+ID: 1029, Name: Ahmedabad, CountryCode: IND, District: Gujarat, Population: 2876710
+ID: 1030, Name: Bangalore, CountryCode: IND, District: Karnataka, Population: 2660088
+ID: 1031, Name: Kanpur, CountryCode: IND, District: Uttar Pradesh, Population: 1874409
+ID: 1032, Name: Nagpur, CountryCode: IND, District: Maharashtra, Population: 1624752
+ID: 1033, Name: Lucknow, CountryCode: IND, District: Uttar Pradesh, Population: 1619115
+ID: 1034, Name: Pune, CountryCode: IND, District: Maharashtra, Population: 1566651
+ID: 1035, Name: Surat, CountryCode: IND, District: Gujarat, Population: 1498817
+ID: 1036, Name: Jaipur, CountryCode: IND, District: Rajasthan, Population: 1458483
+ID: 1037, Name: Indore, CountryCode: IND, District: Madhya Pradesh, Population: 1091674
+ID: 1038, Name: Bhopal, CountryCode: IND, District: Madhya Pradesh, Population: 1062771
+ID: 1039, Name: Ludhiana, CountryCode: IND, District: Punjab, Population: 1042740
+ID: 1040, Name: Vadodara (Baroda), CountryCode: IND, District: Gujarat, Population: 1031346
+ID: 1041, Name: Kalyan, CountryCode: IND, District: Maharashtra, Population: 1014557
+ID: 1042, Name: Madurai, CountryCode: IND, District: Tamil Nadu, Population: 977856
+ID: 1043, Name: Haora (Howrah), CountryCode: IND, District: West Bengali, Population: 950435
+ID: 1044, Name: Varanasi (Benares), CountryCode: IND, District: Uttar Pradesh, Population: 929270
+ID: 1045, Name: Patna, CountryCode: IND, District: Bihar, Population: 917243
+ID: 1046, Name: Srinagar, CountryCode: IND, District: Jammu and Kashmir, Population: 892506
+ID: 1047, Name: Agra, CountryCode: IND, District: Uttar Pradesh, Population: 891790
+ID: 1048, Name: Coimbatore, CountryCode: IND, District: Tamil Nadu, Population: 816321
+ID: 1049, Name: Thane (Thana), CountryCode: IND, District: Maharashtra, Population: 803389
+ID: 1050, Name: Allahabad, CountryCode: IND, District: Uttar Pradesh, Population: 792858
+ID: 1051, Name: Meerut, CountryCode: IND, District: Uttar Pradesh, Population: 753778
+ID: 1052, Name: Vishakhapatnam, CountryCode: IND, District: Andhra Pradesh, Population: 752037
+ID: 1053, Name: Jabalpur, CountryCode: IND, District: Madhya Pradesh, Population: 741927
+ID: 1054, Name: Amritsar, CountryCode: IND, District: Punjab, Population: 708835
+ID: 1055, Name: Faridabad, CountryCode: IND, District: Haryana, Population: 703592
+ID: 1056, Name: Vijayawada, CountryCode: IND, District: Andhra Pradesh, Population: 701827
+ID: 1057, Name: Gwalior, CountryCode: IND, District: Madhya Pradesh, Population: 690765
+ID: 1058, Name: Jodhpur, CountryCode: IND, District: Rajasthan, Population: 666279
+ID: 1059, Name: Nashik (Nasik), CountryCode: IND, District: Maharashtra, Population: 656925
+ID: 1060, Name: Hubli-Dharwad, CountryCode: IND, District: Karnataka, Population: 648298
+ID: 1061, Name: Solapur (Sholapur), CountryCode: IND, District: Maharashtra, Population: 604215
+ID: 1062, Name: Ranchi, CountryCode: IND, District: Jharkhand, Population: 599306
+ID: 1063, Name: Bareilly, CountryCode: IND, District: Uttar Pradesh, Population: 587211
+ID: 1064, Name: Guwahati (Gauhati), CountryCode: IND, District: Assam, Population: 584342
+ID: 1065, Name: Shambajinagar (Aurangabad), CountryCode: IND, District: Maharashtra, Population: 573272
+ID: 1066, Name: Cochin (Kochi), CountryCode: IND, District: Kerala, Population: 564589
+ID: 1067, Name: Rajkot, CountryCode: IND, District: Gujarat, Population: 559407
+ID: 1068, Name: Kota, CountryCode: IND, District: Rajasthan, Population: 537371
+ID: 1069, Name: Thiruvananthapuram (Trivandrum, CountryCode: IND, District: Kerala, Population: 524006
+ID: 1070, Name: Pimpri-Chinchwad, CountryCode: IND, District: Maharashtra, Population: 517083
+ID: 1071, Name: Jalandhar (Jullundur), CountryCode: IND, District: Punjab, Population: 509510
+ID: 1072, Name: Gorakhpur, CountryCode: IND, District: Uttar Pradesh, Population: 505566
+ID: 1073, Name: Chandigarh, CountryCode: IND, District: Chandigarh, Population: 504094
+ID: 1074, Name: Mysore, CountryCode: IND, District: Karnataka, Population: 480692
+ID: 1075, Name: Aligarh, CountryCode: IND, District: Uttar Pradesh, Population: 480520
+ID: 1076, Name: Guntur, CountryCode: IND, District: Andhra Pradesh, Population: 471051
+ID: 1077, Name: Jamshedpur, CountryCode: IND, District: Jharkhand, Population: 460577
+ID: 1078, Name: Ghaziabad, CountryCode: IND, District: Uttar Pradesh, Population: 454156
+ID: 1079, Name: Warangal, CountryCode: IND, District: Andhra Pradesh, Population: 447657
+ID: 1080, Name: Raipur, CountryCode: IND, District: Chhatisgarh, Population: 438639
+ID: 1081, Name: Moradabad, CountryCode: IND, District: Uttar Pradesh, Population: 429214
+ID: 1082, Name: Durgapur, CountryCode: IND, District: West Bengali, Population: 425836
+ID: 1083, Name: Amravati, CountryCode: IND, District: Maharashtra, Population: 421576
+ID: 1084, Name: Calicut (Kozhikode), CountryCode: IND, District: Kerala, Population: 419831
+ID: 1085, Name: Bikaner, CountryCode: IND, District: Rajasthan, Population: 416289
+ID: 1086, Name: Bhubaneswar, CountryCode: IND, District: Orissa, Population: 411542
+ID: 1087, Name: Kolhapur, CountryCode: IND, District: Maharashtra, Population: 406370
+ID: 1088, Name: Kataka (Cuttack), CountryCode: IND, District: Orissa, Population: 403418
+ID: 1089, Name: Ajmer, CountryCode: IND, District: Rajasthan, Population: 402700
+ID: 1090, Name: Bhavnagar, CountryCode: IND, District: Gujarat, Population: 402338
+ID: 1091, Name: Tiruchirapalli, CountryCode: IND, District: Tamil Nadu, Population: 387223
+ID: 1092, Name: Bhilai, CountryCode: IND, District: Chhatisgarh, Population: 386159
+ID: 1093, Name: Bhiwandi, CountryCode: IND, District: Maharashtra, Population: 379070
+ID: 1094, Name: Saharanpur, CountryCode: IND, District: Uttar Pradesh, Population: 374945
+ID: 1095, Name: Ulhasnagar, CountryCode: IND, District: Maharashtra, Population: 369077
+ID: 1096, Name: Salem, CountryCode: IND, District: Tamil Nadu, Population: 366712
+ID: 1097, Name: Ujjain, CountryCode: IND, District: Madhya Pradesh, Population: 362266
+ID: 1098, Name: Malegaon, CountryCode: IND, District: Maharashtra, Population: 342595
+ID: 1099, Name: Jamnagar, CountryCode: IND, District: Gujarat, Population: 341637
+ID: 1100, Name: Bokaro Steel City, CountryCode: IND, District: Jharkhand, Population: 333683
+ID: 1101, Name: Akola, CountryCode: IND, District: Maharashtra, Population: 328034
+ID: 1102, Name: Belgaum, CountryCode: IND, District: Karnataka, Population: 326399
+ID: 1103, Name: Rajahmundry, CountryCode: IND, District: Andhra Pradesh, Population: 324851
+ID: 1104, Name: Nellore, CountryCode: IND, District: Andhra Pradesh, Population: 316606
+ID: 1105, Name: Udaipur, CountryCode: IND, District: Rajasthan, Population: 308571
+ID: 1106, Name: New Bombay, CountryCode: IND, District: Maharashtra, Population: 307297
+ID: 1107, Name: Bhatpara, CountryCode: IND, District: West Bengali, Population: 304952
+ID: 1108, Name: Gulbarga, CountryCode: IND, District: Karnataka, Population: 304099
+ID: 1109, Name: New Delhi, CountryCode: IND, District: Delhi, Population: 301297
+ID: 1110, Name: Jhansi, CountryCode: IND, District: Uttar Pradesh, Population: 300850
+ID: 1111, Name: Gaya, CountryCode: IND, District: Bihar, Population: 291675
+ID: 1112, Name: Kakinada, CountryCode: IND, District: Andhra Pradesh, Population: 279980
+ID: 1113, Name: Dhule (Dhulia), CountryCode: IND, District: Maharashtra, Population: 278317
+ID: 1114, Name: Panihati, CountryCode: IND, District: West Bengali, Population: 275990
+ID: 1115, Name: Nanded (Nander), CountryCode: IND, District: Maharashtra, Population: 275083
+ID: 1116, Name: Mangalore, CountryCode: IND, District: Karnataka, Population: 273304
+ID: 1117, Name: Dehra Dun, CountryCode: IND, District: Uttaranchal, Population: 270159
+ID: 1118, Name: Kamarhati, CountryCode: IND, District: West Bengali, Population: 266889
+ID: 1119, Name: Davangere, CountryCode: IND, District: Karnataka, Population: 266082
+ID: 1120, Name: Asansol, CountryCode: IND, District: West Bengali, Population: 262188
+ID: 1121, Name: Bhagalpur, CountryCode: IND, District: Bihar, Population: 253225
+ID: 1122, Name: Bellary, CountryCode: IND, District: Karnataka, Population: 245391
+ID: 1123, Name: Barddhaman (Burdwan), CountryCode: IND, District: West Bengali, Population: 245079
+ID: 1124, Name: Rampur, CountryCode: IND, District: Uttar Pradesh, Population: 243742
+ID: 1125, Name: Jalgaon, CountryCode: IND, District: Maharashtra, Population: 242193
+ID: 1126, Name: Muzaffarpur, CountryCode: IND, District: Bihar, Population: 241107
+ID: 1127, Name: Nizamabad, CountryCode: IND, District: Andhra Pradesh, Population: 241034
+ID: 1128, Name: Muzaffarnagar, CountryCode: IND, District: Uttar Pradesh, Population: 240609
+ID: 1129, Name: Patiala, CountryCode: IND, District: Punjab, Population: 238368
+ID: 1130, Name: Shahjahanpur, CountryCode: IND, District: Uttar Pradesh, Population: 237713
+ID: 1131, Name: Kurnool, CountryCode: IND, District: Andhra Pradesh, Population: 236800
+ID: 1132, Name: Tiruppur (Tirupper), CountryCode: IND, District: Tamil Nadu, Population: 235661
+ID: 1133, Name: Rohtak, CountryCode: IND, District: Haryana, Population: 233400
+ID: 1134, Name: South Dum Dum, CountryCode: IND, District: West Bengali, Population: 232811
+ID: 1135, Name: Mathura, CountryCode: IND, District: Uttar Pradesh, Population: 226691
+ID: 1136, Name: Chandrapur, CountryCode: IND, District: Maharashtra, Population: 226105
+ID: 1137, Name: Barahanagar (Baranagar), CountryCode: IND, District: West Bengali, Population: 224821
+ID: 1138, Name: Darbhanga, CountryCode: IND, District: Bihar, Population: 218391
+ID: 1139, Name: Siliguri (Shiliguri), CountryCode: IND, District: West Bengali, Population: 216950
+ID: 1140, Name: Raurkela, CountryCode: IND, District: Orissa, Population: 215489
+ID: 1141, Name: Ambattur, CountryCode: IND, District: Tamil Nadu, Population: 215424
+ID: 1142, Name: Panipat, CountryCode: IND, District: Haryana, Population: 215218
+ID: 1143, Name: Firozabad, CountryCode: IND, District: Uttar Pradesh, Population: 215128
+ID: 1144, Name: Ichalkaranji, CountryCode: IND, District: Maharashtra, Population: 214950
+ID: 1145, Name: Jammu, CountryCode: IND, District: Jammu and Kashmir, Population: 214737
+ID: 1146, Name: Ramagundam, CountryCode: IND, District: Andhra Pradesh, Population: 214384
+ID: 1147, Name: Eluru, CountryCode: IND, District: Andhra Pradesh, Population: 212866
+ID: 1148, Name: Brahmapur, CountryCode: IND, District: Orissa, Population: 210418
+ID: 1149, Name: Alwar, CountryCode: IND, District: Rajasthan, Population: 205086
+ID: 1150, Name: Pondicherry, CountryCode: IND, District: Pondicherry, Population: 203065
+ID: 1151, Name: Thanjavur, CountryCode: IND, District: Tamil Nadu, Population: 202013
+ID: 1152, Name: Bihar Sharif, CountryCode: IND, District: Bihar, Population: 201323
+ID: 1153, Name: Tuticorin, CountryCode: IND, District: Tamil Nadu, Population: 199854
+ID: 1154, Name: Imphal, CountryCode: IND, District: Manipur, Population: 198535
+ID: 1155, Name: Latur, CountryCode: IND, District: Maharashtra, Population: 197408
+ID: 1156, Name: Sagar, CountryCode: IND, District: Madhya Pradesh, Population: 195346
+ID: 1157, Name: Farrukhabad-cum-Fatehgarh, CountryCode: IND, District: Uttar Pradesh, Population: 194567
+ID: 1158, Name: Sangli, CountryCode: IND, District: Maharashtra, Population: 193197
+ID: 1159, Name: Parbhani, CountryCode: IND, District: Maharashtra, Population: 190255
+ID: 1160, Name: Nagar Coil, CountryCode: IND, District: Tamil Nadu, Population: 190084
+ID: 1161, Name: Bijapur, CountryCode: IND, District: Karnataka, Population: 186939
+ID: 1162, Name: Kukatpalle, CountryCode: IND, District: Andhra Pradesh, Population: 185378
+ID: 1163, Name: Bally, CountryCode: IND, District: West Bengali, Population: 184474
+ID: 1164, Name: Bhilwara, CountryCode: IND, District: Rajasthan, Population: 183965
+ID: 1165, Name: Ratlam, CountryCode: IND, District: Madhya Pradesh, Population: 183375
+ID: 1166, Name: Avadi, CountryCode: IND, District: Tamil Nadu, Population: 183215
+ID: 1167, Name: Dindigul, CountryCode: IND, District: Tamil Nadu, Population: 182477
+ID: 1168, Name: Ahmadnagar, CountryCode: IND, District: Maharashtra, Population: 181339
+ID: 1169, Name: Bilaspur, CountryCode: IND, District: Chhatisgarh, Population: 179833
+ID: 1170, Name: Shimoga, CountryCode: IND, District: Karnataka, Population: 179258
+ID: 1171, Name: Kharagpur, CountryCode: IND, District: West Bengali, Population: 177989
+ID: 1172, Name: Mira Bhayandar, CountryCode: IND, District: Maharashtra, Population: 175372
+ID: 1173, Name: Vellore, CountryCode: IND, District: Tamil Nadu, Population: 175061
+ID: 1174, Name: Jalna, CountryCode: IND, District: Maharashtra, Population: 174985
+ID: 1175, Name: Burnpur, CountryCode: IND, District: West Bengali, Population: 174933
+ID: 1176, Name: Anantapur, CountryCode: IND, District: Andhra Pradesh, Population: 174924
+ID: 1177, Name: Allappuzha (Alleppey), CountryCode: IND, District: Kerala, Population: 174666
+ID: 1178, Name: Tirupati, CountryCode: IND, District: Andhra Pradesh, Population: 174369
+ID: 1179, Name: Karnal, CountryCode: IND, District: Haryana, Population: 173751
+ID: 1180, Name: Burhanpur, CountryCode: IND, District: Madhya Pradesh, Population: 172710
+ID: 1181, Name: Hisar (Hissar), CountryCode: IND, District: Haryana, Population: 172677
+ID: 1182, Name: Tiruvottiyur, CountryCode: IND, District: Tamil Nadu, Population: 172562
+ID: 1183, Name: Mirzapur-cum-Vindhyachal, CountryCode: IND, District: Uttar Pradesh, Population: 169336
+ID: 1184, Name: Secunderabad, CountryCode: IND, District: Andhra Pradesh, Population: 167461
+ID: 1185, Name: Nadiad, CountryCode: IND, District: Gujarat, Population: 167051
+ID: 1186, Name: Dewas, CountryCode: IND, District: Madhya Pradesh, Population: 164364
+ID: 1187, Name: Murwara (Katni), CountryCode: IND, District: Madhya Pradesh, Population: 163431
+ID: 1188, Name: Ganganagar, CountryCode: IND, District: Rajasthan, Population: 161482
+ID: 1189, Name: Vizianagaram, CountryCode: IND, District: Andhra Pradesh, Population: 160359
+ID: 1190, Name: Erode, CountryCode: IND, District: Tamil Nadu, Population: 159232
+ID: 1191, Name: Machilipatnam (Masulipatam), CountryCode: IND, District: Andhra Pradesh, Population: 159110
+ID: 1192, Name: Bhatinda (Bathinda), CountryCode: IND, District: Punjab, Population: 159042
+ID: 1193, Name: Raichur, CountryCode: IND, District: Karnataka, Population: 157551
+ID: 1194, Name: Agartala, CountryCode: IND, District: Tripura, Population: 157358
+ID: 1195, Name: Arrah (Ara), CountryCode: IND, District: Bihar, Population: 157082
+ID: 1196, Name: Satna, CountryCode: IND, District: Madhya Pradesh, Population: 156630
+ID: 1197, Name: Lalbahadur Nagar, CountryCode: IND, District: Andhra Pradesh, Population: 155500
+ID: 1198, Name: Aizawl, CountryCode: IND, District: Mizoram, Population: 155240
+ID: 1199, Name: Uluberia, CountryCode: IND, District: West Bengali, Population: 155172
+ID: 1200, Name: Katihar, CountryCode: IND, District: Bihar, Population: 154367
+ID: 1201, Name: Cuddalore, CountryCode: IND, District: Tamil Nadu, Population: 153086
+ID: 1202, Name: Hugli-Chinsurah, CountryCode: IND, District: West Bengali, Population: 151806
+ID: 1203, Name: Dhanbad, CountryCode: IND, District: Jharkhand, Population: 151789
+ID: 1204, Name: Raiganj, CountryCode: IND, District: West Bengali, Population: 151045
+ID: 1205, Name: Sambhal, CountryCode: IND, District: Uttar Pradesh, Population: 150869
+ID: 1206, Name: Durg, CountryCode: IND, District: Chhatisgarh, Population: 150645
+ID: 1207, Name: Munger (Monghyr), CountryCode: IND, District: Bihar, Population: 150112
+ID: 1208, Name: Kanchipuram, CountryCode: IND, District: Tamil Nadu, Population: 150100
+ID: 1209, Name: North Dum Dum, CountryCode: IND, District: West Bengali, Population: 149965
+ID: 1210, Name: Karimnagar, CountryCode: IND, District: Andhra Pradesh, Population: 148583
+ID: 1211, Name: Bharatpur, CountryCode: IND, District: Rajasthan, Population: 148519
+ID: 1212, Name: Sikar, CountryCode: IND, District: Rajasthan, Population: 148272
+ID: 1213, Name: Hardwar (Haridwar), CountryCode: IND, District: Uttaranchal, Population: 147305
+ID: 1214, Name: Dabgram, CountryCode: IND, District: West Bengali, Population: 147217
+ID: 1215, Name: Morena, CountryCode: IND, District: Madhya Pradesh, Population: 147124
+ID: 1216, Name: Noida, CountryCode: IND, District: Uttar Pradesh, Population: 146514
+ID: 1217, Name: Hapur, CountryCode: IND, District: Uttar Pradesh, Population: 146262
+ID: 1218, Name: Bhusawal, CountryCode: IND, District: Maharashtra, Population: 145143
+ID: 1219, Name: Khandwa, CountryCode: IND, District: Madhya Pradesh, Population: 145133
+ID: 1220, Name: Yamuna Nagar, CountryCode: IND, District: Haryana, Population: 144346
+ID: 1221, Name: Sonipat (Sonepat), CountryCode: IND, District: Haryana, Population: 143922
+ID: 1222, Name: Tenali, CountryCode: IND, District: Andhra Pradesh, Population: 143726
+ID: 1223, Name: Raurkela Civil Township, CountryCode: IND, District: Orissa, Population: 140408
+ID: 1224, Name: Kollam (Quilon), CountryCode: IND, District: Kerala, Population: 139852
+ID: 1225, Name: Kumbakonam, CountryCode: IND, District: Tamil Nadu, Population: 139483
+ID: 1226, Name: Ingraj Bazar (English Bazar), CountryCode: IND, District: West Bengali, Population: 139204
+ID: 1227, Name: Timkur, CountryCode: IND, District: Karnataka, Population: 138903
+ID: 1228, Name: Amroha, CountryCode: IND, District: Uttar Pradesh, Population: 137061
+ID: 1229, Name: Serampore, CountryCode: IND, District: West Bengali, Population: 137028
+ID: 1230, Name: Chapra, CountryCode: IND, District: Bihar, Population: 136877
+ID: 1231, Name: Pali, CountryCode: IND, District: Rajasthan, Population: 136842
+ID: 1232, Name: Maunath Bhanjan, CountryCode: IND, District: Uttar Pradesh, Population: 136697
+ID: 1233, Name: Adoni, CountryCode: IND, District: Andhra Pradesh, Population: 136182
+ID: 1234, Name: Jaunpur, CountryCode: IND, District: Uttar Pradesh, Population: 136062
+ID: 1235, Name: Tirunelveli, CountryCode: IND, District: Tamil Nadu, Population: 135825
+ID: 1236, Name: Bahraich, CountryCode: IND, District: Uttar Pradesh, Population: 135400
+ID: 1237, Name: Gadag Betigeri, CountryCode: IND, District: Karnataka, Population: 134051
+ID: 1238, Name: Proddatur, CountryCode: IND, District: Andhra Pradesh, Population: 133914
+ID: 1239, Name: Chittoor, CountryCode: IND, District: Andhra Pradesh, Population: 133462
+ID: 1240, Name: Barrackpur, CountryCode: IND, District: West Bengali, Population: 133265
+ID: 1241, Name: Bharuch (Broach), CountryCode: IND, District: Gujarat, Population: 133102
+ID: 1242, Name: Naihati, CountryCode: IND, District: West Bengali, Population: 132701
+ID: 1243, Name: Shillong, CountryCode: IND, District: Meghalaya, Population: 131719
+ID: 1244, Name: Sambalpur, CountryCode: IND, District: Orissa, Population: 131138
+ID: 1245, Name: Junagadh, CountryCode: IND, District: Gujarat, Population: 130484
+ID: 1246, Name: Rae Bareli, CountryCode: IND, District: Uttar Pradesh, Population: 129904
+ID: 1247, Name: Rewa, CountryCode: IND, District: Madhya Pradesh, Population: 128981
+ID: 1248, Name: Gurgaon, CountryCode: IND, District: Haryana, Population: 128608
+ID: 1249, Name: Khammam, CountryCode: IND, District: Andhra Pradesh, Population: 127992
+ID: 1250, Name: Bulandshahr, CountryCode: IND, District: Uttar Pradesh, Population: 127201
+ID: 1251, Name: Navsari, CountryCode: IND, District: Gujarat, Population: 126089
+ID: 1252, Name: Malkajgiri, CountryCode: IND, District: Andhra Pradesh, Population: 126066
+ID: 1253, Name: Midnapore (Medinipur), CountryCode: IND, District: West Bengali, Population: 125498
+ID: 1254, Name: Miraj, CountryCode: IND, District: Maharashtra, Population: 125407
+ID: 1255, Name: Raj Nandgaon, CountryCode: IND, District: Chhatisgarh, Population: 125371
+ID: 1256, Name: Alandur, CountryCode: IND, District: Tamil Nadu, Population: 125244
+ID: 1257, Name: Puri, CountryCode: IND, District: Orissa, Population: 125199
+ID: 1258, Name: Navadwip, CountryCode: IND, District: West Bengali, Population: 125037
+ID: 1259, Name: Sirsa, CountryCode: IND, District: Haryana, Population: 125000
+ID: 1260, Name: Korba, CountryCode: IND, District: Chhatisgarh, Population: 124501
+ID: 1261, Name: Faizabad, CountryCode: IND, District: Uttar Pradesh, Population: 124437
+ID: 1262, Name: Etawah, CountryCode: IND, District: Uttar Pradesh, Population: 124072
+ID: 1263, Name: Pathankot, CountryCode: IND, District: Punjab, Population: 123930
+ID: 1264, Name: Gandhinagar, CountryCode: IND, District: Gujarat, Population: 123359
+ID: 1265, Name: Palghat (Palakkad), CountryCode: IND, District: Kerala, Population: 123289
+ID: 1266, Name: Veraval, CountryCode: IND, District: Gujarat, Population: 123000
+ID: 1267, Name: Hoshiarpur, CountryCode: IND, District: Punjab, Population: 122705
+ID: 1268, Name: Ambala, CountryCode: IND, District: Haryana, Population: 122596
+ID: 1269, Name: Sitapur, CountryCode: IND, District: Uttar Pradesh, Population: 121842
+ID: 1270, Name: Bhiwani, CountryCode: IND, District: Haryana, Population: 121629
+ID: 1271, Name: Cuddapah, CountryCode: IND, District: Andhra Pradesh, Population: 121463
+ID: 1272, Name: Bhimavaram, CountryCode: IND, District: Andhra Pradesh, Population: 121314
+ID: 1273, Name: Krishnanagar, CountryCode: IND, District: West Bengali, Population: 121110
+ID: 1274, Name: Chandannagar, CountryCode: IND, District: West Bengali, Population: 120378
+ID: 1275, Name: Mandya, CountryCode: IND, District: Karnataka, Population: 120265
+ID: 1276, Name: Dibrugarh, CountryCode: IND, District: Assam, Population: 120127
+ID: 1277, Name: Nandyal, CountryCode: IND, District: Andhra Pradesh, Population: 119813
+ID: 1278, Name: Balurghat, CountryCode: IND, District: West Bengali, Population: 119796
+ID: 1279, Name: Neyveli, CountryCode: IND, District: Tamil Nadu, Population: 118080
+ID: 1280, Name: Fatehpur, CountryCode: IND, District: Uttar Pradesh, Population: 117675
+ID: 1281, Name: Mahbubnagar, CountryCode: IND, District: Andhra Pradesh, Population: 116833
+ID: 1282, Name: Budaun, CountryCode: IND, District: Uttar Pradesh, Population: 116695
+ID: 1283, Name: Porbandar, CountryCode: IND, District: Gujarat, Population: 116671
+ID: 1284, Name: Silchar, CountryCode: IND, District: Assam, Population: 115483
+ID: 1285, Name: Berhampore (Baharampur), CountryCode: IND, District: West Bengali, Population: 115144
+ID: 1286, Name: Purnea (Purnia), CountryCode: IND, District: Jharkhand, Population: 114912
+ID: 1287, Name: Bankura, CountryCode: IND, District: West Bengali, Population: 114876
+ID: 1288, Name: Rajapalaiyam, CountryCode: IND, District: Tamil Nadu, Population: 114202
+ID: 1289, Name: Titagarh, CountryCode: IND, District: West Bengali, Population: 114085
+ID: 1290, Name: Halisahar, CountryCode: IND, District: West Bengali, Population: 114028
+ID: 1291, Name: Hathras, CountryCode: IND, District: Uttar Pradesh, Population: 113285
+ID: 1292, Name: Bhir (Bid), CountryCode: IND, District: Maharashtra, Population: 112434
+ID: 1293, Name: Pallavaram, CountryCode: IND, District: Tamil Nadu, Population: 111866
+ID: 1294, Name: Anand, CountryCode: IND, District: Gujarat, Population: 110266
+ID: 1295, Name: Mango, CountryCode: IND, District: Jharkhand, Population: 110024
+ID: 1296, Name: Santipur, CountryCode: IND, District: West Bengali, Population: 109956
+ID: 1297, Name: Bhind, CountryCode: IND, District: Madhya Pradesh, Population: 109755
+ID: 1298, Name: Gondiya, CountryCode: IND, District: Maharashtra, Population: 109470
+ID: 1299, Name: Tiruvannamalai, CountryCode: IND, District: Tamil Nadu, Population: 109196
+ID: 1300, Name: Yeotmal (Yavatmal), CountryCode: IND, District: Maharashtra, Population: 108578
+ID: 1301, Name: Kulti-Barakar, CountryCode: IND, District: West Bengali, Population: 108518
+ID: 1302, Name: Moga, CountryCode: IND, District: Punjab, Population: 108304
+ID: 1303, Name: Shivapuri, CountryCode: IND, District: Madhya Pradesh, Population: 108277
+ID: 1304, Name: Bidar, CountryCode: IND, District: Karnataka, Population: 108016
+ID: 1305, Name: Guntakal, CountryCode: IND, District: Andhra Pradesh, Population: 107592
+ID: 1306, Name: Unnao, CountryCode: IND, District: Uttar Pradesh, Population: 107425
+ID: 1307, Name: Barasat, CountryCode: IND, District: West Bengali, Population: 107365
+ID: 1308, Name: Tambaram, CountryCode: IND, District: Tamil Nadu, Population: 107187
+ID: 1309, Name: Abohar, CountryCode: IND, District: Punjab, Population: 107163
+ID: 1310, Name: Pilibhit, CountryCode: IND, District: Uttar Pradesh, Population: 106605
+ID: 1311, Name: Valparai, CountryCode: IND, District: Tamil Nadu, Population: 106523
+ID: 1312, Name: Gonda, CountryCode: IND, District: Uttar Pradesh, Population: 106078
+ID: 1313, Name: Surendranagar, CountryCode: IND, District: Gujarat, Population: 105973
+ID: 1314, Name: Qutubullapur, CountryCode: IND, District: Andhra Pradesh, Population: 105380
+ID: 1315, Name: Beawar, CountryCode: IND, District: Rajasthan, Population: 105363
+ID: 1316, Name: Hindupur, CountryCode: IND, District: Andhra Pradesh, Population: 104651
+ID: 1317, Name: Gandhidham, CountryCode: IND, District: Gujarat, Population: 104585
+ID: 1318, Name: Haldwani-cum-Kathgodam, CountryCode: IND, District: Uttaranchal, Population: 104195
+ID: 1319, Name: Tellicherry (Thalassery), CountryCode: IND, District: Kerala, Population: 103579
+ID: 1320, Name: Wardha, CountryCode: IND, District: Maharashtra, Population: 102985
+ID: 1321, Name: Rishra, CountryCode: IND, District: West Bengali, Population: 102649
+ID: 1322, Name: Bhuj, CountryCode: IND, District: Gujarat, Population: 102176
+ID: 1323, Name: Modinagar, CountryCode: IND, District: Uttar Pradesh, Population: 101660
+ID: 1324, Name: Gudivada, CountryCode: IND, District: Andhra Pradesh, Population: 101656
+ID: 1325, Name: Basirhat, CountryCode: IND, District: West Bengali, Population: 101409
+ID: 1326, Name: Uttarpara-Kotrung, CountryCode: IND, District: West Bengali, Population: 100867
+ID: 1327, Name: Ongole, CountryCode: IND, District: Andhra Pradesh, Population: 100836
+ID: 1328, Name: North Barrackpur, CountryCode: IND, District: West Bengali, Population: 100513
+ID: 1329, Name: Guna, CountryCode: IND, District: Madhya Pradesh, Population: 100490
+ID: 1330, Name: Haldia, CountryCode: IND, District: West Bengali, Population: 100347
+ID: 1331, Name: Habra, CountryCode: IND, District: West Bengali, Population: 100223
+ID: 1332, Name: Kanchrapara, CountryCode: IND, District: West Bengali, Population: 100194
+ID: 1333, Name: Tonk, CountryCode: IND, District: Rajasthan, Population: 100079
+ID: 1334, Name: Champdani, CountryCode: IND, District: West Bengali, Population: 98818
+ID: 1335, Name: Orai, CountryCode: IND, District: Uttar Pradesh, Population: 98640
+ID: 1336, Name: Pudukkottai, CountryCode: IND, District: Tamil Nadu, Population: 98619
+ID: 1337, Name: Sasaram, CountryCode: IND, District: Bihar, Population: 98220
+ID: 1338, Name: Hazaribag, CountryCode: IND, District: Jharkhand, Population: 97712
+ID: 1339, Name: Palayankottai, CountryCode: IND, District: Tamil Nadu, Population: 97662
+ID: 1340, Name: Banda, CountryCode: IND, District: Uttar Pradesh, Population: 97227
+ID: 1341, Name: Godhra, CountryCode: IND, District: Gujarat, Population: 96813
+ID: 1342, Name: Hospet, CountryCode: IND, District: Karnataka, Population: 96322
+ID: 1343, Name: Ashoknagar-Kalyangarh, CountryCode: IND, District: West Bengali, Population: 96315
+ID: 1344, Name: Achalpur, CountryCode: IND, District: Maharashtra, Population: 96216
+ID: 1345, Name: Patan, CountryCode: IND, District: Gujarat, Population: 96109
+ID: 1346, Name: Mandasor, CountryCode: IND, District: Madhya Pradesh, Population: 95758
+ID: 1347, Name: Damoh, CountryCode: IND, District: Madhya Pradesh, Population: 95661
+ID: 1348, Name: Satara, CountryCode: IND, District: Maharashtra, Population: 95133
+ID: 1349, Name: Meerut Cantonment, CountryCode: IND, District: Uttar Pradesh, Population: 94876
+ID: 1350, Name: Dehri, CountryCode: IND, District: Bihar, Population: 94526
+ID: 1351, Name: Delhi Cantonment, CountryCode: IND, District: Delhi, Population: 94326
+ID: 1352, Name: Chhindwara, CountryCode: IND, District: Madhya Pradesh, Population: 93731
+ID: 1353, Name: Bansberia, CountryCode: IND, District: West Bengali, Population: 93447
+ID: 1354, Name: Nagaon, CountryCode: IND, District: Assam, Population: 93350
+ID: 1355, Name: Kanpur Cantonment, CountryCode: IND, District: Uttar Pradesh, Population: 93109
+ID: 1356, Name: Vidisha, CountryCode: IND, District: Madhya Pradesh, Population: 92917
+ID: 1357, Name: Bettiah, CountryCode: IND, District: Bihar, Population: 92583
+ID: 1358, Name: Purulia, CountryCode: IND, District: Jharkhand, Population: 92574
+ID: 1359, Name: Hassan, CountryCode: IND, District: Karnataka, Population: 90803
+ID: 1360, Name: Ambala Sadar, CountryCode: IND, District: Haryana, Population: 90712
+ID: 1361, Name: Baidyabati, CountryCode: IND, District: West Bengali, Population: 90601
+ID: 1362, Name: Morvi, CountryCode: IND, District: Gujarat, Population: 90357
+ID: 1363, Name: Raigarh, CountryCode: IND, District: Chhatisgarh, Population: 89166
+ID: 1364, Name: Vejalpur, CountryCode: IND, District: Gujarat, Population: 89053
+ID: 4080, Name: Chennai, CountryCode: IND, District: TamilNadu, Population: 200000
+ID: 5000, Name: Bangalore, CountryCode: IND, District: Karnataka, Population: 20000
+ID: 5001, Name: Channai, CountryCode: IND, District: TamilNadu, Population: 200000
+ID: 5002, Name: Thiruvanathapuram, CountryCode: IND, District: Kerala, Population: 800000
+ID: 6000, Name: Bangalore, CountryCode: IND, District: Karnataka, Population: 400000
+ID: 6001, Name: Channai, CountryCode: IND, District: TamilNadu, Population: 200000
+ID: 6002, Name: Thiruvanathapuram, CountryCode: IND, District: Kerala, Population: 800000
+Enter City Country Code :pak
+ID: 2822, Name: Karachi, CountryCode: PAK, District: Sindh, Population: 9269265
+ID: 2823, Name: Lahore, CountryCode: PAK, District: Punjab, Population: 5063499
+ID: 2824, Name: Faisalabad, CountryCode: PAK, District: Punjab, Population: 1977246
+ID: 2825, Name: Rawalpindi, CountryCode: PAK, District: Punjab, Population: 1406214
+ID: 2826, Name: Multan, CountryCode: PAK, District: Punjab, Population: 1182441
+ID: 2827, Name: Hyderabad, CountryCode: PAK, District: Sindh, Population: 1151274
+ID: 2828, Name: Gujranwala, CountryCode: PAK, District: Punjab, Population: 1124749
+ID: 2829, Name: Peshawar, CountryCode: PAK, District: Nothwest Border Prov, Population: 988005
+ID: 2830, Name: Quetta, CountryCode: PAK, District: Baluchistan, Population: 560307
+ID: 2831, Name: Islamabad, CountryCode: PAK, District: Islamabad, Population: 524500
+ID: 2832, Name: Sargodha, CountryCode: PAK, District: Punjab, Population: 455360
+ID: 2833, Name: Sialkot, CountryCode: PAK, District: Punjab, Population: 417597
+ID: 2834, Name: Bahawalpur, CountryCode: PAK, District: Punjab, Population: 403408
+ID: 2835, Name: Sukkur, CountryCode: PAK, District: Sindh, Population: 329176
+ID: 2836, Name: Jhang, CountryCode: PAK, District: Punjab, Population: 292214
+ID: 2837, Name: Sheikhupura, CountryCode: PAK, District: Punjab, Population: 271875
+ID: 2838, Name: Larkana, CountryCode: PAK, District: Sindh, Population: 270366
+ID: 2839, Name: Gujrat, CountryCode: PAK, District: Punjab, Population: 250121
+ID: 2840, Name: Mardan, CountryCode: PAK, District: Nothwest Border Prov, Population: 244511
+ID: 2841, Name: Kasur, CountryCode: PAK, District: Punjab, Population: 241649
+ID: 2842, Name: Rahim Yar Khan, CountryCode: PAK, District: Punjab, Population: 228479
+ID: 2843, Name: Sahiwal, CountryCode: PAK, District: Punjab, Population: 207388
+ID: 2844, Name: Okara, CountryCode: PAK, District: Punjab, Population: 200901
+ID: 2845, Name: Wah, CountryCode: PAK, District: Punjab, Population: 198400
+ID: 2846, Name: Dera Ghazi Khan, CountryCode: PAK, District: Punjab, Population: 188100
+ID: 2847, Name: Mirpur Khas, CountryCode: PAK, District: Sind, Population: 184500
+ID: 2848, Name: Nawabshah, CountryCode: PAK, District: Sind, Population: 183100
+ID: 2849, Name: Mingora, CountryCode: PAK, District: Nothwest Border Prov, Population: 174500
+ID: 2850, Name: Chiniot, CountryCode: PAK, District: Punjab, Population: 169300
+ID: 2851, Name: Kamoke, CountryCode: PAK, District: Punjab, Population: 151000
+ID: 2852, Name: Mandi Burewala, CountryCode: PAK, District: Punjab, Population: 149900
+ID: 2853, Name: Jhelum, CountryCode: PAK, District: Punjab, Population: 145800
+ID: 2854, Name: Sadiqabad, CountryCode: PAK, District: Punjab, Population: 141500
+ID: 2855, Name: Jacobabad, CountryCode: PAK, District: Sind, Population: 137700
+ID: 2856, Name: Shikarpur, CountryCode: PAK, District: Sind, Population: 133300
+ID: 2857, Name: Khanewal, CountryCode: PAK, District: Punjab, Population: 133000
+ID: 2858, Name: Hafizabad, CountryCode: PAK, District: Punjab, Population: 130200
+ID: 2859, Name: Kohat, CountryCode: PAK, District: Nothwest Border Prov, Population: 125300
+ID: 2860, Name: Muzaffargarh, CountryCode: PAK, District: Punjab, Population: 121600
+ID: 2861, Name: Khanpur, CountryCode: PAK, District: Punjab, Population: 117800
+ID: 2862, Name: Gojra, CountryCode: PAK, District: Punjab, Population: 115000
+ID: 2863, Name: Bahawalnagar, CountryCode: PAK, District: Punjab, Population: 109600
+ID: 2864, Name: Muridke, CountryCode: PAK, District: Punjab, Population: 108600
+ID: 2865, Name: Pak Pattan, CountryCode: PAK, District: Punjab, Population: 107800
+ID: 2866, Name: Abottabad, CountryCode: PAK, District: Nothwest Border Prov, Population: 106000
+ID: 2867, Name: Tando Adam, CountryCode: PAK, District: Sind, Population: 103400
+ID: 2868, Name: Jaranwala, CountryCode: PAK, District: Punjab, Population: 103300
+ID: 2869, Name: Khairpur, CountryCode: PAK, District: Sind, Population: 102200
+ID: 2870, Name: Chishtian Mandi, CountryCode: PAK, District: Punjab, Population: 101700
+ID: 2871, Name: Daska, CountryCode: PAK, District: Punjab, Population: 101500
+ID: 2872, Name: Dadu, CountryCode: PAK, District: Sind, Population: 98600
+ID: 2873, Name: Mandi Bahauddin, CountryCode: PAK, District: Punjab, Population: 97300
+ID: 2874, Name: Ahmadpur East, CountryCode: PAK, District: Punjab, Population: 96000
+ID: 2875, Name: Kamalia, CountryCode: PAK, District: Punjab, Population: 95300
+ID: 2876, Name: Khuzdar, CountryCode: PAK, District: Baluchistan, Population: 93100
+ID: 2877, Name: Vihari, CountryCode: PAK, District: Punjab, Population: 92300
+ID: 2878, Name: Dera Ismail Khan, CountryCode: PAK, District: Nothwest Border Prov, Population: 90400
+ID: 2879, Name: Wazirabad, CountryCode: PAK, District: Punjab, Population: 89700
+ID: 2880, Name: Nowshera, CountryCode: PAK, District: Nothwest Border Prov, Population: 89400
+Enter City Country Code :exit

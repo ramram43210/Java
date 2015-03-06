@@ -1,0 +1,7 @@
+arrayList : [Ram, Dave, Peter, Julia, Akram]
+size : 5
+isEmpty : false
+
+After list is cleared :[]
+size : 0
+isEmpty : true

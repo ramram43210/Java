@@ -1,0 +1,12 @@
+treeMap : {10=Cat, 20=Eagle, 30=Apple, 40=Ball, 50=Dog}
+
+sortedMap : {30=Apple, 40=Ball, 50=Dog}
+
+set : [30, 40, 50]
+
+-----------------------
+Key | value
+-----------------------
+30   |  Apple
+40   |  Ball
+50   |  Dog

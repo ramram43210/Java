@@ -1,0 +1,2 @@
+linkedList : [1000, 2000]
+hashSet : [1000, 2000]

@@ -1,0 +1,2 @@
+returnValue : 0
+STUDENTS database has been Droped

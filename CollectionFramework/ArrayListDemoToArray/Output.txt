@@ -1,0 +1,18 @@
+arrayList : [Ram, Dave, Peter, Julia, Akram]
+
+Ram
+Dave
+Peter
+Julia
+Akram
+
+------------------------------------------------
+
+
+arrayList : [Ram, Dave, Peter, Julia, Akram]
+
+Ram
+Dave
+Peter
+Julia
+Akram

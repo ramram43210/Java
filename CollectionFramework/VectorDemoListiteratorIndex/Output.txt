@@ -1,0 +1,26 @@
+To move forward direction enter 'f' . To move reverse direction enter 'r'
+f
+vector  : [10, 20, 30, 40, 50]
+
+Forward direction ---
+30
+40
+50
+
+-------------------------------------------------------------------------------
+
+To move forward direction enter 'f' . To move reverse direction enter 'r'
+r
+vector  : [10, 20, 30, 40, 50]
+
+Reverse direction ---
+20
+10
+
+-------------------------------------------------------------------------------
+
+To move forward direction enter 'f' . To move reverse direction enter 'r'
+ko
+vector  : [10, 20, 30, 40, 50]
+
+Please enter 'f' or 'r'

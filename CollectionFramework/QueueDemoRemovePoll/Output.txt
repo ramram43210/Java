@@ -1,0 +1,7 @@
+queue : [200, 300, 400, 500]
+
+removedElement : 200
+queue : [300, 400, 500]
+
+removedElement : 300
+queue : [400, 500]

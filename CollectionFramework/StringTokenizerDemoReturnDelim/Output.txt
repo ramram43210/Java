@@ -1,0 +1,22 @@
+If you want to return demiliter as a token then enter true else enter false : 
+true
+Total Token Count :7
+
+Token 1 : Peter
+Token 2 : &
+Token 3 : is
+Token 4 : &
+Token 5 : playing
+Token 6 : &
+Token 7 : football
+
+---------------------------------------------------------------------------------
+
+If you want to return demiliter as a token then enter true else enter false : 
+false
+Total Token Count :4
+
+Token 1 : Peter
+Token 2 : is
+Token 3 : playing
+Token 4 : football

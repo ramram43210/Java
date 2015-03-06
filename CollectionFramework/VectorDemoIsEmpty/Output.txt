@@ -1,0 +1,5 @@
+vector  : []
+isEmpty  : true
+
+vector  : [10, 20]
+isEmpty  : false

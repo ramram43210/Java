@@ -1,0 +1,5 @@
+treeSet : [10, 20, 30, 40, 50]
+
+higher(32) : 40
+higher(16) : 20
+higher(55) : null

@@ -1,0 +1,4 @@
+deque : [2000, 5000, 10000]
+
+isRemoved : true
+deque : [2000, 10000]

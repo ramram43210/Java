@@ -1,0 +1,11 @@
+Total number of columns : 5
+
+ColumnName : ID,ColumnType : INT,ColumnDisplaySize : 11
+
+ColumnName : Name,ColumnType : CHAR,ColumnDisplaySize : 35
+
+ColumnName : CountryCode,ColumnType : CHAR,ColumnDisplaySize : 3
+
+ColumnName : District,ColumnType : CHAR,ColumnDisplaySize : 20
+
+ColumnName : Population,ColumnType : INT,ColumnDisplaySize : 11

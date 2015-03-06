@@ -1,0 +1,5 @@
+treeMap : {10=Cat, 20=Ball, 30=Apple, 40=Ball, 50=Dog}
+
+floorKey(24) : 20
+floorKey(30) : 30
+floorKey(8) : null

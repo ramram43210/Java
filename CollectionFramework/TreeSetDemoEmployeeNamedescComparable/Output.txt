@@ -1,0 +1,24 @@
+Employee [name=Balu, age=10, salary=40000] is going to be add in treeSet
+CompareTo method has been called to arrange the employee objects in descending order based on the Name, this.getName()= Balu, employee.getName()=Balu
+
+Employee [name=Ajay, age=20, salary=80000] is going to be add in treeSet
+CompareTo method has been called to arrange the employee objects in descending order based on the Name, this.getName()= Ajay, employee.getName()=Balu
+
+Employee [name=Carol, age=30, salary=150000] is going to be add in treeSet
+CompareTo method has been called to arrange the employee objects in descending order based on the Name, this.getName()= Carol, employee.getName()=Balu
+
+treeSet : [Employee [name=Carol, age=30, salary=150000], Employee [name=Balu, age=10, salary=40000], Employee [name=Ajay, age=20, salary=80000]]
+
+--------------------------------------------
+Employee Name : Carol
+Employee Age : 30
+Employee Salary :150000
+--------------------------------------------
+Employee Name : Balu
+Employee Age : 10
+Employee Salary :40000
+--------------------------------------------
+Employee Name : Ajay
+Employee Age : 20
+Employee Salary :80000
+--------------------------------------------

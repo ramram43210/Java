@@ -1,0 +1,5 @@
+ArrayList : [Ram, Dave, Julia, Dave, Akram, Dave, Steve]
+
+Index position of 'Julia' : 2
+Index position of 'Dave' using indexOf method : 1
+Index position of 'Dave' using lastIndexOf method : 5

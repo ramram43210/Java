@@ -1,0 +1,4 @@
+deque : [200, 300, 200]
+
+is 300 Exist :  true
+is 10000 Exist : false

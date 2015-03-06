@@ -1,0 +1,3 @@
+hashtable : {}
+
+hashtable : {3=Cat, 2=Ball, 1=Apple}

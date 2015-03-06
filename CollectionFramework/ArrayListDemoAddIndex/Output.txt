@@ -1,0 +1,8 @@
+ArrayList : [Ram, Dave, Peter]
+ArrayList : [Ram, Dave, Stephan, Peter]
+
+-------------------------------------------
+
+List : [Ram, Dave, Peter]
+Set : [Julia, Akram]
+List : [Ram, Julia, Akram, Dave, Peter]

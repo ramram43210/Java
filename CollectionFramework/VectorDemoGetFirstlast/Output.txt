@@ -1,0 +1,4 @@
+vector  : [10, 20, 30, 40, 50]
+
+firstElement : 10
+lastElement : 50

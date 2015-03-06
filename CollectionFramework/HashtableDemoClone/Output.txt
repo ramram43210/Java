@@ -1,0 +1,5 @@
+hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}
+
+Object class name : java.util.Hashtable
+
+Cloned Hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}

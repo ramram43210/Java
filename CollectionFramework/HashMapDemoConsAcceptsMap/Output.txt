@@ -1,0 +1,3 @@
+treeMap : {1=Apple, 2=Ball, 3=Cat}
+
+hashMap : {1=Apple, 2=Ball, 3=Cat}

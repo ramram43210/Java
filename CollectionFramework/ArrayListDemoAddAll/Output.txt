@@ -1,0 +1,10 @@
+arrayList 1 : [Ram, Dave, Peter]
+ArrayList 2 : [Julia, Akram]
+After adding ArrayList2 collection elements to the arrayList1 collection 
+arrayList 1 : [Ram, Dave, Peter, Julia, Akram]
+
+-----------------------------------------------------------------------------
+
+List : [Ram, Dave, Peter]
+Set : [Julia, Akram]
+List : [Ram, Dave, Peter, Julia, Akram]

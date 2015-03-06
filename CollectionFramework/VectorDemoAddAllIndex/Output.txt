@@ -1,0 +1,7 @@
+vector  : [10, 20, 30]
+
+arrayList  : [400, 500]
+
+isAdded : true
+vector  : [10, 20, 400, 500, 30]
+

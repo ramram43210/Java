@@ -1,0 +1,6 @@
+linkedList : [Ram, Dave, Peter, Julia, Akram]
+
+RemoveList : [Dave, Peter]
+
+linkedList After removing elements which are present in the removeList : [Ram, Julia, Akram]
+

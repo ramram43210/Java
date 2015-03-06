@@ -1,0 +1,4 @@
+hashSet: [Rohit, Dave, Phil, Peter, Virat]
+
+is 'Peter' Exist : true
+is 'Juli' Exist : false

@@ -1,0 +1,17 @@
+linkedHashSet : [Employee [name=John, age=32, salary=40000], Employee [name=David, age=42, salary=80000], Employee [name=Peter, age=52, salary=150000]]
+
+-------------------------------------
+Employee [name=John, age=32, salary=40000]
+Name : John
+Age : 32
+Salary : 40000
+-------------------------------------
+Employee [name=David, age=42, salary=80000]
+Name : David
+Age : 42
+Salary : 80000
+-------------------------------------
+Employee [name=Peter, age=52, salary=150000]
+Name : Peter
+Age : 52
+Salary : 150000

@@ -1,0 +1,3 @@
+CREATE TABLE REGISTRATION (id INT not NULL,  first VARCHAR(255),  last VARCHAR(255),  age INT,  PRIMARY KEY ( id ))
+returnValue : 0
+Table REGISTRATION has been created

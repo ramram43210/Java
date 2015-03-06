@@ -1,0 +1,6 @@
+linkedList : [1, 2, 3, 4, 5]
+
+RetainList : [3, 4]
+
+linkedList After retaining elements which are present in the retainList : [3, 4]
+

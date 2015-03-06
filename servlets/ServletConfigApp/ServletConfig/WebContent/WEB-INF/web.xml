@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" metadata-complete="true" version="3.0">
+  <display-name>ServletConfigServlet</display-name>
+  <description>
+        This is a simple web application with a source code organization
+        based on the recommendations of the Application Developer's Guide.
+    </description>
+  <servlet>
+    <servlet-name>ServletConfigServlet</servlet-name>
+    <servlet-class>ServletConfigServlet</servlet-class>
+    
+     <init-param>  
+      <param-name>driverName</param-name>  
+      <param-value>oracle.jdbc.driver.OracleDriver</param-value>  
+    </init-param>
+    
+     <init-param>  
+      <param-name>username</param-name>  
+      <param-value>ram</param-value>  
+    </init-param>
+    
+    <init-param>  
+      <param-name>password</param-name>  
+      <param-value>ram</param-value>  
+    </init-param>   
+    
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>ServletConfigServlet</servlet-name>
+    <url-pattern>/servletConfig</url-pattern>
+  </servlet-mapping>
+</web-app>

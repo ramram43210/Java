@@ -1,0 +1,6 @@
+treeMap : {10=Cat, 20=Eagle, 30=Apple, 40=Ball, 50=Dog}
+
+navigableMap [fromInclusive and toInclusive are both false] : {20=Eagle, 30=Apple}
+
+navigableMap [fromInclusive and toInclusive are both true] : {10=Cat, 20=Eagle, 30=Apple, 40=Ball}
+

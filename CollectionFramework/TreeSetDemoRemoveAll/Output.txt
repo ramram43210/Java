@@ -1,0 +1,7 @@
+treeSet : [20, 30, 40, 100, 200]
+
+linkedList : [100, 200]
+
+isRemoved : true
+treeSet : [20, 30, 40]
+

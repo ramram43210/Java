@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://java.sun.com/xml/ns/javaee" 
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" metadata-complete="true" version="3.0">
+  <display-name>HttpSessionAttributeListenerDemo</display-name>
+  <description>
+        This is a simple web application with a source code organization
+        based on the recommendations of the Application Developer's Guide.
+    </description>
+  <servlet>
+    <servlet-name>HttpSessionAttributeTestServlet</servlet-name>
+    <servlet-class>HttpSessionAttributeTestServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>HttpSessionAttributeTestServlet</servlet-name>
+    <url-pattern>/listenerTest</url-pattern>
+  </servlet-mapping>
+  <listener>
+    <listener-class>MyHttpSessionAttributeListener</listener-class>
+  </listener>
+</web-app>

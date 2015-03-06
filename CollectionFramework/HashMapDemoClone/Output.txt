@@ -1,0 +1,4 @@
+hashMap : {1=Apple, 2=Ball, 3=Cat}
+
+Object class name : java.util.HashMap
+Cloned HashMap : {1=Apple, 2=Ball, 3=Cat}

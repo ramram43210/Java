@@ -1,0 +1,13 @@
+vector  : [10, 20, 30, 40]
+
+Forward direction ---
+10
+20
+30
+40
+
+Reverse direction ---
+40
+30
+20
+10

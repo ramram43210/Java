@@ -1,0 +1,119 @@
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class JDBCStoreFileDemo
+{
+	// JDBC driver name and database URL
+	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+	static final String DB_URL = "jdbc:mysql://localhost:3306/world";
+
+	// Database credentials
+	static final String USERNAME = "root";
+	static final String PASSWORD = "root";
+
+	public static void main(String[] args)
+	{
+		JDBCStoreFileDemo jdbcStoreFileDemo = new JDBCStoreFileDemo();
+		jdbcStoreFileDemo.storeFile();
+	}
+
+	private void storeFile()
+	{
+		Connection connection = null;
+		PreparedStatement preparedStatement = null;
+		FileReader fileReader = null;
+		try
+		{
+			/*
+			 * Register the JDBC driver in DriverManager
+			 */
+
+			Class.forName(JDBC_DRIVER);
+
+			/*
+			 * Establish connection to the Database using DriverManager
+			 */
+
+			connection = DriverManager
+					.getConnection(DB_URL, USERNAME, PASSWORD);
+
+			String sql = "insert into CITY_HISTORY values(?,?,?);";
+
+			preparedStatement = connection.prepareStatement(sql);
+
+			File file = new File("D:/Downloads/Newyork History.txt");
+			fileReader = new FileReader(file);
+
+			preparedStatement.setInt(1, 1);
+			preparedStatement.setString(2, file.getName());
+			preparedStatement.setCharacterStream(3, fileReader,
+					(int) file.length());
+
+			int numberOfRowsInserted = preparedStatement.executeUpdate();
+
+			System.out
+					.println("numberOfRowsInserted : " + numberOfRowsInserted);
+
+		}
+		catch (SQLException se)
+		{
+
+			se.printStackTrace();
+		}
+		catch (ClassNotFoundException e)
+		{
+			e.printStackTrace();
+		}
+		catch (Exception e)
+		{
+			e.printStackTrace();
+		}
+		finally
+		{
+			/*
+			 * finally block used to close resources
+			 */
+			try
+			{
+				if (preparedStatement != null)
+				{
+					preparedStatement.close();
+				}
+			}
+			catch (SQLException sqlException)
+			{
+				sqlException.printStackTrace();
+			}
+			try
+			{
+				if (connection != null)
+				{
+					connection.close();
+				}
+			}
+			catch (SQLException sqlException)
+			{
+				sqlException.printStackTrace();
+			}
+
+			if (fileReader != null)
+			{
+				try
+				{
+					fileReader.close();
+				}
+				catch (IOException e)
+				{
+
+					e.printStackTrace();
+				}
+			}
+		}
+
+	}
+}

@@ -1,0 +1,5 @@
+vector  : [10, 20, 30]
+
+is '20' Exist in vector : true
+
+is '500' Exist in vector : false

@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.NullPointerException
+	at java.util.TreeMap.put(Unknown Source)
+	at java.util.TreeSet.add(Unknown Source)
+	at TreeSetExample.main(TreeSetExample.java:17)

@@ -1,0 +1,11 @@
+treeSet : [10, 20, 30, 40, 50]
+
+sortedSet : [20, 30, 40, 50]
+
+--------------------------------------------
+
+After removing element '30' in SortedSet 
+
+sortedSet : [20, 40, 50]
+treeSet : [10, 20, 40, 50]
+

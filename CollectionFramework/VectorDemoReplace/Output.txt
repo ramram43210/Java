@@ -1,0 +1,4 @@
+vector  : [20, 30, 40, 50]
+
+replacedElement  : 40
+vector  : [20, 30, 1000, 50]

@@ -1,0 +1,3 @@
+hashtable : {}
+
+hashtable : {AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}

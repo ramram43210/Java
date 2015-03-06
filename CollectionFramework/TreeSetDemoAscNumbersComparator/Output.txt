@@ -1,0 +1,18 @@
+20 is going to be add in treeSet
+Compare method has been called in AscendingNumberComparator, to arrange the numbers in ascending order : number1 = 20, number2 = 20
+
+40 is going to be add in treeSet
+Compare method has been called in AscendingNumberComparator, to arrange the numbers in ascending order : number1 = 40, number2 = 20
+
+30 is going to be add in treeSet
+Compare method has been called in AscendingNumberComparator, to arrange the numbers in ascending order : number1 = 30, number2 = 20
+
+Compare method has been called in AscendingNumberComparator, to arrange the numbers in ascending order : number1 = 30, number2 = 40
+
+10 is going to be add in treeSet
+Compare method has been called in AscendingNumberComparator, to arrange the numbers in ascending order : number1 = 10, number2 = 30
+
+Compare method has been called in AscendingNumberComparator, to arrange the numbers in ascending order : number1 = 10, number2 = 20
+
+treeSet : [10, 20, 30, 40]
+

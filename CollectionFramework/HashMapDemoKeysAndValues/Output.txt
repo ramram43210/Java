@@ -1,0 +1,10 @@
+hashMap : {1=Apple, 2=Ball, 3=Cat}
+
+set : [1, 2, 3]
+
+-----------------------
+Key | value
+-----------------------
+1   |  Apple
+2   |  Ball
+3   |  Cat

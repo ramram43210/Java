@@ -1,0 +1,10 @@
+treeMap : {10=Employee [name=David, age=42, salary=80000], 20=Employee [name=John, age=32, salary=40000], 40=Employee [name=Peter, age=52, salary=150000]}
+
+set : [10=Employee [name=David, age=42, salary=80000], 20=Employee [name=John, age=32, salary=40000], 40=Employee [name=Peter, age=52, salary=150000]]
+
+-----------------------
+Key | value
+-----------------------
+10   | Employee [name=David, age=42, salary=80000]
+20   | Employee [name=John, age=32, salary=40000]
+40   | Employee [name=Peter, age=52, salary=150000]

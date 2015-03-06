@@ -1,0 +1,3 @@
+hashSet: [Rohit, Dave, Phil, Peter, Virat]
+
+size : 5

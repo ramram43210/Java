@@ -1,0 +1,4 @@
+linkedHashMap : {1=Apple, 3=Cat, 2=Ball}
+
+Object class name : java.util.LinkedHashMap
+cloned LinkedHashMap : {1=Apple, 3=Cat, 2=Ball}

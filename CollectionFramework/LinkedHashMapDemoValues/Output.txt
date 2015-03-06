@@ -1,0 +1,7 @@
+LinkedHashMap : {1=Apple, 3=Cat, 2=Ball}
+
+collection : [Apple, Cat, Ball]
+
+Apple
+Cat
+Ball

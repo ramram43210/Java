@@ -1,0 +1,4 @@
+linkedHashMap : {1=Apple, 3=Cat, 2=Ball}
+
+isKey '1' Exist : true
+isKey '10' Exist : false

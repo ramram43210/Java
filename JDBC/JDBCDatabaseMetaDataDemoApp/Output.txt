@@ -1,0 +1,10 @@
+Driver Name: MySQL Connector Java
+Driver Version: mysql-connector-java-5.1.31 ( Revision: alexander.soklakov@oracle.com-20140520065950-groqzzbvxprqdmnz )
+UserName: root@localhost
+Database Product Name: MySQL
+Database Product Version: 5.6.19
+
+------------------Tables-----------------------------
+city
+country
+countrylanguage

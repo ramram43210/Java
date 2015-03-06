@@ -1,0 +1,4 @@
+hashMap : {1=Apple, 2=Ball, 3=Cat}
+
+isKey '1' Exist : true
+isKey '10' Exist : false

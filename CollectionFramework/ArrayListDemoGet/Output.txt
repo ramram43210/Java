@@ -1,0 +1,3 @@
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+Value in the 2nd index : Peter

@@ -1,0 +1,4 @@
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+ArrayList after replacing the element at 4th index : [Ram, Dave, Peter, Julia, Virat Kohli]
+

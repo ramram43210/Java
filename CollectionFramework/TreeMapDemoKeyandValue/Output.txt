@@ -1,0 +1,11 @@
+treeMap : {1=Cat, 2=Dog, 3=Ball, 4=Apple}
+
+set : [1, 2, 3, 4]
+
+-----------------------
+Key | value
+-----------------------
+1   |  Cat
+2   |  Dog
+3   |  Ball
+4   |  Apple

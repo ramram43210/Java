@@ -1,0 +1,5 @@
+hashSet : [Rohan, Dave, Peter, Juli, Ram]
+
+arrayList : [Ram, Dave, Peter]
+
+isExist : true

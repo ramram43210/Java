@@ -1,0 +1,5 @@
+hashSet : [Rohit, Dave, Phil, Peter, Virat]
+
+isRemoved : true
+hashSet : [Rohit, Dave, Phil, Peter]
+

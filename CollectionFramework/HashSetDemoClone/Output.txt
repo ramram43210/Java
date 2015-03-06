@@ -1,0 +1,3 @@
+hashSet: [Rohit, Dave, Phil, Peter, Virat]
+
+clonedHashSet : [Rohit, Peter, Virat, Dave, Phil]

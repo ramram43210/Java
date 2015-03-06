@@ -1,0 +1,13 @@
+treeMap : {10=Cat, 20=Ball, 30=Apple, 40=Dog}
+
+NavigableMap : {40=Dog, 30=Apple, 20=Ball, 10=Cat}
+
+set : [40, 30, 20, 10]
+
+-----------------------
+Key | value
+-----------------------
+40   |  Dog
+30   |  Apple
+20   |  Ball
+10   |  Cat

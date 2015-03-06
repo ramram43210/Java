@@ -1,0 +1,3 @@
+Employee [name=John, age=32, salary=40000]
+Employee [name=David, age=42, salary=80000]
+Employee [name=Peter, age=52, salary=150000]

@@ -1,0 +1,6 @@
+vector  : [20, 30, 40, 50]
+vector size  : 4
+
+vector  : [20, 30, 40, 50, null, null, null, null, null, null]
+
+vector  : [20, 30]

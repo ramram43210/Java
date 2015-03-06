@@ -1,0 +1,3 @@
+Statement Object : com.mysql.jdbc.StatementImpl@4099a992
+DatabaseMetaData Object : com.mysql.jdbc.JDBC4DatabaseMetaData@284bd160
+preparedStatement Object : com.mysql.jdbc.JDBC4PreparedStatement@3068f00: select ID,Name,CountryCode,District,Population from city

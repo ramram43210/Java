@@ -1,0 +1,9 @@
+linkedList1 : [1, 2, 3]
+linkedList2 : [4, 5]
+linkedList1 : [1, 2, 3, 4, 5]
+
+-----------------------------------
+
+linkedList : [1, 2, 3]
+Set : [4, 5]
+linkedList : [1, 2, 3, 4, 5]

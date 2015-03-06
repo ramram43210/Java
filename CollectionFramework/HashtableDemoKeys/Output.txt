@@ -1,0 +1,8 @@
+hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}
+
+key
+-----
+IN
+AF
+BE
+US

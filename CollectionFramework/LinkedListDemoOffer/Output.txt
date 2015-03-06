@@ -1,0 +1,10 @@
+linkedList : [200, 300, 10000, 5000, 2000]
+
+isAdded : true
+After calling offer(4000) Method : linkedList : [200, 300, 10000, 5000, 2000, 4000]
+
+isAdded : true
+After calling offerFirst(100) Method : linkedList : [100, 200, 300, 10000, 5000, 2000, 4000]
+
+isAdded : true
+After calling offerLast(6000) Method : linkedList : [100, 200, 300, 10000, 5000, 2000, 4000, 6000]

@@ -1,0 +1,7 @@
+deque : [2000, 5000, 10000, 9000]
+
+removedElement : 2000
+deque : [5000, 10000, 9000]
+
+removedElement : 5000
+deque : [10000, 9000]

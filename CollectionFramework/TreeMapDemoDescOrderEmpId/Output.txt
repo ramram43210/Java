@@ -1,0 +1,31 @@
+Key:20,Value:Balu is going to be add in treeMap
+
+Compare method has been called in DescendingEmpIoyeeIdComparator, 
+to arrange the employeeId's in descending order : 
+employeeId1 = 20, employeeId2 = 20
+
+Key:10,Value:Ajay is going to be add in treeMap
+
+Compare method has been called in DescendingEmpIoyeeIdComparator, 
+to arrange the employeeId's in descending order : 
+employeeId1 = 10, employeeId2 = 20
+
+Key:40,Value:Carol is going to be add in treeMap
+
+Compare method has been called in DescendingEmpIoyeeIdComparator, 
+to arrange the employeeId's in descending order : 
+employeeId1 = 40, employeeId2 = 20
+
+Key:30,Value:Dave is going to be add in treeMap
+
+Compare method has been called in DescendingEmpIoyeeIdComparator, 
+to arrange the employeeId's in descending order : 
+employeeId1 = 30, employeeId2 = 20
+
+
+Compare method has been called in DescendingEmpIoyeeIdComparator, 
+to arrange the employeeId's in descending order : 
+employeeId1 = 30, employeeId2 = 40
+
+treeMap : {40=Carol, 30=Dave, 20=Balu, 10=Ajay}
+

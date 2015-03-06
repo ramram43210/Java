@@ -1,0 +1,36 @@
+Key:CN,Value:CHINA is going to be add in treeMap
+
+Compare method has been called in AscendingCountryCodeComparator,
+to arrange the CountryCodes in ascending order : 
+countryCode1 = CN, countryCode2 = CN
+
+Key:BE,Value:BELGIUM is going to be add in treeMap
+
+Compare method has been called in AscendingCountryCodeComparator,
+to arrange the CountryCodes in ascending order : 
+countryCode1 = BE, countryCode2 = CN
+
+Key:AF,Value:AFGHANISTAN is going to be add in treeMap
+
+Compare method has been called in AscendingCountryCodeComparator,
+to arrange the CountryCodes in ascending order : 
+countryCode1 = AF, countryCode2 = CN
+
+
+Compare method has been called in AscendingCountryCodeComparator,
+to arrange the CountryCodes in ascending order : 
+countryCode1 = AF, countryCode2 = BE
+
+Key:DK,Value:DENMARK is going to be add in treeMap
+
+Compare method has been called in AscendingCountryCodeComparator,
+to arrange the CountryCodes in ascending order : 
+countryCode1 = DK, countryCode2 = BE
+
+
+Compare method has been called in AscendingCountryCodeComparator,
+to arrange the CountryCodes in ascending order : 
+countryCode1 = DK, countryCode2 = CN
+
+treeMap : {AF=AFGHANISTAN, BE=BELGIUM, CN=CHINA, DK=DENMARK}
+

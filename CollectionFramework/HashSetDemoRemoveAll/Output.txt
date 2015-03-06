@@ -1,0 +1,6 @@
+hashSet : [Rohan, Dave, Phil, Peter, Ram]
+
+arrayList : [Ram, Dave, Peter]
+
+isRemoved : true
+hashSet : [Rohan, Phil]

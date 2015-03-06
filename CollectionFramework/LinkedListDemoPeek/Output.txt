@@ -1,0 +1,7 @@
+linkedList : [200, 300, 10000, 5000, 2000]
+
+peek : 200
+peekFirst : 200
+peekLast : 2000
+
+linkedList : [200, 300, 10000, 5000, 2000]

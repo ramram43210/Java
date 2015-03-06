@@ -1,0 +1,7 @@
+linkedHashSet : [Rohan, Phil, Ram, Dave, Peter]
+
+arrayList : [Ram, Dave, Peter]
+
+isRemoved : true
+linkedHashSet : [Rohan, Phil]
+

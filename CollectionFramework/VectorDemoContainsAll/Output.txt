@@ -1,0 +1,5 @@
+vector  : [10, 20, 30]
+
+arrayList  : [10, 30]
+
+isExist : true

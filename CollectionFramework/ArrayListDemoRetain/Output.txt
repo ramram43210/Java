@@ -1,0 +1,6 @@
+ArrayList : [Ram, Dave, Peter, Julia, Akram]
+
+RetainList : [Dave, Peter]
+
+ArrayList after retaining elements which are present in the retainList : [Dave, Peter]
+

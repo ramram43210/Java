@@ -1,0 +1,71 @@
+ID: 456, Name: London, CountryCode: GBR, District: England, Population: 7285000
+ID: 457, Name: Birmingham, CountryCode: GBR, District: England, Population: 1013000
+ID: 459, Name: Liverpool, CountryCode: GBR, District: England, Population: 461000
+ID: 461, Name: Sheffield, CountryCode: GBR, District: England, Population: 431607
+ID: 462, Name: Manchester, CountryCode: GBR, District: England, Population: 430000
+ID: 463, Name: Leeds, CountryCode: GBR, District: England, Population: 424194
+ID: 464, Name: Bristol, CountryCode: GBR, District: England, Population: 402000
+ID: 466, Name: Coventry, CountryCode: GBR, District: England, Population: 304000
+ID: 467, Name: Leicester, CountryCode: GBR, District: England, Population: 294000
+ID: 468, Name: Bradford, CountryCode: GBR, District: England, Population: 289376
+ID: 470, Name: Nottingham, CountryCode: GBR, District: England, Population: 287000
+ID: 471, Name: Kingston upon Hull, CountryCode: GBR, District: England, Population: 262000
+ID: 472, Name: Plymouth, CountryCode: GBR, District: England, Population: 253000
+ID: 473, Name: Stoke-on-Trent, CountryCode: GBR, District: England, Population: 252000
+ID: 474, Name: Wolverhampton, CountryCode: GBR, District: England, Population: 242000
+ID: 475, Name: Derby, CountryCode: GBR, District: England, Population: 236000
+ID: 477, Name: Southampton, CountryCode: GBR, District: England, Population: 216000
+ID: 479, Name: Northampton, CountryCode: GBR, District: England, Population: 196000
+ID: 480, Name: Dudley, CountryCode: GBR, District: England, Population: 192171
+ID: 481, Name: Portsmouth, CountryCode: GBR, District: England, Population: 190000
+ID: 482, Name: Newcastle upon Tyne, CountryCode: GBR, District: England, Population: 189150
+ID: 483, Name: Sunderland, CountryCode: GBR, District: England, Population: 183310
+ID: 484, Name: Luton, CountryCode: GBR, District: England, Population: 183000
+ID: 485, Name: Swindon, CountryCode: GBR, District: England, Population: 180000
+ID: 486, Name: Southend-on-Sea, CountryCode: GBR, District: England, Population: 176000
+ID: 487, Name: Walsall, CountryCode: GBR, District: England, Population: 174739
+ID: 488, Name: Bournemouth, CountryCode: GBR, District: England, Population: 162000
+ID: 489, Name: Peterborough, CountryCode: GBR, District: England, Population: 156000
+ID: 490, Name: Brighton, CountryCode: GBR, District: England, Population: 156124
+ID: 491, Name: Blackpool, CountryCode: GBR, District: England, Population: 151000
+ID: 493, Name: West Bromwich, CountryCode: GBR, District: England, Population: 146386
+ID: 494, Name: Reading, CountryCode: GBR, District: England, Population: 148000
+ID: 495, Name: Oldbury/Smethwick (Warley), CountryCode: GBR, District: England, Population: 145542
+ID: 496, Name: Middlesbrough, CountryCode: GBR, District: England, Population: 145000
+ID: 497, Name: Huddersfield, CountryCode: GBR, District: England, Population: 143726
+ID: 498, Name: Oxford, CountryCode: GBR, District: England, Population: 144000
+ID: 499, Name: Poole, CountryCode: GBR, District: England, Population: 141000
+ID: 500, Name: Bolton, CountryCode: GBR, District: England, Population: 139020
+ID: 501, Name: Blackburn, CountryCode: GBR, District: England, Population: 140000
+ID: 503, Name: Preston, CountryCode: GBR, District: England, Population: 135000
+ID: 504, Name: Stockport, CountryCode: GBR, District: England, Population: 132813
+ID: 505, Name: Norwich, CountryCode: GBR, District: England, Population: 124000
+ID: 506, Name: Rotherham, CountryCode: GBR, District: England, Population: 121380
+ID: 507, Name: Cambridge, CountryCode: GBR, District: England, Population: 121000
+ID: 508, Name: Watford, CountryCode: GBR, District: England, Population: 113080
+ID: 509, Name: Ipswich, CountryCode: GBR, District: England, Population: 114000
+ID: 510, Name: Slough, CountryCode: GBR, District: England, Population: 112000
+ID: 511, Name: Exeter, CountryCode: GBR, District: England, Population: 111000
+ID: 512, Name: Cheltenham, CountryCode: GBR, District: England, Population: 106000
+ID: 513, Name: Gloucester, CountryCode: GBR, District: England, Population: 107000
+ID: 514, Name: Saint Helens, CountryCode: GBR, District: England, Population: 106293
+ID: 515, Name: Sutton Coldfield, CountryCode: GBR, District: England, Population: 106001
+ID: 516, Name: York, CountryCode: GBR, District: England, Population: 104425
+ID: 517, Name: Oldham, CountryCode: GBR, District: England, Population: 103931
+ID: 518, Name: Basildon, CountryCode: GBR, District: England, Population: 100924
+ID: 519, Name: Worthing, CountryCode: GBR, District: England, Population: 100000
+ID: 520, Name: Chelmsford, CountryCode: GBR, District: England, Population: 97451
+ID: 521, Name: Colchester, CountryCode: GBR, District: England, Population: 96063
+ID: 522, Name: Crawley, CountryCode: GBR, District: England, Population: 97000
+ID: 523, Name: Gillingham, CountryCode: GBR, District: England, Population: 92000
+ID: 524, Name: Solihull, CountryCode: GBR, District: England, Population: 94531
+ID: 525, Name: Rochdale, CountryCode: GBR, District: England, Population: 94313
+ID: 526, Name: Birkenhead, CountryCode: GBR, District: England, Population: 93087
+ID: 527, Name: Worcester, CountryCode: GBR, District: England, Population: 95000
+ID: 528, Name: Hartlepool, CountryCode: GBR, District: England, Population: 92000
+ID: 529, Name: Halifax, CountryCode: GBR, District: England, Population: 91069
+ID: 530, Name: Woking/Byfleet, CountryCode: GBR, District: England, Population: 92000
+ID: 531, Name: Southport, CountryCode: GBR, District: England, Population: 90959
+ID: 532, Name: Maidstone, CountryCode: GBR, District: England, Population: 90878
+ID: 533, Name: Eastbourne, CountryCode: GBR, District: England, Population: 90000
+ID: 534, Name: Grimsby, CountryCode: GBR, District: England, Population: 89000

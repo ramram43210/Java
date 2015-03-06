@@ -1,0 +1,26 @@
+public class Client
+{
+		FilterManager filterManager;
+
+		public void setFilterManager( FilterManager filterManager )
+		{
+				this.filterManager = filterManager;
+		}
+
+		public void sendRequest( String request )
+		{
+				filterManager.filterRequest(request);
+		}
+
+		public static void main( String[] args )
+		{
+				FilterManager filterManager = new FilterManager(new Target());
+				filterManager.setFilter(new AuthenticationFilter());
+				filterManager.setFilter(new LoggingFilter());
+				Client client = new Client();
+				client.setFilterManager(filterManager);
+				client.sendRequest("HOME");
+
+		}
+
+}

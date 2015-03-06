@@ -1,0 +1,4 @@
+linkedList : [200, 300, 10000, 5000]
+
+pop : Value : 200
+linkedList : [300, 10000, 5000]

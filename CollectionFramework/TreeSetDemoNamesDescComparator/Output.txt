@@ -1,0 +1,16 @@
+Balu is going to be add in treeSet
+Compare method has been called in DescendingNameComparator, to arrange the names in decending order : name1 = Balu, name2 = Balu
+
+Ajay is going to be add in treeSet
+Compare method has been called in DescendingNameComparator, to arrange the names in decending order : name1 = Ajay, name2 = Balu
+
+David is going to be add in treeSet
+Compare method has been called in DescendingNameComparator, to arrange the names in decending order : name1 = David, name2 = Balu
+
+Charles is going to be add in treeSet
+Compare method has been called in DescendingNameComparator, to arrange the names in decending order : name1 = Charles, name2 = Balu
+
+Compare method has been called in DescendingNameComparator, to arrange the names in decending order : name1 = Charles, name2 = David
+
+treeSet : [David, Charles, Balu, Ajay]
+

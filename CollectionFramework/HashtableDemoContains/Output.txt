@@ -1,0 +1,4 @@
+hashtable : {IN=INDIA, AF=AFGHANISTAN, BE=BELGIUM, US=UNITED STATES}
+
+isValue 'BELGIUM' Exist : true
+isValue 'PAKISTAN' Exist : false

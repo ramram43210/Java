@@ -1,0 +1,5 @@
+vector  : [100, 40, 30, 50]
+
+removedElement  : 40
+vector  : [100, 30, 50]
+

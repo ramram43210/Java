@@ -1,0 +1,164 @@
+Enter city name Starting letters :ab
+
+sql : select * from city WHERE name LIKE 'ab%'
+
+Name: Abu Dhabi,ID: 65, CountryCode: ARE, District: Abu Dhabi, Population: 398695
+Name: Abaetetuba,ID: 395, CountryCode: BRA, District: Pará, Population: 111258
+Name: Aberdeen,ID: 478, CountryCode: GBR, District: Scotland, Population: 213070
+Name: Abohar,ID: 1309, CountryCode: IND, District: Punjab, Population: 107163
+Name: Abadan,ID: 1404, CountryCode: IRN, District: Khuzestan, Population: 206073
+Name: Abiko,ID: 1703, CountryCode: JPN, District: Chiba, Population: 126670
+Name: Abbotsford,ID: 1849, CountryCode: CAN, District: British Colombia, Population: 105403
+Name: Abeokuta,ID: 2747, CountryCode: NGA, District: Ogun, Population: 427400
+Name: Abuja,ID: 2754, CountryCode: NGA, District: Federal Capital Dist, Population: 350100
+Name: Aba,ID: 2760, CountryCode: NGA, District: Imo & Abia, Population: 298900
+Name: Abidjan,ID: 2812, CountryCode: CIV, District: Abidjan, Population: 2500000
+Name: Abottabad,ID: 2866, CountryCode: PAK, District: Nothwest Border Prov, Population: 106000
+Name: Abha,ID: 3191, CountryCode: SAU, District: Asir, Population: 112300
+Name: Abakan,ID: 3683, CountryCode: RUS, District: Hakassia, Population: 169200
+Name: Abilene,ID: 3989, CountryCode: USA, District: Texas, Population: 115930
+
+Enter city name Starting letters :ba
+
+sql : select * from city WHERE name LIKE 'ba%'
+
+Name: Batna,ID: 39, CountryCode: DZA, District: Batna, Population: 183377
+Name: Béjaïa,ID: 45, CountryCode: DZA, District: Béjaïa, Population: 117162
+Name: Béchar,ID: 49, CountryCode: DZA, District: Béchar, Population: 107311
+Name: Bahía Blanca,ID: 96, CountryCode: ARG, District: Buenos Aires, Population: 239810
+Name: Baku,ID: 144, CountryCode: AZE, District: Baki, Population: 1787800
+Name: Barisal,ID: 157, CountryCode: BGD, District: Barisal, Population: 170232
+Name: Banja Luka,ID: 202, CountryCode: BIH, District: Republika Srpska, Population: 143079
+Name: Bauru,ID: 263, CountryCode: BRA, District: São Paulo, Population: 313670
+Name: Barueri,ID: 305, CountryCode: BRA, District: São Paulo, Population: 208426
+Name: Barra Mansa,ID: 334, CountryCode: BRA, District: Rio de Janeiro, Population: 168953
+Name: Barreiras,ID: 367, CountryCode: BRA, District: Bahia, Population: 127801
+Name: Bagé,ID: 382, CountryCode: BRA, District: Rio Grande do Sul, Population: 120793
+Name: Barbacena,ID: 394, CountryCode: BRA, District: Minas Gerais, Population: 113079
+Name: Barretos,ID: 410, CountryCode: BRA, District: São Paulo, Population: 104156
+Name: Bacabal,ID: 441, CountryCode: BRA, District: Maranhão, Population: 93121
+Name: Barra do Piraí,ID: 452, CountryCode: BRA, District: Rio de Janeiro, Population: 89388
+Name: Basildon,ID: 518, CountryCode: GBR, District: England, Population: 100924
+Name: Bandar Seri Begawan,ID: 538, CountryCode: BRN, District: Brunei and Muara, Population: 21484
+Name: Bahtim,ID: 619, CountryCode: EGY, District: al-Qalyubiya, Population: 275807
+Name: Bani Suwayf,ID: 627, CountryCode: EGY, District: Bani Suwayf, Population: 172032
+Name: Banha,ID: 632, CountryCode: EGY, District: al-Qalyubiya, Population: 145792
+Name: Barcelona,ID: 654, CountryCode: ESP, District: Katalonia, Population: 1503451
+Name: Badalona,ID: 673, CountryCode: ESP, District: Katalonia, Population: 209635
+Name: Badajoz,ID: 697, CountryCode: ESP, District: Extremadura, Population: 136613
+Name: Barakaldo,ID: 708, CountryCode: ESP, District: Baskimaa, Population: 98212
+Name: Bahir Dar,ID: 762, CountryCode: ETH, District: Amhara, Population: 96140
+Name: Bacolod,ID: 779, CountryCode: PHL, District: Western Visayas, Population: 429076
+Name: Bacoor,ID: 788, CountryCode: PHL, District: Southern Tagalog, Population: 305699
+Name: Baguio,ID: 796, CountryCode: PHL, District: CAR, Population: 252386
+Name: Batangas,ID: 797, CountryCode: PHL, District: Southern Tagalog, Population: 247588
+Name: Bago,ID: 831, CountryCode: PHL, District: Western Visayas, Population: 141721
+Name: Baliuag,ID: 847, CountryCode: PHL, District: Central Luzon, Population: 119675
+Name: Bayawan (Tulong),ID: 878, CountryCode: PHL, District: Central Visayas, Population: 101391
+Name: Bayambang,ID: 889, CountryCode: PHL, District: Ilocos, Population: 96609
+Name: Baybay,ID: 891, CountryCode: PHL, District: Eastern Visayas, Population: 95630
+Name: Bayugan,ID: 895, CountryCode: PHL, District: Caraga, Population: 93623
+Name: Banjul,ID: 904, CountryCode: GMB, District: Banjul, Population: 42326
+Name: Batumi,ID: 908, CountryCode: GEO, District: Adzaria [Atara], Population: 137700
+Name: Basse-Terre,ID: 919, CountryCode: GLP, District: Basse-Terre, Population: 12433
+Name: Bandung,ID: 941, CountryCode: IDN, District: West Java, Population: 2429000
+Name: Bandar Lampung,ID: 948, CountryCode: IDN, District: Lampung, Population: 680332
+Name: Banjarmasin,ID: 952, CountryCode: IDN, District: Kalimantan Selatan, Population: 482931
+Name: Balikpapan,ID: 961, CountryCode: IDN, District: Kalimantan Timur, Population: 338752
+Name: Banda Aceh,ID: 982, CountryCode: IDN, District: Aceh, Population: 143409
+Name: Batam,ID: 1019, CountryCode: IDN, District: Riau, Population: 91871
+Name: Banyuwangi,ID: 1022, CountryCode: IDN, District: East Java, Population: 89900
+Name: Bangalore,ID: 1030, CountryCode: IND, District: Karnataka, Population: 2660088
+Name: Bareilly,ID: 1063, CountryCode: IND, District: Uttar Pradesh, Population: 587211
+Name: Barddhaman (Burdwan),ID: 1123, CountryCode: IND, District: West Bengali, Population: 245079
+Name: Barahanagar (Baranagar),ID: 1137, CountryCode: IND, District: West Bengali, Population: 224821
+Name: Bally,ID: 1163, CountryCode: IND, District: West Bengali, Population: 184474
+Name: Bahraich,ID: 1236, CountryCode: IND, District: Uttar Pradesh, Population: 135400
+Name: Barrackpur,ID: 1240, CountryCode: IND, District: West Bengali, Population: 133265
+Name: Balurghat,ID: 1278, CountryCode: IND, District: West Bengali, Population: 119796
+Name: Bankura,ID: 1287, CountryCode: IND, District: West Bengali, Population: 114876
+Name: Barasat,ID: 1307, CountryCode: IND, District: West Bengali, Population: 107365
+Name: Basirhat,ID: 1325, CountryCode: IND, District: West Bengali, Population: 101409
+Name: Banda,ID: 1340, CountryCode: IND, District: Uttar Pradesh, Population: 97227
+Name: Bansberia,ID: 1353, CountryCode: IND, District: West Bengali, Population: 93447
+Name: Baidyabati,ID: 1361, CountryCode: IND, District: West Bengali, Population: 90601
+Name: Baghdad,ID: 1365, CountryCode: IRQ, District: Baghdad, Population: 4336000
+Name: Basra,ID: 1369, CountryCode: IRQ, District: Basra, Population: 406296
+Name: Baquba,ID: 1379, CountryCode: IRQ, District: Diyala, Population: 114516
+Name: Bandar-e-Abbas,ID: 1400, CountryCode: IRN, District: Hormozgan, Population: 273578
+Name: Babol,ID: 1414, CountryCode: IRN, District: Mazandaran, Population: 158346
+Name: Bandar-e Anzali,ID: 1439, CountryCode: IRN, District: Gilan, Population: 98500
+Name: Bat Yam,ID: 1459, CountryCode: ISR, District: Tel Aviv, Population: 137000
+Name: Bari,ID: 1473, CountryCode: ITA, District: Apulia, Population: 331848
+Name: Barletta,ID: 1517, CountryCode: ITA, District: Apulia, Population: 91904
+Name: Battambang,ID: 1801, CountryCode: KHM, District: Battambang, Population: 129800
+Name: Bamenda,ID: 1807, CountryCode: CMR, District: Nord-Ouest, Population: 138000
+Name: Bafoussam,ID: 1808, CountryCode: CMR, District: Ouest, Population: 131000
+Name: Barrie,ID: 1858, CountryCode: CAN, District: Ontario, Population: 89269
+Name: Bangui,ID: 1889, CountryCode: CAF, District: Bangui, Population: 524000
+Name: Baotou,ID: 1925, CountryCode: CHN, District: Inner Mongolia, Population: 980000
+Name: Baoding,ID: 1955, CountryCode: CHN, District: Hebei, Population: 483155
+Name: Baoji,ID: 1996, CountryCode: CHN, District: Shaanxi, Population: 337765
+Name: Baicheng,ID: 2050, CountryCode: CHN, District: Jilin, Population: 217987
+Name: Baiyin,ID: 2064, CountryCode: CHN, District: Gansu, Population: 204970
+Name: Bairiki,ID: 2256, CountryCode: KIR, District: South Tarawa, Population: 2226
+Name: Barranquilla,ID: 2260, CountryCode: COL, District: Atlántico, Population: 1223260
+Name: Barrancabermeja,ID: 2283, CountryCode: COL, District: Santander, Population: 178020
+Name: Bantam,ID: 2316, CountryCode: CCK, District: Home Island, Population: 503
+Name: Bayamo,ID: 2420, CountryCode: CUB, District: Granma, Population: 141000
+Name: Bamako,ID: 2482, CountryCode: MLI, District: Bamako, Population: 809552
+Name: Balti,ID: 2692, CountryCode: MDA, District: Balti, Population: 153400
+Name: Bassein (Pathein),ID: 2714, CountryCode: MMR, District: Irrawaddy [Ayeyarwad, Population: 183900
+Name: Bærum,ID: 2811, CountryCode: NOR, District: Akershus, Population: 101340
+Name: Bawshar,ID: 2819, CountryCode: OMN, District: Masqat, Population: 107500
+Name: Bahawalpur,ID: 2834, CountryCode: PAK, District: Punjab, Population: 403408
+Name: Bahawalnagar,ID: 2863, CountryCode: PAK, District: Punjab, Population: 109600
+Name: Bayamón,ID: 2920, CountryCode: PRI, District: Bayamón, Population: 224044
+Name: Bacau,ID: 3029, CountryCode: ROM, District: Bacau, Population: 209235
+Name: Baia Mare,ID: 3034, CountryCode: ROM, District: Maramures, Population: 149665
+Name: Basseterre,ID: 3064, CountryCode: KNA, District: St George Basseterre, Population: 11600
+Name: Basel,ID: 3247, CountryCode: CHE, District: Basel-Stadt, Population: 166700
+Name: Bangkok,ID: 3320, CountryCode: THA, District: Bangkok, Population: 6320174
+Name: Batman,ID: 3383, CountryCode: TUR, District: Batman, Population: 203793
+Name: Balikesir,ID: 3384, CountryCode: TUR, District: Balikesir, Population: 196382
+Name: Bandirma,ID: 3418, CountryCode: TUR, District: Balikesir, Population: 90200
+Name: Baranoviti,ID: 3527, CountryCode: BLR, District: Brest, Population: 167000
+Name: Barquisimeto,ID: 3541, CountryCode: VEN, District: Lara, Population: 877239
+Name: Barcelona,ID: 3546, CountryCode: VEN, District: Anzoátegui, Population: 322267
+Name: Barinas,ID: 3553, CountryCode: VEN, District: Barinas, Population: 217831
+Name: Baruta,ID: 3555, CountryCode: VEN, District: Miranda, Population: 207290
+Name: Barnaul,ID: 3604, CountryCode: RUS, District: Altai, Population: 580100
+Name: Balakovo,ID: 3668, CountryCode: RUS, District: Saratov, Population: 206000
+Name: Balaiha,ID: 3704, CountryCode: RUS, District: Moskova, Population: 132900
+Name: Bataisk,ID: 3752, CountryCode: RUS, District: Rostov-na-Donu, Population: 97300
+Name: Balaov,ID: 3754, CountryCode: RUS, District: Saratov, Population: 97100
+Name: Baltimore,ID: 3809, CountryCode: USA, District: Maryland, Population: 651154
+Name: Bakersfield,ID: 3861, CountryCode: USA, District: California, Population: 247057
+Name: Baton Rouge,ID: 3866, CountryCode: USA, District: Louisiana, Population: 227818
+
+Enter city name Starting letters :ban
+
+sql : select * from city WHERE name LIKE 'ban%'
+
+Name: Banja Luka,ID: 202, CountryCode: BIH, District: Republika Srpska, Population: 143079
+Name: Bandar Seri Begawan,ID: 538, CountryCode: BRN, District: Brunei and Muara, Population: 21484
+Name: Bani Suwayf,ID: 627, CountryCode: EGY, District: Bani Suwayf, Population: 172032
+Name: Banha,ID: 632, CountryCode: EGY, District: al-Qalyubiya, Population: 145792
+Name: Banjul,ID: 904, CountryCode: GMB, District: Banjul, Population: 42326
+Name: Bandung,ID: 941, CountryCode: IDN, District: West Java, Population: 2429000
+Name: Bandar Lampung,ID: 948, CountryCode: IDN, District: Lampung, Population: 680332
+Name: Banjarmasin,ID: 952, CountryCode: IDN, District: Kalimantan Selatan, Population: 482931
+Name: Banda Aceh,ID: 982, CountryCode: IDN, District: Aceh, Population: 143409
+Name: Banyuwangi,ID: 1022, CountryCode: IDN, District: East Java, Population: 89900
+Name: Bangalore,ID: 1030, CountryCode: IND, District: Karnataka, Population: 2660088
+Name: Bankura,ID: 1287, CountryCode: IND, District: West Bengali, Population: 114876
+Name: Banda,ID: 1340, CountryCode: IND, District: Uttar Pradesh, Population: 97227
+Name: Bansberia,ID: 1353, CountryCode: IND, District: West Bengali, Population: 93447
+Name: Bandar-e-Abbas,ID: 1400, CountryCode: IRN, District: Hormozgan, Population: 273578
+Name: Bandar-e Anzali,ID: 1439, CountryCode: IRN, District: Gilan, Population: 98500
+Name: Bangui,ID: 1889, CountryCode: CAF, District: Bangui, Population: 524000
+Name: Bantam,ID: 2316, CountryCode: CCK, District: Home Island, Population: 503
+Name: Bangkok,ID: 3320, CountryCode: THA, District: Bangkok, Population: 6320174
+Name: Bandirma,ID: 3418, CountryCode: TUR, District: Balikesir, Population: 90200
+
+Enter city name Starting letters :exit

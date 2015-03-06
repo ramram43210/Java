@@ -1,0 +1,5 @@
+linkedList : [Ram, Dave, Peter, Julia, Akram]
+
+linkedList After removing element from the index 1 : [Ram, Peter, Julia, Akram]
+
+linkedList After removing String object "Julia" : [Ram, Peter, Akram]

@@ -1,0 +1,4 @@
+treeMap : {1=Cat, 2=Dog, 3=Ball, 4=Apple}
+
+isValue 'Ball' Exist : true
+isValue 'Eagle' Exist : false

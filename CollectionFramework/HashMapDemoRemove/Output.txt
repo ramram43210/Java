@@ -1,0 +1,4 @@
+hashMap : {1=Apple, 2=Ball, 3=Cat}
+
+value : Ball
+hashMap : {1=Apple, 3=Cat}

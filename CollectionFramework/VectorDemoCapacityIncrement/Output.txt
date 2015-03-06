@@ -1,0 +1,8 @@
+vector : [Dave, Peter, Phil, Rohit, Virat]
+vector size: 5
+vector capacity: 5
+
+vector : [Dave, Peter, Phil, Rohit, Virat, Raj]
+vector size: 6
+vector capacity: 7
+

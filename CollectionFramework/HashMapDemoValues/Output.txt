@@ -1,0 +1,7 @@
+hashMap : {1=Apple, 2=Ball, 3=Cat}
+
+collection : [Apple, Ball, Cat]
+
+Apple
+Ball
+Cat

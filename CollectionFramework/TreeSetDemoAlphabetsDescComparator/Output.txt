@@ -1,0 +1,16 @@
+B is going to be add in treeSet
+Compare method has been called in DescendingAlphabetsComparator, to arrange the Alphabets in descending order : alphabet1 = B, alphabet2 = B
+
+C is going to be add in treeSet
+Compare method has been called in DescendingAlphabetsComparator, to arrange the Alphabets in descending order : alphabet1 = C, alphabet2 = B
+
+A is going to be add in treeSet
+Compare method has been called in DescendingAlphabetsComparator, to arrange the Alphabets in descending order : alphabet1 = A, alphabet2 = B
+
+B is going to be add in treeSet
+Compare method has been called in DescendingAlphabetsComparator, to arrange the Alphabets in descending order : alphabet1 = D, alphabet2 = B
+
+Compare method has been called in DescendingAlphabetsComparator, to arrange the Alphabets in descending order : alphabet1 = D, alphabet2 = C
+
+treeSet : [D, C, B, A]
+

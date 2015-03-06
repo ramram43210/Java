@@ -1,0 +1,7 @@
+linkedList : [200, 300, 10000, 5000]
+
+pollFirst : value 200
+linkedList : [300, 10000, 5000]
+
+pollLast : value 5000
+linkedList : [300, 10000]

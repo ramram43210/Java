@@ -1,0 +1,2 @@
+returnValue : 0
+Table 'REGISTRATION' has been dropped

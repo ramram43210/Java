@@ -1,0 +1,2 @@
+vector  : [10, 20, 30]
+clonedVector  : [10, 20, 30]

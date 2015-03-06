@@ -1,0 +1,5 @@
+linkedHashSet : [Dave, Peter, Phil, Rohit, Virat]
+
+isRemoved : true
+linkedHashSet : [Dave, Peter, Phil, Rohit]
+

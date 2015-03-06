@@ -1,0 +1,4 @@
+vector  : [10, 20, 30, 40]
+
+isRemoved  : true
+vector  : [10, 20, 40]

@@ -1,0 +1,25 @@
+----------------- ResultSet Move Forward -----------------------
+ID: 1, Name: Kabul, CountryCode: AFG, District: Kabol, Population: 1780000
+ID: 2, Name: Qandahar, CountryCode: AFG, District: Qandahar, Population: 237500
+ID: 3, Name: Herat, CountryCode: AFG, District: Herat, Population: 186800
+ID: 4, Name: Mazar-e-Sharif, CountryCode: AFG, District: Balkh, Population: 127800
+ID: 5, Name: Amsterdam, CountryCode: NLD, District: Noord-Holland, Population: 731200
+ID: 6, Name: Rotterdam, CountryCode: NLD, District: Zuid-Holland, Population: 593321
+ID: 7, Name: Haag, CountryCode: NLD, District: Zuid-Holland, Population: 440900
+ID: 8, Name: Utrecht, CountryCode: NLD, District: Utrecht, Population: 234323
+ID: 9, Name: Eindhoven, CountryCode: NLD, District: Noord-Brabant, Population: 201843
+ID: 10, Name: Tilburg, CountryCode: NLD, District: Noord-Brabant, Population: 193238
+
+----------------- ResultSet Move Backward -----------------------
+ID: 9, Name: Eindhoven, CountryCode: NLD, District: Noord-Brabant, Population: 201843
+ID: 8, Name: Utrecht, CountryCode: NLD, District: Utrecht, Population: 234323
+ID: 7, Name: Haag, CountryCode: NLD, District: Zuid-Holland, Population: 440900
+ID: 6, Name: Rotterdam, CountryCode: NLD, District: Zuid-Holland, Population: 593321
+ID: 5, Name: Amsterdam, CountryCode: NLD, District: Noord-Holland, Population: 731200
+ID: 4, Name: Mazar-e-Sharif, CountryCode: AFG, District: Balkh, Population: 127800
+ID: 3, Name: Herat, CountryCode: AFG, District: Herat, Population: 186800
+ID: 2, Name: Qandahar, CountryCode: AFG, District: Qandahar, Population: 237500
+ID: 1, Name: Kabul, CountryCode: AFG, District: Kabol, Population: 1780000
+
+----------------- ResultSet Move to Particular position -----------------------
+ID: 3, Name: Herat, CountryCode: AFG, District: Herat, Population: 186800

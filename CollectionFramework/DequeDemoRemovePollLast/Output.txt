@@ -1,0 +1,7 @@
+deque : [100, 200, 300, 400]
+
+removedElement : 400
+deque : [100, 200, 300]
+
+removedElement : 300
+deque : [100, 200]

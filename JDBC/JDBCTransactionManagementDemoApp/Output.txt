@@ -1,0 +1,4 @@
+insert into city values(6000,'Bangalore','IND','Karnataka',400000) : Sql1 is Successfully executed
+insert into city values(6001,'Channai','IND','TamilNadu',200000): Sql2 is Successfully executed
+insert into city values(6002,'Thiruvanathapuram','IND','Kerala',800000): Sql3 is Successfully executed
+Changes are committed and applied to the Database

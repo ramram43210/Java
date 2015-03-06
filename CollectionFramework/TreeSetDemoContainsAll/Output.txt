@@ -1,0 +1,5 @@
+treeSet : [20, 30, 40, 1000, 2000]
+
+linkedList : [1000, 2000]
+
+isExist : true

@@ -1,0 +1,5 @@
+treeMap : {10=Cat, 20=Eagle, 30=Apple, 40=Ball, 50=Dog}
+
+sortedMap [inclusive is false] : {30=Apple, 40=Ball, 50=Dog}
+
+sortedMap [inclusive is true] : {20=Eagle, 30=Apple, 40=Ball, 50=Dog}

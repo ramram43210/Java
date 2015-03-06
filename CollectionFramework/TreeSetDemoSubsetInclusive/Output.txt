@@ -1,0 +1,6 @@
+treeSet : [10, 20, 30, 40, 50, 60, 70, 80]
+
+fromInclusive and toInclusive are false , sortedSet  : [30, 40, 50]
+
+fromInclusive and toInclusive are true , sortedSet  : [20, 30, 40, 50, 60]
+

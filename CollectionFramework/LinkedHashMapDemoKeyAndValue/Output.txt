@@ -1,0 +1,10 @@
+LinkedHashMap : {1=Apple, 3=Cat, 2=Ball}
+
+set : [1, 3, 2]
+
+-----------------------
+Key | value
+-----------------------
+1   |  Apple
+3   |  Cat
+2   |  Ball
