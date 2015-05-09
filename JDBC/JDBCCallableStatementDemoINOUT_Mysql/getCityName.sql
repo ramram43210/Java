@@ -1,0 +1,17 @@
+DELIMITER $$
+
+DROP PROCEDURE IF EXISTS `world`.`getCityName` $$
+CREATE PROCEDURE `world`.`getCityName` 
+   (IN CITY_ID INT, OUT CITY_NAME VARCHAR(255))
+BEGIN
+   SELECT Name INTO CITY_NAME
+   FROM city
+   WHERE ID = CITY_ID;
+END $$
+
+DELIMITER ;
+
+
+set @CITY_ID=5000;
+call getCityName(@CITY_ID,@CITY_NAME);
+select @CITY_NAME;

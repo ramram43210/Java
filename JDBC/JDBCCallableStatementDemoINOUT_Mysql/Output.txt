@@ -1,0 +1,7 @@
+Enter City Id :1
+city Name : Kabul
+Enter City Id :5000
+city Name : Bangalore
+Enter City Id :5001
+city Name : Channai
+Enter City Id :0
