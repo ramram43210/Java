@@ -1,0 +1,5 @@
+Enter City Id :1
+Enter City population :1000
+city Name : Kabul, countryCode : AFG, district : Kabol, population : 1780000
+Enter City Id :0
+Enter City population :0
