@@ -1,0 +1,5 @@
+stack : [Apple, Ball, Cat, Dog]
+
+position of 'Cat' : 2
+
+position of 'Ball' : 3

@@ -1,0 +1,5 @@
+Before peek() method is called : stack : [Apple, Ball, Cat, Dog]
+
+object : Dog
+
+After peek() method is called : stack : [Apple, Ball, Cat, Dog]

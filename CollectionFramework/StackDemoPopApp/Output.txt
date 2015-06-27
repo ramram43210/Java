@@ -1,0 +1,5 @@
+Before pop method is called : stack - [Apple, Ball, Cat, Dog]
+
+object : Dog
+
+After pop method is called :stack - [Apple, Ball, Cat]

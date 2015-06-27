@@ -1,0 +1,6 @@
+stack : []
+is stack empty : true
+
+stack : [Apple, Ball, Cat, Dog]
+is stack empty : false
+

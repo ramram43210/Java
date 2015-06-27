@@ -1,0 +1,5 @@
+stringJoiner1 :  [Java:Scala:Groovy]
+
+stringJoiner2 :  Apple,Ball
+
+stringJoiner2 afterMerge with stringJoiner1 : Apple,Ball,Java:Scala:Groovy
