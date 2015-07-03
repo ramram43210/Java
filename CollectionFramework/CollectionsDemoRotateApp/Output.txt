@@ -1,0 +1,4 @@
+Before rotate , arrayList : [10, 20, 30, 40, 50]
+
+After rotate , arrayList : [50, 10, 20, 30, 40]
+

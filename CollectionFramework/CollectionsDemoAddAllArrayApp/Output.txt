@@ -1,0 +1,6 @@
+arrayList : [Ajay, Vijay, David]
+
+isAdded : true
+
+arrayList : [Ajay, Vijay, David, Raju, Karan, Julia]
+

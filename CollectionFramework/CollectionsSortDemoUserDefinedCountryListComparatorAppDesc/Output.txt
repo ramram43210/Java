@@ -1,0 +1,39 @@
+Before Sort  : 
+
+Country Id: 1 || Country Name: India
+Country Id: 4 || Country Name: China
+Country Id: 3 || Country Name: USA
+Country Id: 2 || Country Name: Srilanka
+-------------------------------------------------
+Compare method in CountrySortByIdComparator has been called
+in order to arrange the country objects in descending order 
+based on Country Id
+
+Compare method in CountrySortByIdComparator has been called
+in order to arrange the country objects in descending order 
+based on Country Id
+
+Compare method in CountrySortByIdComparator has been called
+in order to arrange the country objects in descending order 
+based on Country Id
+
+Compare method in CountrySortByIdComparator has been called
+in order to arrange the country objects in descending order 
+based on Country Id
+
+Compare method in CountrySortByIdComparator has been called
+in order to arrange the country objects in descending order 
+based on Country Id
+
+Compare method in CountrySortByIdComparator has been called
+in order to arrange the country objects in descending order 
+based on Country Id
+
+-------------------------------------------------
+
+After Sort  : 
+
+Country Id: 4 || Country Name: China
+Country Id: 3 || Country Name: USA
+Country Id: 2 || Country Name: Srilanka
+Country Id: 1 || Country Name: India

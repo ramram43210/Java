@@ -1,0 +1,3 @@
+Before Sorting  : [Dog, Ball, Cat, Apple]
+
+After Sorting   : [Apple, Ball, Cat, Dog]

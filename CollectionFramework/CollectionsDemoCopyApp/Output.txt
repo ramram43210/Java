@@ -1,0 +1,5 @@
+sourceList : [1000, 2000, 3000, 4000]
+
+destinationList : [10, 20, 30, 40]
+
+destinationList After Copy: [1000, 2000, 3000, 4000]

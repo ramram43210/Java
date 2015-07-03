@@ -1,0 +1,3 @@
+Before Sorting  : [400, 200, 100, 300]
+
+After Sorting   : [100, 200, 300, 400]

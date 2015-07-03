@@ -1,0 +1,5 @@
+arrayList : [2000, 3000, 4000, 1000, 2000, 2000]
+
+isReplaced : true
+
+After Replaced , arrayList : [10, 3000, 4000, 1000, 10, 10]

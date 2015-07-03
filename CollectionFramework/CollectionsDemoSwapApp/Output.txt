@@ -1,0 +1,4 @@
+arrayList : [2000, 3000, 4000, 1000]
+
+After Swap , arrayList : [3000, 2000, 4000, 1000]
+

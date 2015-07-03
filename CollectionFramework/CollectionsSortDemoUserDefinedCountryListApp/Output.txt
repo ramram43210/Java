@@ -1,0 +1,23 @@
+Before Sort  : 
+Country Id: 1 || Country name: India
+Country Id: 4 || Country name: China
+Country Id: 3 || Country name: USA
+Country Id: 2 || Country name: Srilanka
+
+compareTo method is called by sort method : Country@659e0bfd
+
+compareTo method is called by sort method : Country@2a139a55
+
+compareTo method is called by sort method : Country@2a139a55
+
+compareTo method is called by sort method : Country@659e0bfd
+
+compareTo method is called by sort method : Country@15db9742
+
+compareTo method is called by sort method : Country@659e0bfd
+
+After Sort  : 
+Country Id: 1 || Country name: India
+Country Id: 2 || Country name: Srilanka
+Country Id: 3 || Country name: USA
+Country Id: 4 || Country name: China

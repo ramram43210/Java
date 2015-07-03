@@ -1,0 +1,5 @@
+sourceList : [2000, 3000, 4000, 5000, 6000, 4000, 5000, 6000]
+
+targetList : [4000, 5000]
+
+indexPostion : 5
