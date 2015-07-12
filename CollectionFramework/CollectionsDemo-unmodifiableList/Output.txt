@@ -1,0 +1,7 @@
+arrayList : [2000, 3000, 4000, 1000]
+
+unmodifiableList : [2000, 3000, 4000, 1000]
+
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at java.util.Collections$UnmodifiableCollection.add(Collections.java:1055)
+	at CollectionsExample.main(CollectionsExample.java:53)

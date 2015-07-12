@@ -1,0 +1,8 @@
+employeeList before sort: 
+[Employee [employeeId=300, name=John], Employee [employeeId=103, name=David], Employee [employeeId=208, name=Peter], Employee [employeeId=202, name=Juli], Employee [employeeId=102, name=Ram]]
+
+employeeList after sort : 
+[Employee [employeeId=102, name=Ram], Employee [employeeId=103, name=David], Employee [employeeId=202, name=Juli], Employee [employeeId=208, name=Peter], Employee [employeeId=300, name=John]]
+
+index : 2
+employee name in  '2' index Position : Juli

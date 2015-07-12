@@ -1,0 +1,15 @@
+arrayList1 : [2000, 3000, 4000]
+
+arrayList2 : [100, 200, 300]
+
+isNoCommonElement : true
+No CommonElement exists in arrayList1 and arrayList2 
+
+*****************************************************
+
+arrayList3 : [10, 20, 30]
+
+arrayList4 : [1000, 1001, 10]
+
+isNoCommonElement : false
+CommonElement exists in arrayList3 and arrayList4 

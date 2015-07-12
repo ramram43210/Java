@@ -1,0 +1,6 @@
+singleTonSet : [Dave]
+
+singleTonList : [Julia]
+
+singleTonMap : {IN=India}
+

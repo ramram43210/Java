@@ -1,0 +1,3 @@
+linkedList before Sort [2, 1, 4, 3]
+
+linkedList sorted in ReverseOrder: [4, 3, 2, 1]

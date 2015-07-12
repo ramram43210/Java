@@ -1,0 +1,14 @@
+hashMap : {1=Apple, 2=Ball, 3=Cat}
+key : 1
+Exception in thread "main" java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1429)
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1453)
+	at HashMapFailFastExample.main(HashMapFailFastExample.java:28)
+
+---------------------------------------------------------------------
+
+hashtable : {3=Cat, 2=Ball, 1=Apple}
+3
+2
+1
+hashtable : {4=Dove, 3=Cat, 2=Ball, 1=Apple}

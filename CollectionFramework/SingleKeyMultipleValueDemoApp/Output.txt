@@ -1,0 +1,7 @@
+hashMap : {A=[Apple, Aeroplane], B=[Bat, Banana], C=[Cat, Car]}
+
+Fetching Keys and corresponding [Multiple] Values 
+
+Key = A , Values = [Apple, Aeroplane]
+Key = B , Values = [Bat, Banana]
+Key = C , Values = [Cat, Car]

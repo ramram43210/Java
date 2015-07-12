@@ -1,0 +1,5 @@
+list : [Ram, Ram, Ram, Ram, Ram]
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at java.util.AbstractList.add(AbstractList.java:148)
+	at java.util.AbstractList.add(AbstractList.java:108)
+	at CollectionsExample.main(CollectionsExample.java:36)

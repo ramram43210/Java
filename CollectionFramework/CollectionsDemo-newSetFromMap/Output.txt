@@ -1,0 +1,4 @@
+Map is: {}
+set is: []
+Set is: [Java, C, .Net]
+Map is: {Java=true, C=true, .Net=true}

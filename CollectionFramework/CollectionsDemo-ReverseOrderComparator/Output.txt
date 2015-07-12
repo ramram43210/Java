@@ -1,0 +1,23 @@
+Before sort the employeeList : 
+
+ID :300 Name :John
+ID :100 Name :David
+ID :200 Name :Peter
+ID :500 Name :Juli
+ID :400 Name :Ram
+
+After Sort the employeeList using ascEmployeeIdComparator : 
+
+ID :100 Name :David
+ID :200 Name :Peter
+ID :300 Name :John
+ID :400 Name :Ram
+ID :500 Name :Juli
+
+After Sort the employeeList using reverseEmployeeIdcomparator : 
+
+ID :500 Name :Juli
+ID :400 Name :Ram
+ID :300 Name :John
+ID :200 Name :Peter
+ID :100 Name :David

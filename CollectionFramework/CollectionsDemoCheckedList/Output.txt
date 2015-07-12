@@ -1,0 +1,10 @@
+myList : [one, two, three, four]
+
+Checked list : [one, two, three, four]
+
+myList : [one, two, three, four, 10]
+
+Exception in thread "main" java.lang.ClassCastException: Attempt to insert class java.lang.Integer element into collection with element type class java.lang.String
+	at java.util.Collections$CheckedCollection.typeCheck(Collections.java:3037)
+	at java.util.Collections$CheckedCollection.add(Collections.java:3080)
+	at CollectionsExample.main(CollectionsExample.java:53)
