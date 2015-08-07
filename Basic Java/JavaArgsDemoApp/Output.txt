@@ -1,0 +1,4 @@
+Argument Length : 3
+peter
+john
+juli

@@ -1,0 +1,12 @@
+Car Brand : Maruthi Alto
+Car Model : k10
+Car Color : Orange
+--------------------------------
+Car Brand : Swift
+Car Model : ZDI
+Car Color : Red
+--------------------------------
+Car Brand : Maruthi Alto
+Car Model : 800
+Car Color : Blue
+--------------------------------

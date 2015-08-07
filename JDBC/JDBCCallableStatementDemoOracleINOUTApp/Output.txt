@@ -1,0 +1,5 @@
+Enter the CountryId :AR
+countryName : Argentina
+Enter the CountryId :IN
+countryName : India
+Enter the CountryId :exit
