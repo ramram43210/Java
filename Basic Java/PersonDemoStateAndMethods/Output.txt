@@ -1,0 +1,26 @@
+Attributes
+--------------
+Name : Jackie Chan
+Age : 53
+sex : Male
+Height : 5’.9’'
+Weight : 52 Kg
+
+Behaviors
+----------
+Can eat only Chinese food
+Can do Martial art or Kung Fu Fight
+*********************************************
+Attributes
+--------------
+Name : Angelina Jolie
+Age : 45
+sex : FeMale
+Height : 6’.2’'
+Weight : 45 Kg
+
+Behaviors
+----------
+Can eat only American food
+Can do karate fight
+*********************************************

@@ -1,0 +1,10 @@
+Properties
+-----------------
+SoftwareEngineer salary is:50000
+Bonus of SoftwareEngineer is:30000
+
+Behaviours
+-----------------
+Can run
+Can Walk
+Can talk about Java

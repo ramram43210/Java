@@ -1,0 +1,29 @@
+Properties
+----------
+Name : Jimmy
+Color : Brown
+Height : 18 Inches
+Length : 36 Inches
+Weight : 30 Pounds
+
+Behaviors
+----------
+Sit fast
+Laydown fast
+Shake fast with one leg
+Walk fast
+*********************************************
+Properties
+----------
+Name : Tommy
+Color : white
+Height : 28 Inches
+Length : 46 Inches
+Weight : 40 Pounds
+
+Behaviors
+----------
+Sit slowly
+Laydown slowly
+Shake slowly with two legs
+Walk slowly

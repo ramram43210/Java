@@ -1,0 +1,39 @@
+Attributes
+--------------
+Name : Peter
+Age : 3
+Color : white
+sex : male
+
+Behaviors
+----------
+Peter can eat more foods
+Peter can drink more water
+Peter can run fast
+*********************************************
+Attributes
+--------------
+Name : John
+Age : 4
+Color : brown
+sex : male
+
+Behaviors
+----------
+John can eat less foods
+John can drink more water
+John can run slow
+*********************************************
+Attributes
+--------------
+Name : Julia
+Age : 2
+Color : white
+sex : female
+
+Behaviors
+----------
+Julia can eat less foods
+Julia can drink less water
+Julia can run fast
+*********************************************

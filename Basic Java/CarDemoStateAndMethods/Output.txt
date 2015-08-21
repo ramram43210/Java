@@ -1,0 +1,7 @@
+Change Maruthi Alto K10 Car gear to 2 and increase the speed to 100
+gear:2 speed:100
+------------------------------
+Change Swift Car gear to 3 and increase the speed to 200
+gear:3 speed:200
+Change Swift Car gear to 1 and apply break and decrease the speed from 200 to 150
+gear:1 speed:150

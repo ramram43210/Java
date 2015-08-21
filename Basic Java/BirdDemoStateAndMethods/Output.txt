@@ -1,0 +1,25 @@
+Characteristics
+--------------
+Name : Sparrow
+Color : Brown
+Can Swim : No
+Avg Life time : 3y
+Weight : 0.024kg
+
+Behaviors
+----------
+Can fly 46km/h
+Can walk 1km/h
+*********************************************
+Characteristics
+-------------
+Name : Penguin
+Color : White and Black
+Can Swim : Yes
+Avg Life time : 20y
+Weight : 15kg
+
+Behaviors
+----------
+Cannot fly
+Can walk 3 to 4 km/h

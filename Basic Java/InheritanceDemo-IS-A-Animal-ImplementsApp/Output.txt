@@ -1,0 +1,14 @@
+Mammal IS-A Animal : true
+
+Dog IS-A Mammal : true
+Dog IS-A Animal : true
+
+Elephant IS-A Mammal : true
+Elephant IS-A Animal : true
+
+Tiger IS-A Mammal : true
+Tiger IS-A Animal : true
+
+Parrot IS-A Animal : true
+
+Dove IS-A Animal : true

@@ -1,0 +1,4 @@
+Property of Child
+Property of Parent
+Child method
+Parent method
