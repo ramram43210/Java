@@ -1,0 +1,2 @@
+'A' shape Led Bulb is switched on
+'A' shape Led Bulb is switched off

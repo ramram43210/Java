@@ -1,0 +1,9 @@
+Employee Peter Details : 
+Employee [departmentName=Income Tax Department, employeeId=350, 
+address=Address [street=13th Cross, city=Bangalore, 
+state=Karnataka, zip=560001], getName()=Peter, getAge()=33]
+----------------------------------------------
+Student john Details : 
+Student [grade=3.5, rollNo=2, address=Address [street=17th Cross,
+city=Chennai, state=TamilNadu, zip=600100], getName()=John, 
+getAge()=33]
