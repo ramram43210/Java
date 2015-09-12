@@ -1,0 +1,8 @@
+package name: java.util
+Specification Title: Java Platform API Specification
+Specification Vendor: Oracle Corporation
+Specification Version: 1.8
+Implementaion Title: Java Runtime Environment
+Implementation Vendor: Oracle Corporation
+Implementation Version: 1.8.0_40
+Is sealed: false
