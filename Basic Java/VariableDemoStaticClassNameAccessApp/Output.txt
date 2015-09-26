@@ -1,0 +1,12 @@
+Name : John
+Age : 6
+SchoolCode : 5000
+**********************
+Name : Dave
+Age : 7
+SchoolCode : 5000
+**********************
+Name : juli
+Age : 5
+SchoolCode : 5000
+**********************

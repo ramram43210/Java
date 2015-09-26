@@ -1,0 +1,3 @@
+Name :John
+School Code : 1000
+has eaten 10 Biscuts

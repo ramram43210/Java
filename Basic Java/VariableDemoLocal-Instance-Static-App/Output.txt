@@ -1,0 +1,4 @@
+name : Peter
+age : 32
+companyCode : 2000
+salary : 50000
