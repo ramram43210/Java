@@ -1,0 +1,7 @@
+quitMsg : Are you sure you want to quit?
+password : swordfish
+value : Ram asked, "How are you?"
+hi,
+ Welcome
+
+title : Sams Teach Yourself Java While You Sleep™

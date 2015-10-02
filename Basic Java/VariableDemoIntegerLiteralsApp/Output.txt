@@ -1,0 +1,4 @@
+longValue : 100
+decVal : 26
+hexVal : 26
+binVal : 26

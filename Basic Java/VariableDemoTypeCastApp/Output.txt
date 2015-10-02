@@ -1,0 +1,9 @@
+Int value : 200
+Long value : 200
+Float value : 200.0
+
+--------------------------
+
+double value 200000.04
+int value 200000
+byte value 64

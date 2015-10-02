@@ -1,0 +1,7 @@
+longVariable : 10
+doubleVariable : 10.0
+
+------------------------
+
+longVariable 199 converted to intVariable : 199
+doubleVariable 2898.9999 converted to intVariable : 2898
