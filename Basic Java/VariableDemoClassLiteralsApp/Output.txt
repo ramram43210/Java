@@ -1,0 +1,3 @@
+Get stringClassObject using 'Class.forName' method: class java.lang.String
+Get stringClassObject using 'class Literal' : class java.lang.String
+Get longClassObject using 'class Literal'   : class java.lang.Long

@@ -1,0 +1,6 @@
+char_a : a
+char_3 : 3
+singleQuotationMark : '
+doubleQuotationMark : "
+captialA : A
+digitZero : 0

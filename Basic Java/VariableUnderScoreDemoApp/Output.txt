@@ -1,0 +1,8 @@
+creditCardNumber : 1234567890123456
+socialSecurityNumber : 999999999
+pi : 3.1415
+hexBytes : -1253794
+hexWords : -889275714
+maxLong : 9223372036854775807
+nybbles : 37
+bytes : -764832622
