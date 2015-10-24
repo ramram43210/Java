@@ -1,0 +1,12 @@
+Using for loop getting each element from the longArray
+
+Element at index 0 : 10000
+Element at index 1 : 30000
+Element at index 2 : 35000
+Element at index 3 : 40000
+Element at index 4 : 45000
+Element at index 5 : 42000
+Element at index 6 : 50000
+Element at index 7 : 60000
+Element at index 8 : 90000
+Element at index 9 : 80000

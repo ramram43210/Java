@@ -1,0 +1,10 @@
+Element at index 0: 300
+Element at index 1: 600
+Element at index 2: 900
+Element at index 3: 150
+Element at index 4: 4500
+Element at index 5: 5000
+Element at index 6: 3000
+Element at index 7: 1000
+Element at index 8: 8000
+Element at index 9: 2000

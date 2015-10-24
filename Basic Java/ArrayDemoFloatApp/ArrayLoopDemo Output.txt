@@ -1,0 +1,12 @@
+Using For loop get each element from floatArray
+
+Element at index 0 : 11.1
+Element at index 1 : 11.2
+Element at index 2 : 11.3
+Element at index 3 : 12.1
+Element at index 4 : 12.2
+Element at index 5 : 12.3
+Element at index 6 : 13.1
+Element at index 7 : 13.2
+Element at index 8 : 13.3
+Element at index 9 : 14.1

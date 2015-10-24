@@ -1,0 +1,12 @@
+Using For-each loop getting each element from the String Array
+
+Element at index 0 : Apple
+Element at index 1 : Ball
+Element at index 2 : Car
+Element at index 3 : Dog
+Element at index 4 : Eagle
+Element at index 5 : Fox
+Element at index 6 : Girl
+Element at index 7 : Horse
+Element at index 8 : Ink
+Element at index 9 : Jack

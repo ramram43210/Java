@@ -1,0 +1,12 @@
+Getting each element from the array using foreach loop:
+
+Element at Index 0 : 300
+Element at Index 1 : 600
+Element at Index 2 : 900
+Element at Index 3 : 150
+Element at Index 4 : 4500
+Element at Index 5 : 5000
+Element at Index 6 : 3000
+Element at Index 7 : 1000
+Element at Index 8 : 8000
+Element at Index 9 : 2000

@@ -1,0 +1,36 @@
+class ArrayLoopDemo
+{
+	public static void main(String[] args)
+	{
+		// declares an array of floats
+		float[] floatArray;
+
+		// allocates memory for 10 floats
+		floatArray = new float[10];
+
+		// initialize first element
+		floatArray[0] = 11.1f;
+		// initialize second element
+		floatArray[1] = 11.2f;
+		// and so forth
+		floatArray[2] = 11.3f;
+		floatArray[3] = 12.1f;
+		floatArray[4] = 12.2f;
+		floatArray[5] = 12.3f;
+		floatArray[6] = 13.1f;
+		floatArray[7] = 13.2f;
+		floatArray[8] = 13.3f;
+		floatArray[9] = 14.1f;
+
+		System.out.println("Using For loop get each element from floatArray\n");
+		
+		/*
+		 * Using For loop get all elements from floatArray
+		 */
+		for (int i = 0; i < floatArray.length; i++)
+		{
+			System.out.println("Element at index " + i + " : " + floatArray[i]);
+		}
+
+	}
+}
