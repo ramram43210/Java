@@ -1,0 +1,7 @@
+parentObject instanceof Parent: true
+parentObject instanceof Child: false
+parentObject instanceof Employee Interface: true
+
+childObject instanceof Parent: true
+childObject instanceof Child: true
+childObject instanceof Employee Interface: true

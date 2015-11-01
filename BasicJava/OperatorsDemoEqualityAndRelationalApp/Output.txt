@@ -1,0 +1,3 @@
+value5 != value10
+value5 < value10
+value5 <= value10
