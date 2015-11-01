@@ -1,0 +1,5 @@
+Element at index position 0 : 110
+Element at index position 1 : 220
+Element at index position 2 : 750
+Element at index position 3 : 130
+Element at index position 4 : 150

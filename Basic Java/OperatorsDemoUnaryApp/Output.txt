@@ -1,0 +1,8 @@
+unaryPlusValue : 1
+unaryMinusValue : -90
+Before incrementing, value of i : 1
+After incrementing, value of i : : 2
+Before decrementing, value of j : 6
+After decrementing, value of j : 5
+false
+true

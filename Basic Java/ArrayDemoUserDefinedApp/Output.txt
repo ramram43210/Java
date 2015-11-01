@@ -1,0 +1,5 @@
+Element at index 0 : Employee [name=Peter, age=23, salary=60000]
+Element at index 1 : Employee [name=John, age=33, salary=66000]
+Element at index 2 : Employee [name=Ram, age=31, salary=90000]
+Element at index 3 : Employee [name=David, age=24, salary=40000]
+Element at index 4 : Employee [name=Stephan, age=45, salary=95000]

@@ -1,0 +1,8 @@
+Element at strArray[0][0] : Ram
+Element at strArray[0][1] : Peter
+
+Element at strArray[1][0] : Apple
+Element at strArray[1][1] : Ball
+
+Element at strArray[2][0] : Bike
+Element at strArray[2][1] : Car

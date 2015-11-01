@@ -1,0 +1,14 @@
+Number of rows : 3
+
+Number of columns in row 0 is : 2
+Element at strArray[0][0] : Ram
+Element at strArray[0][1] : Peter
+
+Number of columns in row 1 is : 2
+Element at strArray[1][0] : Apple
+Element at strArray[1][1] : Ball
+
+Number of columns in row 2 is : 2
+Element at strArray[2][0] : Bike
+Element at strArray[2][1] : Car
+

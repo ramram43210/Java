@@ -1,0 +1,22 @@
+srcArray content 
+
+Element at Index 0 : 500
+Element at Index 1 : 600
+Element at Index 2 : 700
+Element at Index 3 : 800
+Element at Index 4 : 900
+----------------------------------------
+
+destArray content , Before Copy from srcArray to destArray
+
+Element at Index 0 : 0
+Element at Index 1 : 0
+Element at Index 2 : 0
+----------------------------------------
+
+destArray content , After Copy from srcArray to destArray
+
+Element at Index 0 : 700
+Element at Index 1 : 800
+Element at Index 2 : 900
+----------------------------------------

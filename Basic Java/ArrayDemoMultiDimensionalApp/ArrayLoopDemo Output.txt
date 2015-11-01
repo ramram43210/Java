@@ -1,0 +1,12 @@
+Number of rows : 2
+
+Number of columns in row 0 is : 3
+Element at intArray[0][0] : 10
+Element at intArray[0][1] : 20
+Element at intArray[0][2] : 30
+
+Number of columns in row 1 is : 3
+Element at intArray[1][0] : 100
+Element at intArray[1][1] : 200
+Element at intArray[1][2] : 300
+

@@ -1,0 +1,7 @@
+Element at intArray[0][0] : 10
+Element at intArray[0][1] : 20
+Element at intArray[0][2] : 30
+
+Element at intArray[1][0] : 100
+Element at intArray[1][1] : 200
+Element at intArray[1][2] : 300

@@ -1,0 +1,3 @@
+Length of the Array : 2
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
+	at ArrayDemo.main(ArrayDemo.java:15)

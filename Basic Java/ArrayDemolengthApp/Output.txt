@@ -1,0 +1,2 @@
+Length of the Array : 7
+Length of the Array : 7

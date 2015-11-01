@@ -1,0 +1,13 @@
+-------------------------------------------------------
+Using for each loop get all elements from doubleArray
+-------------------------------------------------------
+Element at Index 0 : 10.2
+Element at Index 1 : 20.3
+Element at Index 2 : 30.8
+Element at Index 3 : 50.8
+Element at Index 4 : 90.9
+Element at Index 5 : 100.8
+Element at Index 6 : 23.5
+Element at Index 7 : 99.9
+Element at Index 8 : 88.4
+Element at Index 9 : 97.8

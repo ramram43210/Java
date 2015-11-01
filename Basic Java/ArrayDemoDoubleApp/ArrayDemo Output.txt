@@ -1,0 +1,10 @@
+Element at index 0: 10.2
+Element at index 1: 20.3
+Element at index 2: 30.8
+Element at index 3: 50.8
+Element at index 4: 90.9
+Element at index 5: 100.8
+Element at index 6: 23.5
+Element at index 7: 99.9
+Element at index 8: 88.4
+Element at index 9: 97.8

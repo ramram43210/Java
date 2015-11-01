@@ -1,0 +1,2 @@
+Max value in intArray1 :750
+Max value in intArray2 :50

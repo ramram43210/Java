@@ -1,0 +1,10 @@
+Number of columns in row 0 is : 3
+Element at intArray[0][0] : 1
+Element at intArray[0][1] : 2
+Element at intArray[0][2] : 3
+
+Number of columns in row 1 is : 3
+Element at intArray[1][0] : 4
+Element at intArray[1][1] : 5
+Element at intArray[1][2] : 6
+
