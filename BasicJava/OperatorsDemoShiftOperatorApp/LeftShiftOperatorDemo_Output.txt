@@ -1,0 +1,5 @@
+binary of 'a'                       :   110011
+
+binary of 'value' after Left shift  : 11001100
+value : 204
+-----------------------------------

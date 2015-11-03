@@ -1,0 +1,4 @@
+binary of 'a'                        : 11001100
+
+binary of 'value' after Right shift  :   110011
+value: 51
