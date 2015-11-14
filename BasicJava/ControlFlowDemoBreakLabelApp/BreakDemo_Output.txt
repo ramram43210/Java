@@ -1,0 +1,28 @@
+i : 0
+
+j :0
+j : after break :0
+j :1
+j : after break :1
+j :2
+for loop j completed
+-------------------------
+i : 1
+
+j :0
+j : after break :0
+j :1
+j : after break :1
+j :2
+for loop j completed
+-------------------------
+i : 2
+
+j :0
+j : after break :0
+j :1
+j : after break :1
+j :2
+for loop j completed
+-------------------------
+for loop i Completed
