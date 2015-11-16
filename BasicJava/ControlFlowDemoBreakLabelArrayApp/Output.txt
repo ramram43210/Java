@@ -1,0 +1,5 @@
+i:0
+arrayOfInts[0][0] : 1
+arrayOfInts[0][1] : 2
+for loop i is completed.
+Found 2 at 0, 1

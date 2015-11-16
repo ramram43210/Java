@@ -1,0 +1,3 @@
+charAt(i) : l
+charAt(i) : l
+Found 2, l's in the string.
