@@ -1,0 +1,2 @@
+Both a and b are '0',So current method will exist
+End---

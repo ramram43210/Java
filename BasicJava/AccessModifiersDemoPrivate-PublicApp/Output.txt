@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The field Student.age is not visible
+
+	at StudentDemoTest.main(StudentDemoTest.java:8)
