@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The constructor Employee() is not visible
+
+	at EmployeeDemoTest.main(EmployeeDemoTest.java:7)

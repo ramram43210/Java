@@ -1,0 +1,15 @@
+Inside Employee() constructor
+Name : null
+Age  : 0
+------------------------------------
+Inside  Employee(String name) constructor
+Name : Dave
+Age  : 0
+------------------------------------
+Inside  Employee(String name,int age) constructor
+Name : John
+Age  : 45
+------------------------------------
+Inside  Employee(int age) constructor
+Name : null
+Age  : 54
