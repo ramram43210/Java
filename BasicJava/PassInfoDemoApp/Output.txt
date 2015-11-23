@@ -1,0 +1,2 @@
+x value inside changeIt method : 50
+x value inside main method : 3

@@ -1,0 +1,7 @@
+Before calling changeIt method 
+Name : null
+Age : 0
+-------------------------- 
+After calling changeIt method 
+Name : Sawyer
+Age : 29
