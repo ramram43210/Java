@@ -1,0 +1,2 @@
+Student@a70d6e2object is garbage collected, name :John
+Student@4b729dcobject is garbage collected, name :Peter

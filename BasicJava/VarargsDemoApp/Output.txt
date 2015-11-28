@@ -1,0 +1,12 @@
+intValue :2
+intValue :2
+
+total : 4
+--------------
+intValue :3
+intValue :3
+intValue :3
+intValue :3
+
+total : 12
+--------------

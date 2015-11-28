@@ -1,0 +1,15 @@
+Inside main before calling changeIt method: Employee@7e0b37bc
+Name : null
+Age  : 0
+-------------------------- 
+Inside changeIt method before assigning new Employee object to employeeObject reference: Employee@7e0b37bc
+Name : Sawyer
+Age  : 29
+-------------------------- 
+Inside changeIt method after assigning new Employee object to employeeObject reference: Employee@3b95a09c
+Name : null
+Age  : 0
+-------------------------- 
+Inside main after calling changeIt method: Employee@7e0b37bc
+Name : Sawyer
+Age  : 29
