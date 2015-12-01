@@ -1,0 +1,3 @@
+Default constructor is invoked ...
+Name : Peter
+age : 25
