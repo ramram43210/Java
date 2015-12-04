@@ -1,0 +1,4 @@
+studentObject : Student@64a294a6
+studentObject : Student@64a294a6
+Name : Peter
+Age  : 45
