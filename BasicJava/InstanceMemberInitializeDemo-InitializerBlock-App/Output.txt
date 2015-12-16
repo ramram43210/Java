@@ -1,0 +1,2 @@
+Inside  initializer block.
+capacity : 10

@@ -1,0 +1,4 @@
+First Static initialization block is called. 
+Second Static initialization block is called. 
+capacity : 10
+flag     : true
