@@ -7,7 +7,7 @@ public class OverloadingExample
 		System.out.println("total : " + total);
 	}
 
-	public void display(int a, int b, int c)
+	public void add(int a, int b, int c)
 	{
 		int total = a + b + c;
 		System.out.println("total : " + total);
