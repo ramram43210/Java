@@ -1,0 +1,3 @@
+message = Welcome John
+localVar = Local Variable
+param = I am Param

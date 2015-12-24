@@ -1,0 +1,5 @@
+x = 2000
+this = OuterClass$InnerClass@3b95a09c
+this.x = 500
+OuterClass.this = OuterClass@6ae40994
+OuterClass.this.x = 10

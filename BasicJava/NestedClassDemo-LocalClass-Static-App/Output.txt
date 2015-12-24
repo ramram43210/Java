@@ -1,0 +1,10 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	The field message cannot be declared static in a non-static inner type, 	
+	unless initialized with a constant expression
+	
+	The method greet cannot be declared static; static methods
+	can only be declared in a static or top level type
+
+	at OuterClass$1SayHello.<init>(OuterClass.java:15)
+	at OuterClass.greetInEnglish(OuterClass.java:23)
+	at LocalClassTest.main(LocalClassTest.java:7)
