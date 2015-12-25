@@ -1,0 +1,7 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	The member interface Hello can only be defined inside a top-level class or interface or in a static context
+	Hello cannot be resolved to a type
+	Hello cannot be resolved to a type
+
+	at OuterClass.greetInEnglish(OuterClass.java:11)
+	at LocalClassTest.main(LocalClassTest.java:7)
