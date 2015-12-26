@@ -1,0 +1,2 @@
+Employee walks slow
+salary : 50000
