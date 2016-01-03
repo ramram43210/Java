@@ -1,0 +1,3 @@
+Welcome by MyClass,Calling super interfaces default methods
+Welcome by InterfaceA
+Welcome by InterfaceB
