@@ -1,0 +1,2 @@
+Car can move very fast
+Vehicles can move
