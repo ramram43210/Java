@@ -1,4 +1,2 @@
-number : 901306555
-octalLiteral : 2387
-hexadecimalLiteral : 21793
-binaryLiteral : 137
+total : 4
+total : 15
