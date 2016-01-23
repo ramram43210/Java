@@ -1,0 +1,2 @@
+message : Welcome John
+Result  : 50

@@ -1,0 +1,4 @@
+I am a generic Animal.
+I am a Dog.
+I am a Lion.
+I am a Tiger.
