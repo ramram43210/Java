@@ -1,0 +1,8 @@
+Inside SuperClass(String name) constructor. 
+name = Peter
+Inside SubClass(String name) constructor. 
+--------------------------
+Inside SuperClass(String name,int age) constructor. 
+name = John
+age = 30
+Inside SubClass(String name,int age) constructor. 
