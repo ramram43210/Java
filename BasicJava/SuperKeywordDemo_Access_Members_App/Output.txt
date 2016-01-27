@@ -1,0 +1,4 @@
+Printed in Superclass.
+name : John
+super.name : Peter
+Printed in Subclass
