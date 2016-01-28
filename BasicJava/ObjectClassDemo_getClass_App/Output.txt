@@ -1,0 +1,3 @@
+employeeObj.getClass() = class Employee
+arrayListObj.getClass() = class java.util.ArrayList
+hashSetObj.getClass() = class java.util.HashSet

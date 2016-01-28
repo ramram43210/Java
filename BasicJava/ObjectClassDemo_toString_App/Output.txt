@@ -1,0 +1,2 @@
+toString() method is called.
+Employee [name=Peter, age=34, salary=50000, getClass()=class Employee, hashCode()=2114664380, toString()=Employee@7e0b37bc]
