@@ -1,0 +1,4 @@
+childrenStoryBookObj.hashCode() = 1704856573
+KidStoryBookObj.hashCode()      = 705927765
+childrenStoryBookObj.equals(KidStoryBookObj)      = false
+childrenStoryBookObj.equals(childrenStoryBookObj) = true
