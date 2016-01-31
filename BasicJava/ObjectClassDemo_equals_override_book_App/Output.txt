@@ -1,0 +1,3 @@
+childrenStoryBook.hashCode = 1537245
+KidStoryBook.hashCode = 1537245
+objects are equal
