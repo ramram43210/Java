@@ -1,0 +1,7 @@
+Original book Object ...
+Name        = Children Story
+ISBN Number = 2000
+----------------------------
+Cloned book Object ...
+Name        = Children Story
+ISBN Number = 2000
