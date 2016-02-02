@@ -11,12 +11,7 @@ public class MathDemo
 		 * Math.E, which is the base of natural logarithms.
 		 */
 		System.out.printf("The value of " + "e is %.4f%n", Math.E);
-		
-		/*
-		 * Math.PI, which is the ratio of the circumference
-		 * of a circle to its diameter.
-		 */
-		System.out.printf("The value of " + "PI is %.4f%n", Math.PI);
+
 
 		/*
 		 * Returns the base of the natural logarithms, e, to
