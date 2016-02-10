@@ -12,10 +12,10 @@ public class ValueOfDemo
 		 * Short) each provide a class method named valueOf
 		 * that converts a string to an object of that type
 		 */
-		int intVar = Integer.valueOf("100");
-		System.out.println("intVar    = " + intVar);
+		Integer integerObj = Integer.valueOf("100");
+		System.out.println("integerObj    = " + integerObj);
 
-		double doubleVar = Double.valueOf("20.289");
-		System.out.println("doubleVar = " + doubleVar);
+		Double doubleObj = Double.valueOf("20.289");
+		System.out.println("doubleObj = " + doubleObj);
 	}
 }
