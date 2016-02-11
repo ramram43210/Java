@@ -1,23 +1,23 @@
-public class CharAtDemo
+public class SubstringDemo
 {
 
 	public static void main(String[] args)
 	{
 		String str = "Welcome";
-		
+
 		/*
 		 * public String substring(int beginIndex, int
 		 * endIndex)
-		 * 
-		 * Parameters: 
+		 *
+		 * Parameters:
 		 * ----------
-		 * 
+		 *
 		 * beginIndex - the beginning index, inclusive.
 		 * endIndex - the ending index, exclusive.
-		 * 
-		 * Returns: 
+		 *
+		 * Returns:
 		 * -------
-		 * 
+		 *
 		 * Returns a string that is a substring of this
 		 * string. The substring begins at the specified
 		 * beginIndex and extends to the character at index
@@ -30,15 +30,15 @@ public class CharAtDemo
 
 		/*
 		 * public String substring(int beginIndex)
-		 * 
-		 * Parameters: 
+		 *
+		 * Parameters:
 		 * ----------
-		 * 
+		 *
 		 * beginIndex - the beginning index,inclusive.
-		 * 
-		 * Returns: 
+		 *
+		 * Returns:
 		 * -------
-		 * 
+		 *
 		 * Returns a string that is a substring of this
 		 * string. The substring begins with the character
 		 * at the specified index and extends to the end of
