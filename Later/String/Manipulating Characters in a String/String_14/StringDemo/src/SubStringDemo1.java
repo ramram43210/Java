@@ -4,20 +4,20 @@ public class SubStringDemo1
 	public static void main(String[] args)
 	{
 		String str = "Welcome";
-		
+
 		/*
 		 * public String substring(int beginIndex, int
-		 * endIndex)
-		 * 
-		 * Parameters: 
+		 *                                        endIndex)
+		 *
+		 * Parameters:
 		 * ----------
-		 * 
+		 *
 		 * beginIndex - the beginning index, inclusive.
 		 * endIndex - the ending index, exclusive.
-		 * 
-		 * Returns: 
+		 *
+		 * Returns:
 		 * -------
-		 * 
+		 *
 		 * Returns a string that is a substring of this
 		 * string. The substring begins at the specified
 		 * beginIndex and extends to the character at index
