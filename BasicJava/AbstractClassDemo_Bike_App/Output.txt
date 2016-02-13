@@ -1,0 +1,3 @@
+abstract class Bike constructor is called.
+running safely..
+gear changed
