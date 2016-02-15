@@ -1,4 +1,4 @@
-public class SplitDemo
+public class IndexOfDemo
 {
 
 	public static void main(String[] args)
@@ -7,23 +7,26 @@ public class SplitDemo
 
 		/*
 		 * public int indexOf(int ch)
-		 * 
-		 * Parameters: 
+		 *
+		 * Parameters:
 		 * ----------
-		 * 
+		 *
 		 * ch - a character (Unicode code point).
-		 * 
-		 * 
-		 * Returns: 
+		 *
+		 *
+		 * Returns:
 		 * -------
-		 * 
+		 *
 		 * Returns the index within this string of the first
 		 * occurrence of the specified character. , or -1 if
 		 * the character does not occur.
 		 */
 
 		int indexPosition = str.indexOf("e");
-		System.out.println("indexPosition = " + indexPosition);
+		System.out.println("indexOf("e") = " + indexPosition);
+
+		indexPosition = str.indexOf("a");
+		System.out.println("indexOf("a") = " + indexPosition);
 
 	}
 }
