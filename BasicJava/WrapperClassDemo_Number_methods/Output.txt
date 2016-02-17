@@ -1,0 +1,6 @@
+byteValue = 10
+shortValue = 10
+intValue = 10
+longValue = 10
+floatValue = 10.0
+doubleValue = 10.0

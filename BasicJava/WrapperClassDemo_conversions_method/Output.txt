@@ -1,0 +1,8 @@
+Integer.decode("99") = 99
+Integer.valueOf("108") = 108
+Integer.valueOf(10) = 10
+Integer.valueOf("333", 8) = 219
+integerObj.toString() = 219
+integerObj.toString(876) = 876
+Integer.parseInt("60") = 60
+Integer.parseInt("24", 8) = 20
