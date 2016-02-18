@@ -1,0 +1,4 @@
+integerObj1 = 80
+integerObj2 = 100
+doubleObj1 = 10.99
+doubleObj2 = 98.55
