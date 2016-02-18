@@ -1,4 +1,4 @@
-public class EndsWithDemo
+public class StartsWithDemo
 {
 	public static void main(String[] args)
 	{
@@ -6,15 +6,15 @@ public class EndsWithDemo
 
 		/*
 		 * public boolean endsWith(String suffix)
-		 * 
-		 * Parameters: 
+		 *
+		 * Parameters:
 		 * ----------
-		 * 
+		 *
 		 * prefix - the prefix.
-		 * 
-		 * Returns: 
+		 *
+		 * Returns:
 		 * -------
-		 * 
+		 *
 		 * true if the character sequence represented by the
 		 * argument is a prefix of the character sequence
 		 * represented by this string; false otherwise.
