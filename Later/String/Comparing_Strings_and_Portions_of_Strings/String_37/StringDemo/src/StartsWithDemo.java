@@ -1,26 +1,26 @@
-public class StartsWithDemo
+public class CompareToDemo
 {
 	public static void main(String[] args)
 	{
 
 		/*
 		 * public int compareTo(String anotherString)
-		 * 
-		 * Parameters: 
+		 *
+		 * Parameters:
 		 * ----------
-		 * 
+		 *
 		 * anotherString - the String to be compared.
-		 * 
-		 * Returns: 
+		 *
+		 * Returns:
 		 * -------
-		 * 
+		 *
 		 * the value 0 if the argument string is equal to
-		 * this string; 
-		 * 
+		 * this string;
+		 *
 		 * a value less than 0 if this string
 		 * is lexicographically less than the string
-		 * argument; 
-		 * 
+		 * argument;
+		 *
 		 * a value greater than 0 if this
 		 * string is lexicographically greater than the
 		 * string argument.
