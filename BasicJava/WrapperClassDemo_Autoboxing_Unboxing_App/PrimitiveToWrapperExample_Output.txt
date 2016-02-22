@@ -1,0 +1,2 @@
+integerObj1 = 300
+integerObj2 = 300

@@ -1,0 +1,3 @@
+integerObj = 3
+i = 3
+j = 3

@@ -1,0 +1,6 @@
+The absolute value of -200.635 is 200.635
+The ceiling of 23.74 is 24
+The floor of 23.74 is 23
+The rint of 23.74 is 24
+The max of 46 and 65 is 65
+The min of of 46 and 65 is 46

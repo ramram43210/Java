@@ -1,0 +1,7 @@
+The value of pi is 3.1416
+The sine of 25.0 degrees is 0.4226
+The cosine of 25.0 degrees is 0.9063
+The tangent of 25.0 degrees is 0.4663
+The arcsine of 0.4226 is 25.0000 degrees 
+The arccosine of 0.9063 is 25.0000 degrees 
+The arctangent of 0.4663 is 25.0000 degrees 

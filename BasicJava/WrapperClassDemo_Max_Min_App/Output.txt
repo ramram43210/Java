@@ -1,0 +1,12 @@
+Byte Max Value = 127
+Byte Min Value = -128
+Short Max Value = 32767
+Short Min Value = -32768
+Integer Max Value = 2147483647
+Integer Min Value = -2147483648
+Long Max Value = 9223372036854775807
+Long Min Value = -9223372036854775808
+Float Max Value = 3.4028235E38
+Float Min Value = 1.4E-45
+Double Max Value = 1.7976931348623157E308
+Double Min Value = 4.9E-324
