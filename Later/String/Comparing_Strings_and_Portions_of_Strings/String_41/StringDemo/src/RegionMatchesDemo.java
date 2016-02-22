@@ -34,14 +34,17 @@ public class RegionMatchesDemo
 		 * string argument; false otherwise.
 		 */
 
-		System.out.print("\"Welcome to ramj2ee.com\".regionMatches(\"ramj2ee\") = ");
-		System.out.println(Str1.regionMatches(11, Str2, 0, 7));
 
-		System.out.print("\"Welcome to ramj2ee.com\".regionMatches(\"RAMJ2EE\") = ");
-		System.out.println(Str1.regionMatches(11, Str3, 0, 7));
+				System.out
+						.print("\"Welcome to ramj2ee.com\".regionMatches(11,\"ramj2ee\",0,7) = ");
+				System.out.println(Str1.regionMatches(11, Str2, 0, 7));
 
-		System.out.print("\"Welcome to ramj2ee.com\".regionMatches(\"hello\") = ");
+				System.out
+						.print("\"Welcome to ramj2ee.com\".regionMatches(11,\"RAMJ2EE\",0,7) = ");
+				System.out.println(Str1.regionMatches(11, Str3, 0, 7));
+
+				System.out
+						.print("\"Welcome to ramj2ee.com\".regionMatches(11,\"hello\",0,7) = ");
 		System.out.println(Str1.regionMatches(11, Str4, 0, 7));
-
 	}
 }
