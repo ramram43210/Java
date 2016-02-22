@@ -3,7 +3,7 @@ public class RegionMatchesDemo
 	public static void main(String[] args)
 	{
 
-		String Str1 = new String("Welcome to ramj2ee.com");
+		String str1 = new String("Welcome to ramj2ee.com");
 		String Str2 = new String("ramj2ee");
 		String Str3 = new String("RAMJ2EE");
 		String Str4 = new String("hello");
