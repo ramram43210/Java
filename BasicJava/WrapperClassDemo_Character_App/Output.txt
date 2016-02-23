@@ -1,0 +1,4 @@
+ch = a
+characterObj = a
+characterObjParam = c
+chParam = z
