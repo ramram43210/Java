@@ -1,0 +1,8 @@
+Character.isLetter('a') = true
+Character.isDigit('2')  = true
+Character.isWhitespace(' ')  = true
+Character.isUpperCase('A')  = true
+Character.isLowerCase('a')  = true
+Character.toUpperCase('m') = M
+Character.toLowerCase('B') = b
+Character.toString('u') = u
