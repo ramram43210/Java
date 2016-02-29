@@ -1,0 +1,2 @@
+integerObj    = 100
+doubleObj = 20.289

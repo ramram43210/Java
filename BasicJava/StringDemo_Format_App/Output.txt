@@ -1,0 +1,1 @@
+The value of the float variable is 12.300000, while the value of the integer variable is 100,  and the string is Hello,
