@@ -1,0 +1,4 @@
+s = 543.48
+3 digits before decimal point.
+2 digits after decimal point.
+s3 = 190
