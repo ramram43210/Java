@@ -1,0 +1,2 @@
+strUpper1 = WELCOME
+strUpper2 = HELLO

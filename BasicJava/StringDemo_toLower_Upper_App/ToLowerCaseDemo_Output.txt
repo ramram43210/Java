@@ -1,0 +1,2 @@
+strLower1 = welcome
+strLower2 = hello
