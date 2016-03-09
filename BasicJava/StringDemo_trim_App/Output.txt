@@ -1,0 +1,4 @@
+str =     Welcome    
+str length = 15
+trimedValue = Welcome
+trimedValue length = 7
