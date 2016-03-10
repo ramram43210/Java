@@ -1,0 +1,3 @@
+indexOf('e') = 1
+indexOf('m') = 5
+indexOf('a') = -1
