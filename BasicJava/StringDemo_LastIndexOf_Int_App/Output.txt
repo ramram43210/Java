@@ -1,0 +1,3 @@
+lastIndexOf('e') = 6
+lastIndexOf('m') = 5
+lastIndexOf('a') = -1
