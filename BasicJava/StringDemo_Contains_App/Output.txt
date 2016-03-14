@@ -1,0 +1,2 @@
+contains("are") =  true
+contains("do")  =  false
