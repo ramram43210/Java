@@ -1,0 +1,2 @@
+indexOf("com") = 3
+indexOf("abc") = -1

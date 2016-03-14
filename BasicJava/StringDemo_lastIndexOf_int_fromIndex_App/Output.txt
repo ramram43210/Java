@@ -1,0 +1,1 @@
+lastIndexOf('e',5) = 4

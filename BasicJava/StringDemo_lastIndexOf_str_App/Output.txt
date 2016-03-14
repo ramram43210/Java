@@ -1,0 +1,2 @@
+lastIndexOf("com") = 8
+lastIndexOf("abc") = -1
