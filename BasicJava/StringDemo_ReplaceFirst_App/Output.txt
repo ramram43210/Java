@@ -1,0 +1,2 @@
+str         =  My name is Peter,her name is Juli
+replacedStr =  My name was Peter,her name is Juli
