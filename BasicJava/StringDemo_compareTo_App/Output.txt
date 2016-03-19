@@ -1,0 +1,3 @@
+"Welcome".compareTo("Welcome") = 0
+"Hello".compareTo("Welcome") = -15
+"Welcome".compareTo("Apple") = 22

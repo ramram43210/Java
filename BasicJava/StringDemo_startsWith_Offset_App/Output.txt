@@ -1,0 +1,2 @@
+startsWith("come", 3) = true
+startsWith("come", 0) = false
