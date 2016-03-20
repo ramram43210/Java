@@ -1,0 +1,2 @@
+"Welcome to ramj2ee.com".matches("Welcome(.*)") = true
+"Welcome to ramj2ee.com".matches("(.*)ramj2ee(.*)") = true
