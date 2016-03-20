@@ -1,0 +1,2 @@
+"welcome".compareTo("WELCOME") = 32
+"welcome".compareToIgnoreCase("WELCOME") = 0

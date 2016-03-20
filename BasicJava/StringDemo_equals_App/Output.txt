@@ -1,0 +1,3 @@
+"welcome".equals("welcome") = true
+"welcome".equals("WELCOME") = false
+"welcome".equals("hello")   = false
