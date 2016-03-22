@@ -1,0 +1,7 @@
+byteArray of "Hi" with charsetName "UTF-8" = [B@1a93a7ca
+72
+105
+--------------------
+byteArray of "Hi" with charsetName "ISO-8859-1" = [B@66cd51c3
+72
+105
