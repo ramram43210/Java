@@ -1,0 +1,3 @@
+byteArray of "Hi" = [B@659e0bfd
+72
+105
