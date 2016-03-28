@@ -1,0 +1,2 @@
+str.contentEquals(sb1) = true
+str.contentEquals(sb2) = false

@@ -1,0 +1,2 @@
+"Welcome Peter".contentEquals("Hi") = false
+"Welcome Peter".contentEquals("Welcome Peter") = true
