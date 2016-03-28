@@ -1,0 +1,2 @@
+String = JAVA
+Character(unicode point) = 65
