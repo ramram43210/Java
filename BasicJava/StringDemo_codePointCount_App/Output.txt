@@ -1,0 +1,2 @@
+String = JAVA programming language
+Codepoint count = 7
