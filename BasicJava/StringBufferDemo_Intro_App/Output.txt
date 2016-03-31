@@ -1,0 +1,11 @@
+sb1 = 
+sb1 capacity = 16
+-----------------------
+sb2 = 
+sb2 capacity = 50
+-----------------------
+sb3 = Hello
+sb3 capacity = 21
+-----------------------
+sb4 = Welcome
+sb4 capacity = 23
