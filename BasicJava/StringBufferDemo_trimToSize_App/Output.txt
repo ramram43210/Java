@@ -1,0 +1,4 @@
+Before timeToSize,Length =  7
+Before timeToSize,Capacity =  23
+After timeToSize,Length =  7
+After timeToSize,Capacity  =  7

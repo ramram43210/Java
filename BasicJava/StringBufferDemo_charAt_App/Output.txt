@@ -1,0 +1,2 @@
+charAt(3) = c
+charAt(5) = m
