@@ -1,0 +1,2 @@
+sb = com.com.com
+lastIndexOf("com",7) = 4

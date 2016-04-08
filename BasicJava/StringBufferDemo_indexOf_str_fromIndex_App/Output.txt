@@ -1,0 +1,1 @@
+indexOf("com",2) = 4
