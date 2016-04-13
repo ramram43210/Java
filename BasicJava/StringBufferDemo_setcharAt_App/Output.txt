@@ -1,0 +1,2 @@
+Before setCharAt, sb = Dig
+After setCharAt, sb  = Dog

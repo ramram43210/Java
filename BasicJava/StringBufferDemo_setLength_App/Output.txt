@@ -1,0 +1,4 @@
+Before setLength, sb = Welcome
+Before setLength, sb = 7
+After setLength, sb = Wel
+After setLength, sb = 3
