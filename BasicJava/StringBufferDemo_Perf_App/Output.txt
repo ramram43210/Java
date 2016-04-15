@@ -1,0 +1,2 @@
+Time taken by Concating with String      : 15249ms
+Time taken by Concating with StringBuffer: 10ms
