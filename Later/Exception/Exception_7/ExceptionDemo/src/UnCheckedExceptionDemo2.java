@@ -14,13 +14,15 @@ public class UnCheckedExceptionDemo2
 
 		try
 		{
-			int intArray[] = { 155, 345, 999 };
+			int intArray[] =
+			{ 155, 345, 999 };
 			System.out.println(intArray[index]);
 		}
-		catch (ArithmeticException arithmeticException)
+		catch (ArrayIndexOutOfBoundsException arrayIndexOutOfBoundsException)
 		{
-			System.out
-					.println("Enter the index value less than or equal to 2.");
+			System.out.println("Enter the index value less "
+					+ "than or equal to 2,\nbecause "
+					+ "size of the array is 3");
 		}
 
 	}
