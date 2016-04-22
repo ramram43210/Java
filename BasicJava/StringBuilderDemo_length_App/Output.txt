@@ -1,0 +1,4 @@
+sb = 
+length = 0
+sb = Welcome
+length = 7
