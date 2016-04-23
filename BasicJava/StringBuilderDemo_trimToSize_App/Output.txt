@@ -1,0 +1,2 @@
+Before timeToSize,Capacity =  23
+After timeToSize,Capacity  =  7
