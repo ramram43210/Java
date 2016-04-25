@@ -1,0 +1,2 @@
+sb = com.com.com
+indexOf("com",2) = 4
