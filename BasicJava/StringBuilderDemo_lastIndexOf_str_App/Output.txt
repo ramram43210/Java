@@ -1,0 +1,3 @@
+sb = Welcome.com
+lastIndexOf("com") = 8
+lastIndexOf("abc") = -1
