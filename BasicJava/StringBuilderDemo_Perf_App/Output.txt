@@ -1,0 +1,3 @@
+Time taken by Concatenating with String       : 17394ms
+Time taken by Concatenating with StringBuffer :  20ms
+Time taken by Concatenating with StringBuilder: 10ms
