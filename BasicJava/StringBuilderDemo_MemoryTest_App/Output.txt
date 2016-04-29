@@ -1,0 +1,25 @@
+Initial Max memory in Java virtual machine in KBs=919552
+...........................................................
+String memory test
+
+Initial Total memory in Java virtual machine in KBs=62976
+Initial Free memory in Java virtual machine in KBs=61992
+Time taken to complete the process in MilliSeconds:7729
+Memory used by String in KBs=130666
+Free Memory after GC in KBs=349431
+...........................................................
+StringBuffer memory test
+
+Initial Total memory in Java virtual machine in KBs=355840
+Initial Free memory in Java virtual machine in KBs=349431
+Time taken to complete the process in MilliSeconds:11
+Memory used by StringBuffer in KBs=0
+Free Memory after GC in KBs=348918
+............................................................
+StringBuilder memory test
+
+Initial Total memory in Java virtual machine in KBs=355328
+Initial Free memory in Java virtual machine in KBs=348918
+Time taken to complete the process in MilliSeconds:5
+Memory used by StringBuilder in KBs=0
+Free Memory after GC in KBs=348406

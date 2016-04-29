@@ -1,0 +1,7 @@
+Hashcode test of String:
+Before Concat,HashCode = -1397214398
+After Concat,HashCode  = 44468202
+---------------------------------
+Hashcode test of StringBuilder:
+Before Concat,HashCode = 2114664380
+After Concat,HashCode  = 2114664380
