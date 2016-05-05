@@ -1,0 +1,4 @@
+intValue = 50
+doubleValue = 45.9
+Exception in thread "main" java.lang.NullPointerException
+	at ExceptionDemo.main(ExceptionDemo.java:14)

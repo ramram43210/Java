@@ -1,0 +1,2 @@
+absolute value of -8 = 8
+doubleValue = 12.3
