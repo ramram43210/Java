@@ -1,0 +1,5 @@
+intValue = 50
+doubleValue = 45.9
+String value is null
+floatValue = 10.0
+longValue = 45000
