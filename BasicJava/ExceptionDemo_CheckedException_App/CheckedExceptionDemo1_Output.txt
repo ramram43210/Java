@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	Unhandled exception type FileNotFoundException
+	Unhandled exception type IOException
+	Unhandled exception type IOException
+
+	at CheckedExceptionDemo1.main(CheckedExceptionDemo1.java:21)
