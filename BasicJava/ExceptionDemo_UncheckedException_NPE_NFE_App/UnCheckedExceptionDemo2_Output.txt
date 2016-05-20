@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.NumberFormatException: For input string: "abc"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at UnCheckedExceptionDemo2.main(UnCheckedExceptionDemo2.java:18)

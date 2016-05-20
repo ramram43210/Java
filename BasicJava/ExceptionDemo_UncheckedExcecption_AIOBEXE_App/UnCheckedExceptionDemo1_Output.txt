@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 5
+	at UnCheckedExceptionDemo1.main(UnCheckedExceptionDemo1.java:20)

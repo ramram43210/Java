@@ -1,0 +1,4 @@
+Enter the index: 10
+Enter the index value less than or equal to 2,
+because size of the array is 3
+Normal flow...

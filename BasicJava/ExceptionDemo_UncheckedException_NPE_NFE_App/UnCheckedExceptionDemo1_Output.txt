@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.NullPointerException
+	at UnCheckedExceptionDemo1.main(UnCheckedExceptionDemo1.java:18)
