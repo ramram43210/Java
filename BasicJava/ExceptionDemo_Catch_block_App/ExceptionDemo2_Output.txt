@@ -1,0 +1,2 @@
+String is null
+fullName = nullPeter

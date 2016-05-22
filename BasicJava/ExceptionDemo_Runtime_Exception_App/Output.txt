@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at RuntimeExceptionDemo.main(RuntimeExceptionDemo.java:9)
