@@ -1,0 +1,3 @@
+Divided by zero is not possible
+Welcome
+Hello

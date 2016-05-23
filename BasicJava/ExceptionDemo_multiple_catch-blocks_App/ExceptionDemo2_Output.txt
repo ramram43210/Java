@@ -1,0 +1,12 @@
+Enter the index : 8
+list = [Dave, null]
+Enter the index value less than or equal to 1.
+Normal flow..
+
+----------------------------------------------
+
+Enter the index : 1
+list = [Dave, null]
+str = null
+String value is null,so cannot calculate the length.
+Normal flow..

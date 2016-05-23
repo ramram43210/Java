@@ -1,0 +1,14 @@
+Enter the index : 8
+list = [Dave, null]Exception in thread "main" 
+        java.lang.IndexOutOfBoundsException: Index: 8, Size: 2
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at ExceptionDemo1.main(ExceptionDemo1.java:18)
+
+------------------------------------------------------------
+
+Enter the index : 1
+list = [Dave, null]
+str = null
+Exception in thread "main" java.lang.NullPointerException
+	at ExceptionDemo1.main(ExceptionDemo1.java:20)
