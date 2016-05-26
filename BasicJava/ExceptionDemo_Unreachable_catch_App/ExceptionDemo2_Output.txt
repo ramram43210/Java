@@ -1,0 +1,3 @@
+java.lang.NullPointerException
+	at ExceptionDemo2.main(ExceptionDemo2.java:10)
+fullName = nullPeter

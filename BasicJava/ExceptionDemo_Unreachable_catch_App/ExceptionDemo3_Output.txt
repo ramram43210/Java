@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Unreachable catch block for NullPointerException. It is already handled by the catch block for Exception
+
+	at ExceptionDemo3.main(ExceptionDemo3.java:19)
