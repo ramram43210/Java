@@ -1,0 +1,2 @@
+Divide by zero is not possible.
+finally block is always executed.

@@ -1,0 +1,9 @@
+Enter the fileName : hi.txt
+Exception in thread "main" java.io.FileNotFoundException: hi.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at ThrowsDemo3.getFileInfo(ThrowsDemo3.java:28)
+	at ThrowsDemo3.main(ThrowsDemo3.java:11)

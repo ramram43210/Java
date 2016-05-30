@@ -1,0 +1,12 @@
+Enter the value of a : 10
+Enter the value of b : 5
+c = 2
+finally block is always executed.
+
+---------------------------------
+
+Enter the value of a : 10
+Enter the value of b : 0
+finally block is always executed.
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at FinallyDemo.main(FinallyDemo.java:15)

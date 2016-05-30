@@ -1,0 +1,3 @@
+Enter the fileName : hi.txt
+Exception handled inside FileNotFoundException catch block.
+normal flow...

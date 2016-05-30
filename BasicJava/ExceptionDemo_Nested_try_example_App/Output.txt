@@ -1,0 +1,3 @@
+java.lang.ArrayIndexOutOfBoundsException: 15
+	at NestedTryBlockDemo.main(NestedTryBlockDemo.java:10)
+normal flow..

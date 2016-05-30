@@ -1,0 +1,17 @@
+Enter the fileName : myfile.txt
+Peter
+David
+Julia
+Inside finally block....,close the BufferedReader....
+
+-----------------------------------------------
+
+Enter the fileName : hi.txt
+java.io.FileNotFoundException: hi.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at FinallyDemo.main(FinallyDemo.java:26)
+Inside finally block....

@@ -1,0 +1,4 @@
+Enter the fileName : hi.txt
+Rethrowing the IOException
+Exception handled.
+normal flow...

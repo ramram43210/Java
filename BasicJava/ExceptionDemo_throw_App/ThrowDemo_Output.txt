@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.ArithmeticException: Not eligible to apply for Govt Jobs
+	at ThrowDemo.validateAge(ThrowDemo.java:15)
+	at ThrowDemo.main(ThrowDemo.java:7)

@@ -1,0 +1,11 @@
+Enter the fileName : myfile.txt
+Peter
+David
+Julia
+normal flow...
+
+---------------------------------
+
+Enter the fileName : hi.txt
+Exception handled.
+normal flow...

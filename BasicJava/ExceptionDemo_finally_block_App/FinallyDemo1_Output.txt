@@ -1,0 +1,2 @@
+b = 6
+finally block is always executed.
