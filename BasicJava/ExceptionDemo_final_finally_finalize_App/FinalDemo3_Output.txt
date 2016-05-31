@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from SubClass1 to SuperClass1
+
+	at FinalDemo3.main(FinalDemo3.java:23)

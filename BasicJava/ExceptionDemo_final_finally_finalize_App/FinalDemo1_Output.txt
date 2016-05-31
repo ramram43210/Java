@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The final local variable intValue cannot be assigned. It must be blank and not using a compound assignment
+
+	at FinalDemo1.main(FinalDemo1.java:11)

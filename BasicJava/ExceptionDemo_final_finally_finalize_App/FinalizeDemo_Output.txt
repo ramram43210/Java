@@ -1,0 +1,2 @@
+FinalizeDemo2 Object finalize method is called
+FinalizeDemo1 Object finalize method is called
