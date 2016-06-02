@@ -1,0 +1,4 @@
+InsufficientBalanceException: Your account does not have enough money to withdraw.
+	at CustomExceptionDemo.withdrawMoney(CustomExceptionDemo.java:25)
+	at CustomExceptionDemo.main(CustomExceptionDemo.java:9)
+message = Your account does not have enough money to withdraw.

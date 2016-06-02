@@ -1,0 +1,4 @@
+InvalidAgeException: Not a valid age to apply for Govt. jobs
+	at CustomExceptionDemo.validate(CustomExceptionDemo.java:23)
+	at CustomExceptionDemo.main(CustomExceptionDemo.java:9)
+message = Not a valid age to apply for Govt. jobs
