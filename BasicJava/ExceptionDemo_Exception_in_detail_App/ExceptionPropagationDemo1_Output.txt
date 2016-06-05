@@ -1,0 +1,11 @@
+method1() is called.
+method2() is called.
+method3() is called.
+java.lang.NullPointerException
+	at ExceptionPropagationDemo1.method3(ExceptionPropagationDemo1.java:37)
+	at ExceptionPropagationDemo1.method2(ExceptionPropagationDemo1.java:30)
+	at ExceptionPropagationDemo1.method1(ExceptionPropagationDemo1.java:16)
+	at ExceptionPropagationDemo1.main(ExceptionPropagationDemo1.java:7)
+Exception handled in method1().
+method1 completed.
+Normal flow.

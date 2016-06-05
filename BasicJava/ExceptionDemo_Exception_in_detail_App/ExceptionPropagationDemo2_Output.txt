@@ -1,0 +1,8 @@
+method1() is called.
+method2() is called.
+method3() is called.
+Exception in thread "main" java.lang.NullPointerException
+	at ExceptionPropagationDemo2.method3(ExceptionPropagationDemo2.java:28)
+	at ExceptionPropagationDemo2.method2(ExceptionPropagationDemo2.java:21)
+	at ExceptionPropagationDemo2.method1(ExceptionPropagationDemo2.java:14)
+	at ExceptionPropagationDemo2.main(ExceptionPropagationDemo2.java:7)
