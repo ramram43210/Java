@@ -1,0 +1,15 @@
+Enter the fileName:hello.txt
+The specified file is not present at the given path.
+ 
+Inside finally block
+
+----------------------------------------------
+
+Enter the fileName:a.txt
+ 
+Inside finally block
+Exception in thread "main" java.lang.NullPointerException
+	at java.io.FileInputStream.<init>(FileInputStream.java:130)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at ExceptionDemo.main(ExceptionDemo.java:34)
