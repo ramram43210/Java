@@ -1,16 +1,17 @@
 import java.io.FileOutputStream;
 import java.io.IOException;
-
 /*
-public FileOutputStream(String name)
-                 throws FileNotFoundException
-
-Parameters:
-----------
-name - the system-dependent filename
-
-*/
-
+ * public FileOutputStream(String name, boolean append)
+ *                              throws FileNotFoundException 
+ *  
+ * Parameters:
+ * ----------- 
+ * 
+ * name - the system-dependent file name
+ * 
+ * append - if true, then bytes will be written to the
+ * end of the file rather than the beginning
+ */
 public class FileOutputStreamDemo
 {
 
@@ -28,10 +29,14 @@ public class FileOutputStreamDemo
 		{
 			/*
 			 * Creates a file output stream to write to the
-			 * file with the specified name.
+			 * file with the specified name. If the second
+			 * argument is true, then bytes will be written
+			 * to the end of the file rather than the
+			 * beginning.
 			 */
-			fileOutputStream = new FileOutputStream("myfile.txt");
-			String str = "Peter is coming to India";
+			fileOutputStream = new FileOutputStream("myfile.txt",
+					true);
+			String str = "Peter is coming to India. ";
 
 			/*
 			 * Converting string into byte array
