@@ -1,16 +1,16 @@
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
 /*
-
-public FileInputStream(String name)
-                throws FileNotFoundException
-
-
-Parameters:
-name - the system-dependent file name.
-
-*/
+ * public FileInputStream(File file) throws
+ *                          FileNotFoundException
+ * 
+ * Parameters: 
+ * ----------
+ * 
+ * file - the file to be opened for reading.
+ */
 
 public class FileInputStreamDemo
 {
@@ -27,12 +27,13 @@ public class FileInputStreamDemo
 
 		try
 		{
+			File file = new File("myfile.txt");
 			/*
 			 * Creates a FileInputStream by opening a
 			 * connection to an actual file, the file named
-			 * by the path name name in the file system.
+			 * by the File object file in the file system.
 			 */
-			fileInputStream = new FileInputStream("myfile.txt");
+			fileInputStream = new FileInputStream(file);
 			int i;
 
 			/*
