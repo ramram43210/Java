@@ -3,14 +3,18 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /*
- * public FileOutputStream(File file)
- *              throws FileNotFoundException
- *
+ * public FileOutputStream(File file, boolean append)
+ *                          throws FileNotFoundException
+ * 
  * Parameters:
- * ----------
+ * ----------- 
+ * 
  * file - the file to be opened for writing.
- *
+ * 
+ * append - if true, then bytes will be written to the
+ * end of the file rather than the beginning
  */
+
 public class FileOutputStreamDemo
 {
 
@@ -31,10 +35,12 @@ public class FileOutputStreamDemo
 			/*
 			 * Creates a file output stream to write to the
 			 * file represented by the specified File
-			 * object.
+			 * object. If the second argument is true, then
+			 * bytes will be written to the end of the file
+			 * rather than the beginning.
 			 */
 
-			fileOutputStream = new FileOutputStream(file);
+			fileOutputStream = new FileOutputStream(file, true);
 			String str = "Peter is coming to India. ";
 
 			/*
