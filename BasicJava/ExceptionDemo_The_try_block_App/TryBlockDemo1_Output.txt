@@ -1,0 +1,5 @@
+java.lang.NullPointerException
+	at TryBlockDemo1.main(TryBlockDemo1.java:13)
+java.lang.ArithmeticException: / by zero
+	at TryBlockDemo1.main(TryBlockDemo1.java:25)
+Normal flow---

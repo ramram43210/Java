@@ -1,0 +1,3 @@
+java.lang.NullPointerException
+	at FinallyBlockDemo.main(FinallyBlockDemo.java:12)
+finally block is called.

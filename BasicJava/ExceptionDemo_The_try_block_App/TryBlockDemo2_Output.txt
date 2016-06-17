@@ -1,0 +1,3 @@
+java.lang.NullPointerException
+	at TryBlockDemo2.main(TryBlockDemo2.java:12)
+Normal flow---

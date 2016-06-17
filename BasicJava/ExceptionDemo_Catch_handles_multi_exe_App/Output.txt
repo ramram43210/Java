@@ -1,0 +1,3 @@
+java.lang.NullPointerException
+	at CatchBlockDemo.main(CatchBlockDemo.java:12)
+Normal flow---
