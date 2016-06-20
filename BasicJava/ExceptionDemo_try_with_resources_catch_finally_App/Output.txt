@@ -1,0 +1,2 @@
+finally block is called
+firstLine = Peter
