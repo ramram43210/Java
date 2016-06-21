@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.ArithmeticException
+	at ThrowDemo.getNumber(ThrowDemo.java:13)
+	at ThrowDemo.main(ThrowDemo.java:6)
