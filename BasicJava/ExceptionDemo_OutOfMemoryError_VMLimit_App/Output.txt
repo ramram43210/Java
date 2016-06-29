@@ -1,0 +1,2 @@
+Exception in thread "main" java.lang.OutOfMemoryError: Requested array size exceeds VM limit
+        at OutOfMemoryErrorDemo.main(OutOfMemoryErrorDemo.java:7)

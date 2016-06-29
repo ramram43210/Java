@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+        at java.util.Arrays.copyOfRange(Unknown Source)
+        at java.lang.String.<init>(Unknown Source)
+        at java.lang.StringBuilder.toString(Unknown Source)
+        at OutOfMemoryErrorDemo.main(OutOfMemoryErrorDemo.java:17)
