@@ -5,7 +5,7 @@ public class ScannerDemo
 {
 
 	public static void main(String[] args)
-			throws FileNotFoundException
+
 	{
 		Scanner scanner = null;
 		try
