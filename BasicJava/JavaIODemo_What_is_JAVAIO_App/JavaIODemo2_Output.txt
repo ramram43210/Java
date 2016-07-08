@@ -1,0 +1,3 @@
+Enter the Value = a
+intValue = 97
+a
