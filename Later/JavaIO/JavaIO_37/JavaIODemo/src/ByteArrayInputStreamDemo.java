@@ -22,6 +22,9 @@ public class ByteArrayInputStreamDemo
 			System.out.println("All the elements in the buffer:");
 
 			int num;
+			/*
+			*read every number inside the buffer using the read() method, which returns -1 if the end of the buffer is reached.
+			*/
 			while ((num = byteArrayInputStream.read()) != -1)
 			{
 				System.out.print(num + " ");
