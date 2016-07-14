@@ -1,22 +1,24 @@
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
 /*
- * public FileReader(String fileName) throws
- *                           FileNotFoundException
+ * public FileReader(File file) throws
+ *                   FileNotFoundException
  * 
- * Parameters:
+ * Parameters: 
  * ----------
  * 
- * fileName - the name of the file to read from
+ * file - the File to read from
  */
-public class FileReaderDemo1
+
+public class FileReaderDemo
 {
 
 	public static void main(String[] args) throws IOException
 	{
-		FileReaderDemo1 fileReaderDemo1 = new FileReaderDemo1();
-		fileReaderDemo1.readFile();
+		FileReaderDemo fileReaderDemo = new FileReaderDemo();
+		fileReaderDemo.readFile();
 	}
 
 	private void readFile() throws IOException
@@ -25,12 +27,12 @@ public class FileReaderDemo1
 
 		try
 		{
-
+			File file = new File("myfile.txt");
 			/*
-			 * Creates a new FileReader, given the name of
-			 * the file to read from.
+			 * Creates a new FileReader, given the File to
+			 * read from.
 			 */
-			fileReader = new FileReader("myfile.txt");
+			fileReader = new FileReader(file);
 			int i;
 
 			/*
@@ -59,5 +61,4 @@ public class FileReaderDemo1
 			}
 		}
 	}
-
 }

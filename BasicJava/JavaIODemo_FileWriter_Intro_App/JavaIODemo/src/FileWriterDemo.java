@@ -10,13 +10,13 @@ import java.io.IOException;
  * fileName - String The system-dependent filename.
  */
 
-public class FileWriterDemo1
+public class FileWriterDemo
 {
 
 	public static void main(String[] args) throws IOException
 	{
-		FileWriterDemo1 fileWriterDemo1 = new FileWriterDemo1();
-		fileWriterDemo1.writeFile();
+		FileWriterDemo fileWriterDemo = new FileWriterDemo();
+		fileWriterDemo.writeFile();
 	}
 
 	private void writeFile() throws IOException
@@ -30,7 +30,8 @@ public class FileWriterDemo1
 			 * Constructs a FileWriter object given a file
 			 * name.
 			 */
-			fileWriter = new FileWriter("myfile.txt");
+			String fileName = "myfile.txt";
+			fileWriter = new FileWriter(fileName);
 			/*
 			 * Writes a string.
 			 */

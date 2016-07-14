@@ -11,13 +11,13 @@ import java.io.IOException;
  * file - a File object to write to.
  */
 
-public class FileWriterDemo2
+public class FileWriterDemo
 {
 
 	public static void main(String[] args) throws IOException
 	{
-		FileWriterDemo2 fileWriterDemo2 = new FileWriterDemo2();
-		fileWriterDemo2.writeFile();
+		FileWriterDemo fileWriterDemo = new FileWriterDemo();
+		fileWriterDemo.writeFile();
 	}
 
 	private void writeFile() throws IOException
