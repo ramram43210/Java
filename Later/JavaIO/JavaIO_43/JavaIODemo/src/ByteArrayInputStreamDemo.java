@@ -1,5 +1,4 @@
 import java.io.ByteArrayOutputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class ByteArrayInputStreamDemo
@@ -7,22 +6,33 @@ public class ByteArrayInputStreamDemo
 
 	public static void main(String[] args) throws IOException
 	{
-		FileOutputStream fileOutputStream1 = new FileOutputStream(
-				"myfile1.txt");
-
-		FileOutputStream fileOutputStream2 = new FileOutputStream(
-				"myfile2.txt");
-
 		ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
 
-		String str = "Welcome to India";
+		String s = "Welcome to India.";
+		byte buf[] = s.getBytes();
+		byteArrayOutputStream.write(buf);
 
-		byteArrayOutputStream.write(str.getBytes());
-		byteArrayOutputStream.writeTo(fileOutputStream1);
-		byteArrayOutputStream.writeTo(fileOutputStream2);
+		System.out.println("Buffer as a string");
+		/*
+		 * Returns String decoded from the buffer's
+		 * contents.
+		 */
+		String bufferContent = byteArrayOutputStream.toString();
+		System.out.println(bufferContent);
 
-		byteArrayOutputStream.flush();
-		byteArrayOutputStream.close();// has no effect
-		System.out.println("successfully written to two files...");
+		System.out.println("----------------------------------");
+		System.out.println("Into array");
+
+		/*
+		 * Returns the current contents of this output
+		 * stream, as a byte array
+		 */
+		byte b[] = byteArrayOutputStream.toByteArray();
+
+		for (int i = 0; i < b.length; i++)
+		{
+			System.out.print((char) b[i]);
+		}
 	}
+
 }
