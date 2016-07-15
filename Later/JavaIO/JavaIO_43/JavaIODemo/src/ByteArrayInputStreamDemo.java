@@ -1,7 +1,7 @@
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
-public class ByteArrayInputStreamDemo
+public class ByteArrayOutputStreamDemo
 {
 
 	public static void main(String[] args) throws IOException
