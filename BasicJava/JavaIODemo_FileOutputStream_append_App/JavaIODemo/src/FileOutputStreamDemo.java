@@ -2,13 +2,13 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 /*
  * public FileOutputStream(String name, boolean append)
- *                              throws FileNotFoundException 
- *  
+ *                              throws FileNotFoundException
+ *
  * Parameters:
- * ----------- 
- * 
+ * -----------
+ *
  * name - the system-dependent file name
- * 
+ *
  * append - if true, then bytes will be written to the
  * end of the file rather than the beginning
  */
@@ -35,7 +35,7 @@ public class FileOutputStreamDemo
 			 * beginning.
 			 */
 			fileOutputStream = new FileOutputStream("myfile.txt",
-					false);
+					true);
 			String str = "\nPeter is coming to India. ";
 
 			/*
