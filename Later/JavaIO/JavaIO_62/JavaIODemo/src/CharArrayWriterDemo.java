@@ -3,19 +3,19 @@ import java.io.IOException;
 
 /*
  * public CharArrayWriter append(CharSequence csq, int
- * start, int end)
- * 
- * Parameters: 
+ *                                          start, int end)
+ *
+ * Parameters:
  * ----------
- * 
+ *
  * csq - The character sequence from which a subsequence
  * will be appended. If csq is null, then characters
  * will be appended as if csq contained the four
  * characters "null".
- * 
+ *
  * start - The index of the first character in the
  * subsequence
- * 
+ *
  * end - The index of the character following the last
  * character in the subsequence
  */
