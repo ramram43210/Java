@@ -3,10 +3,10 @@ import java.io.IOException;
 
 /*
  * public CharArrayWriter append(CharSequence csq)
- * 
- * Parameters: 
+ *
+ * Parameters:
  * ----------
- * 
+ *
  * csq - The character sequence to append. If csq is
  * null, then the four characters "null" are appended to
  * this writer.
@@ -19,7 +19,7 @@ public class CharArrayWriterDemo
 	{
 
 		CharArrayWriter charArrayWriter = new CharArrayWriter();
-		charArrayWriter.write("Peter is going to India\n");
+		charArrayWriter.write("Peter is going to India,");
 
 		CharSequence csq = "John is going to Japan.";
 		/*
@@ -27,7 +27,7 @@ public class CharArrayWriterDemo
 		 * writer.
 		 */
 		charArrayWriter.append(csq);
-		System.out.println(charArrayWriter);
+		System.out.println(charArrayWriter.toString());
 
 	}
 }
