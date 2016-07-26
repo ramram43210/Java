@@ -44,7 +44,7 @@ public class PipedWriteReadDemo
 					}
 					catch (Exception exe)
 					{
-						exe.printStackTrace();
+
 					}
 				}
 			}
@@ -66,7 +66,7 @@ public class PipedWriteReadDemo
 				}
 				catch (Exception exe)
 				{
-					exe.printStackTrace();
+
 				}
 			}
 		};
