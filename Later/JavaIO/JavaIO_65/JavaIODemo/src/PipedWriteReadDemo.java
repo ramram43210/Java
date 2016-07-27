@@ -30,6 +30,7 @@ public class PipedWriteReadDemo
 					String str = "Hello peter, Welcome to india.";
 					byte[] byteArray = str.getBytes();
 					pos.write(byteArray);
+					Thread.sleep(1000);
 				}
 				catch (IOException exe)
 				{
