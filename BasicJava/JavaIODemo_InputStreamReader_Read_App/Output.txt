@@ -1,0 +1,2 @@
+Enter your name : Peter
+Welcome Peter

@@ -1,0 +1,5 @@
+D:\eclipse\workspace\JavaIODemo\bin>java ConsoleDemo
+Enter the username : Peter
+UserName = Peter
+Enter the password :
+PassWord = welcome
