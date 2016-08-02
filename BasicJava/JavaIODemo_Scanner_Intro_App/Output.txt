@@ -1,0 +1,4 @@
+Enter your Id: 54
+Enter your Name: peter
+Enter your Weight: 67.89
+Id:54, Name:peter, Weight:67.89

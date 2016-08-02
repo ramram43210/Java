@@ -1,0 +1,5 @@
+doubleValue = 8.5
+doubleValue = 32767.0
+doubleValue = 3.14159
+doubleValue = 1000000.1
+sum = 1032778.74159

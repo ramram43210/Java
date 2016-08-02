@@ -1,0 +1,5 @@
+Enter the name: peter
+Enter the name: dave
+Enter the name: ram
+Enter the name: quit
+listOfNames =  [peter, dave, ram]
