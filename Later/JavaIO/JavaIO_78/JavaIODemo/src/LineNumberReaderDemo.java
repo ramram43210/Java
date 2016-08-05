@@ -1,6 +1,15 @@
 import java.io.FileReader;
 import java.io.LineNumberReader;
 
+/*
+ * public LineNumberReader(Reader in, int sz)
+ * 
+ * Parameters:
+ * ----------
+ * 
+ * in - A Reader object to provide the underlying stream. 
+ * sz - An int specifying the size of the buffer.
+ */
 public class LineNumberReaderDemo
 {
 
@@ -10,16 +19,20 @@ public class LineNumberReaderDemo
 		FileReader fileReader = null;
 		try
 		{
+			int bufferSize = 1024;
 			fileReader = new FileReader("myfile.txt");
-			lineNumberReader = new LineNumberReader(fileReader);
+			/*
+			 * Create a new line-numbering reader, reading
+			 * characters into a buffer of the given size.
+			 */
+			lineNumberReader = new LineNumberReader(fileReader, bufferSize);
 
 			String line;
 			while ((line = lineNumberReader.readLine()) != null)
 			{
 				int lineNumber = lineNumberReader.getLineNumber();
-				System.out.println(lineNumber + " = " + line);
+				System.out.println(lineNumber + "." + line);
 			}
-
 		}
 		finally
 		{
