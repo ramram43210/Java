@@ -1,0 +1,5 @@
+Buffer as a string
+Welcome to India.
+----------------------------------
+Into array
+Welcome to India.

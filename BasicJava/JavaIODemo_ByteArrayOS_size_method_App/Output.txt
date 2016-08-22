@@ -1,0 +1,2 @@
+byteArrayOutputStream = Hello world
+size = 11

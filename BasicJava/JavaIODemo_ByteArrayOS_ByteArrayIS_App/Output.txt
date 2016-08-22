@@ -1,0 +1,8 @@
+Enter the chars:
+abcd
+
+Print the content
+a   b   c   d      
+
+Converting characters to Upper case 
+A   B   C   D   

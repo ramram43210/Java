@@ -1,0 +1,5 @@
+The original array:
+99 4 47 40 59 61 14 36 37 57 
+
+The new byte array:
+47 40 59 61 
