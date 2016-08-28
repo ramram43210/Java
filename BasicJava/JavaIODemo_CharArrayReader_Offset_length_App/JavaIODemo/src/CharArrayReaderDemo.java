@@ -2,8 +2,7 @@ import java.io.CharArrayReader;
 import java.io.IOException;
 
 /*
- * public CharArrayReader(char[] buf, int offset, int
- * 												length)
+ * public CharArrayReader(char[] buf, int offset, int length)
  * 
  * Parameters:
  * ----------- 
@@ -22,7 +21,7 @@ public class CharArrayReaderDemo
 		try
 		{
 
-			char[] chars = "Peter won the match".toCharArray();
+			char[] charArray = "Peter won the match".toCharArray();
 
 			/*
 			 * Creates a CharArrayReader from the specified
@@ -34,7 +33,7 @@ public class CharArrayReaderDemo
 			 * be either length or buf.length-offset,
 			 * whichever is smaller.
 			 */
-			charArrayReader = new CharArrayReader(chars, 14, 5);
+			charArrayReader = new CharArrayReader(charArray, 14, 5);
 
 			int i;
 			while ((i = charArrayReader.read()) != -1)

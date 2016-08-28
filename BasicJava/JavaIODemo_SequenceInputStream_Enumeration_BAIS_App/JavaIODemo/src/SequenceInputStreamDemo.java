@@ -25,12 +25,13 @@ public class SequenceInputStreamDemo
 
 		try
 		{
-			String s1 = "Hello";
-			String s2 = " Peter";
-			byte[] b1 = s1.getBytes();
-			byte[] b2 = s2.getBytes();
-			byteArrayInputStream1 = new ByteArrayInputStream(b1);
-			byteArrayInputStream2 = new ByteArrayInputStream(b2);
+			String str1 = "Hello";
+			String str2 = " Peter";
+			byte[] byteArray1 = str1.getBytes();
+			byte[] byteArray2 = str2.getBytes();
+			
+			byteArrayInputStream1 = new ByteArrayInputStream(byteArray1);
+			byteArrayInputStream2 = new ByteArrayInputStream(byteArray2);
 
 			Vector<ByteArrayInputStream> vector = new Vector<ByteArrayInputStream>();
 			vector.add(byteArrayInputStream1);

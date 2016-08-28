@@ -9,9 +9,9 @@ public class CharArrayReaderDemo
 		CharArrayReader charArrayReader = null;
 		try
 		{
-			char[] chars = "Peter".toCharArray();
+			char[] charArray = "Peter".toCharArray();
 
-			charArrayReader = new CharArrayReader(chars);
+			charArrayReader = new CharArrayReader(charArray);
 
 			int i;
 			while ((i = charArrayReader.read()) != -1)
