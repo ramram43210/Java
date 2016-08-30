@@ -1,0 +1,2 @@
+numberOfCharsRead = 5
+Peter
