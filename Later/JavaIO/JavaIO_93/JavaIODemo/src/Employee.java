@@ -2,12 +2,11 @@ import java.io.Serializable;
 
 public class Employee implements Serializable
 {
-	private static final long serialVersionUID = 765764534241652904L;
+	private static final long serialVersionUID = 4676072847340124979L;
 	private int id;
 	private String name;
-	 int age
 
-	public Employee(int id, String name, int age)
+	public Employee(int id, String name)
 	{
 		super();
 		this.id = id;
