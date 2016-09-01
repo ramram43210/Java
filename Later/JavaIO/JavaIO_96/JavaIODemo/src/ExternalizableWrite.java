@@ -18,7 +18,7 @@ public class ExternalizableWrite
 	{
 		FileOutputStream fileOutputStream = null;
 		ObjectOutputStream objectOutputStream = null;
-		//Serialize
+		//Serialize  
 		try
 		{
 			fileOutputStream = new FileOutputStream("employee.ser");
@@ -28,8 +28,11 @@ public class ExternalizableWrite
 			employee.setId(101);
 			employee.setName("Peter");
 			employee.setAge(25);
-
-			Print before serializing
+			employee.setHeight(4.7d);
+			employee.setWeight(60d);
+			
+			System.out.println("Before Serializing.");
+			System.out.println(employee.toString());
 
 			/*
 			 * Write the specified object to the
