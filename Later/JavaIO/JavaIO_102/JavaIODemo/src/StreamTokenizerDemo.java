@@ -21,13 +21,13 @@ public class StreamTokenizerDemo
 			do
 			{
 				/*
-				 * parses the next token from the input
+				 * Parses the next token from the input
 				 * stream of this tokenizer. The type of the
 				 * next token is returned in the ttype
 				 * field. Additional information about the
 				 * token may be in the nval field or the
 				 * sval field of this tokenizer.
-				 * 
+				 *
 				 * Typical clients of this class first set
 				 * up the syntax tables and then sit in a
 				 * loop calling nextToken to parse
