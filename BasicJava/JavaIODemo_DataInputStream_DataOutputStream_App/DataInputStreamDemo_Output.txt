@@ -1,0 +1,4 @@
+intValue     = 125
+floatValue   = 150.45
+longValue    = 9090
+booleanValue = true

@@ -1,0 +1,1 @@
+Successfully written primitive data's to 'data.bin' file

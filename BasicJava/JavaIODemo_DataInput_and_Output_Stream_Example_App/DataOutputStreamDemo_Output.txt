@@ -1,0 +1,1 @@
+Successfully written to 'data.txt' file
