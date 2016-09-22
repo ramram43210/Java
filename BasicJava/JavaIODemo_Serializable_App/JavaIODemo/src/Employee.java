@@ -4,14 +4,7 @@ public class Employee implements Serializable
 {
 	private static final long serialVersionUID = 3558283530338723147L;
 	private int id;
-	private String Name;
-
-	public Employee(int id, String name)
-	{
-		super();
-		this.id = id;
-		Name = name;
-	}
+	private String name;
 
 	public int getId()
 	{
@@ -25,12 +18,12 @@ public class Employee implements Serializable
 
 	public String getName()
 	{
-		return Name;
+		return name;
 	}
 
 	public void setName(String name)
 	{
-		Name = name;
+		this.name = name;
 	}
 
 }

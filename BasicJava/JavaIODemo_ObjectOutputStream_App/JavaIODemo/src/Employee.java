@@ -8,14 +8,24 @@ public class Employee implements Serializable
 {
 
 	private static final long serialVersionUID = 3558283530338723147L;
-	private int id;
 	private String name;
+	private int id;
 
-	public Employee(int id, String name)
+	public Employee(String name, int id)
 	{
 		super();
+		this.name = name;
 		this.id = id;
-		Name = name;
+	}
+
+	public String getName()
+	{
+		return name;
+	}
+
+	public void setName(String name)
+	{
+		this.name = name;
 	}
 
 	public int getId()
@@ -28,14 +38,10 @@ public class Employee implements Serializable
 		this.id = id;
 	}
 
-	public String getName()
+	@Override
+	public String toString()
 	{
-		return Name;
-	}
-
-	public void setName(String name)
-	{
-		Name = name;
+		return "Employee [name=" + name + ", id=" + id + "]";
 	}
 
 }

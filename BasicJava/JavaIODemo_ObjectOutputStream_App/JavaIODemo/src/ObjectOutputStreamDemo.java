@@ -1,8 +1,6 @@
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
 public class ObjectOutputStreamDemo
@@ -13,7 +11,6 @@ public class ObjectOutputStreamDemo
 	{
 		ObjectOutputStreamDemo objectOutputStreamDemo = new ObjectOutputStreamDemo();
 		objectOutputStreamDemo.writeEmployeeObject();
-		objectOutputStreamDemo.readEmployeeObject();
 	}
 
 	private void writeEmployeeObject() throws FileNotFoundException,
@@ -26,7 +23,8 @@ public class ObjectOutputStreamDemo
 			fileOutputStream = new FileOutputStream("employee.txt");
 			objectOutputStream = new ObjectOutputStream(fileOutputStream);
 
-			Employee employee = new Employee(20, "Peter");
+			Employee employee = new Employee("Peter",20);
+			System.out.println(employee);
 
 			/*
 			 * Write the specified object to the
@@ -47,44 +45,6 @@ public class ObjectOutputStreamDemo
 				 * the ObjectOutputStream is writing.
 				 */
 				objectOutputStream.close();
-			}
-		}
-
-	}
-
-	private void readEmployeeObject() throws IOException,
-			FileNotFoundException, ClassNotFoundException
-	{
-		FileInputStream fileInputStream = null;
-		ObjectInputStream objectInputStream = null;
-
-		try
-		{
-			fileInputStream = new FileInputStream("employee.txt");
-			objectInputStream = new ObjectInputStream(fileInputStream);
-
-			/*
-			 * Read an object from the ObjectInputStream.
-			 */
-			Employee employee = (Employee) objectInputStream.readObject();
-			
-			System.out
-					.println("Successfully read employee object from the file.");
-
-			System.out.println("Id = " + employee.getId());
-			System.out.println("Name = " + employee.getName());
-		}
-		finally
-		{
-
-			if (objectInputStream != null)
-			{
-				/*
-				 * Closing a ObjectInputStream will also
-				 * close the InputStream instance from which
-				 * the ObjectInputStream is reading.
-				 */
-				objectInputStream.close();
 			}
 		}
 

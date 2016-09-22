@@ -1,0 +1,4 @@
+Successfully read employee object from the file.
+Employee [name=Peter, id=20]
+Name = Peter
+Id = 20

@@ -1,0 +1,3 @@
+Employee [name=Peter, id=20]
+Successfully written employee object to the file.
+
