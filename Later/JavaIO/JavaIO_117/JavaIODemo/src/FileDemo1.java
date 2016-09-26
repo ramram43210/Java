@@ -1,7 +1,9 @@
 import java.io.File;
 import java.io.IOException;
-
-public class FileDemo
+/*
+ * Using File.separator construct the file path.
+ */
+public class FileDemo1
 {
 
 	public static void main(String[] args) throws IOException
