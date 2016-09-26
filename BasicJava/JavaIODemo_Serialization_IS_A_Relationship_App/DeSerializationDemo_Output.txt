@@ -1,0 +1,4 @@
+Successfully read employee object from the file.
+Name = Peter
+Age  = 29
+Salary  = 80000

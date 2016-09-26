@@ -1,0 +1,4 @@
+Successfully read student object from the file.
+Student [name=Peter, age=15]
+Name = Peter
+Age  = 15

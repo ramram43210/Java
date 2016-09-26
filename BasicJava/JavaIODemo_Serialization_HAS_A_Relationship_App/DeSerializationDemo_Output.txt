@@ -1,0 +1,4 @@
+Successfully read employee object from the file.
+Id  = 101
+Name = Peter
+Address  = Address [streetName=North Street, city=Chennai, state=Tamil Nadu]
