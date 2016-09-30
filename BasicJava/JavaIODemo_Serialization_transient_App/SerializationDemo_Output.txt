@@ -1,0 +1,5 @@
+Id  = 101
+Name = Peter
+Age = 32
+Successfully written employee object to the file.
+
