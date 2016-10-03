@@ -27,7 +27,7 @@ public class FileDemo
 		fileDemo.deleteFiles(DIRECTORY_NAME);
 	}
 
-	public void deleteFiles(String dirName)
+	public void deleteFiles(String dirName,String fileExtension)
 	{
 		File fileDir = new File(dirName);
 

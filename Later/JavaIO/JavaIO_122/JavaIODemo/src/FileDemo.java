@@ -4,14 +4,14 @@ import java.text.ParseException;
 
 /*
  * public String[] list(FilenameFilter filter)
- * 
- * Parameters: 
+ *
+ * Parameters:
  * ----------
- * 
+ *
  * filter - A filename filter
- * 
+ *
  * How to use FilenameFilter to list out all files that
- * are end with “.txt” extension in folder “D:/work“. * 
+ * are end with “.txt” extension in folder “D:/work“. *
  */
 
 public class FileDemo
@@ -26,11 +26,11 @@ public class FileDemo
 		fileDemo.deleteFiles(DIRECTORY_NAME);
 	}
 
-	public void deleteFiles(String dirName)
+	public void listOutFiles(String dirName,String fileExtension)
 	{
 		File fileDir = new File(dirName);
 
-		ExtensionFilter extFilter = new ExtensionFilter(FILE_EXTENSION);
+		ExtensionFilter extFilter = new ExtensionFilter(fileExtension);
 
 		/*
 		 * Returns an array of strings naming the files and
