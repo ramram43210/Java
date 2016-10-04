@@ -6,8 +6,11 @@ public class FileDemo
 
 	public static void main(String[] args) throws IOException
 	{
-		File temp = File.createTempFile("temp", ".txt");
+		File tempFile = File.createTempFile("temp", ".txt");
 
+		/*
+		*will give you the full complete path name (filepath + filename) of a file.
+		*/
 		String absolutePath = temp.getAbsolutePath();
 		System.out.println("File path : " + absolutePath);
 
