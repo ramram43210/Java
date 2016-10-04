@@ -6,7 +6,7 @@ public class FileDemo
 {
 	private static final String DIRECTORY_NAME = "D:/work";
 
-	public static void main(String[] args) throws IOException, ParseException
+	public static void main(String[] args)
 	{
 		FileDemo fileDemo = new FileDemo();
 		fileDemo.deleteFiles(DIRECTORY_NAME);

@@ -4,12 +4,12 @@ import java.text.ParseException;
 
 /*
  * public File[] listFiles(FilenameFilter filter)
- * 
- * Parameters: 
+ *
+ * Parameters:
  * ----------
- * 
+ *
  * filter - A filename filter
- * 
+ *
  * How to use FilenameFilter to list out all files that
  * are end with “.txt” extension in folder “D:/work“. *
  */
@@ -19,7 +19,7 @@ public class FileDemo
 	private static final String DIRECTORY_NAME = "D:/work";
 	private static final String FILE_EXTENSION = ".txt";
 
-	public static void main(String[] args) throws IOException, ParseException
+	public static void main(String[] args)
 	{
 		FileDemo fileDemo = new FileDemo();
 		fileDemo.findAndListOutFiles(DIRECTORY_NAME,FILE_EXTENSION);

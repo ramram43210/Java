@@ -5,7 +5,7 @@ import java.text.ParseException;
 public class FileDemo
 {
 
-	public static void main(String[] args) throws IOException, ParseException
+	public static void main(String[] args)
 	{
 		File file = new File("D:/work/java.txt");
 

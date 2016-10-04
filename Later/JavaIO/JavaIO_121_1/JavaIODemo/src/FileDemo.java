@@ -20,7 +20,7 @@ public class FileDemo
 	private static final String DIRECTORY_NAME = "D:/work";
 	private static final String FILE_EXTENSION = ".txt";
 
-	public static void main(String[] args) throws IOException, ParseException
+	public static void main(String[] args)
 	{
 		FileDemo fileDemo = new FileDemo();
 		fileDemo.findAndListOutFiles(DIRECTORY_NAME, FILE_EXTENSION);
