@@ -4,7 +4,7 @@ import java.io.IOException;
 public class FileDemo
 {
 
-	public static void main(String[] args) throws IOException
+	public static void main(String[] args)
 	{
 		File file = new File("c:");
 		/*
