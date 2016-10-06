@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.text.ParseException;
 
 /*
- * public String[] list(FilenameFilter filter)
+ * public File[] listFiles(FilenameFilter filter)
  *
  * Parameters:
  * ----------
@@ -13,7 +13,6 @@ import java.text.ParseException;
  * How to use FilenameFilter to list out all files that
  * are end with “.txt” extension in folder “D:/work“. *
  */
-
 public class FileDemo
 {
 
@@ -23,34 +22,33 @@ public class FileDemo
 	public static void main(String[] args)
 	{
 		FileDemo fileDemo = new FileDemo();
-		fileDemo.deleteFiles(DIRECTORY_NAME);
+		fileDemo.findAndListOutFiles(DIRECTORY_NAME,FILE_EXTENSION);
 	}
 
-	public void listOutFiles(String dirName,String fileExtension)
+	public void findAndListOutFiles(String dirName,String fileExtension)
 	{
 		File fileDir = new File(dirName);
 
 		ExtensionFilter extFilter = new ExtensionFilter(fileExtension);
 
 		/*
-		 * Returns an array of strings naming the files and
-		 * directories in the directory denoted by this
-		 * abstract pathname that satisfy the specified
-		 * filter.
+		 * Returns an array of abstract pathnames denoting
+		 * the files and directories in the directory
+		 * denoted by this abstract pathname that satisfy
+		 * the specified filter.
 		 */
-		String[] listOfFileNames = fileDir.list(extFilter);
+		File[] listOfFiles = fileDir.listFiles(extFilter);
 
-		if (listOfFileNames.length == 0)
+		if (listOfFiles.length == 0)
 		{
 			System.out.println("No files end with : " + FILE_EXTENSION);
 			return;
 		}
 
-		for (String fileName : listOfFileNames)
+		for (File file : listOfFiles)
 		{
-			System.out.println(fileName);
+			System.out.println(file.getName());
 		}
-
 	}
 
 }
