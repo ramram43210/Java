@@ -1,0 +1,4 @@
+Employee [id=101, name=Peter, age=25]
+Inside writeExternal
+Successfully written employee object to the file.
+

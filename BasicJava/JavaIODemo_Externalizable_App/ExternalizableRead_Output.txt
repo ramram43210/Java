@@ -1,0 +1,7 @@
+Inside readExternal
+Employee [id=101, name=Peter, age=0]
+Successfully read employee object from the file.
+
+Id  = 101
+Name = Peter
+Age = 0

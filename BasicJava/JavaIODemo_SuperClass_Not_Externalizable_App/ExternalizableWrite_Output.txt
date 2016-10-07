@@ -1,0 +1,5 @@
+Before Serializing.
+Employee [getId()=101, getName()=Peter, getAge()=25, getHeight()=4.7, getWeight()=60.0]
+Inside writeExternal
+Successfully written employee object to the file.
+

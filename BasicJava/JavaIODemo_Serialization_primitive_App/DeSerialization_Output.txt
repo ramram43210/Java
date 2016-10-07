@@ -1,0 +1,5 @@
+Successfully read primitive values from the file.
+
+intValue = 10
+doubleValue = 50.55
+booleanValue = true

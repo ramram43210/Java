@@ -1,0 +1,5 @@
+Inside readExternal
+Successfully read employee object from the file.
+
+After DeSerializing.
+Employee [getId()=101, getName()=Peter, getAge()=25, getHeight()=4.7, getWeight()=60.0]
