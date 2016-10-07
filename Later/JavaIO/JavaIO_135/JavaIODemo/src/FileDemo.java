@@ -25,7 +25,7 @@ public class FileDemo
 
 	}
 
-	public static void copyFolder(File src, File dest) throws IOException
+	public void copyFolder(File src, File dest) throws IOException
 	{
 
 		if (src.isDirectory())
@@ -59,7 +59,7 @@ public class FileDemo
 		}
 	}
 
-	private static void fileCopy(File srcDir, File destDir)
+	private void fileCopy(File srcDir, File destDir)
 			throws FileNotFoundException, IOException
 	{
 
