@@ -1,0 +1,18 @@
+Word: Hello
+, encountered.
+Word: How
+Word: are
+Word: you
+Word: peter
+? encountered.
+Word: Shall
+Word: we
+Word: go
+Word: to
+Word: India.
+Number: 2.0
++ encountered.
+Number: 2.0
+= encountered.
+Number: 4.0
+End of File encountered.

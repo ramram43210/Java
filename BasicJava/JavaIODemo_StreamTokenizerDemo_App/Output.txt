@@ -1,0 +1,4 @@
+Inside TT_Word = Peter
+Inside TT_Word = had
+Inside TT_NUMBER = 1.0
+Inside TT_Word = pen.
