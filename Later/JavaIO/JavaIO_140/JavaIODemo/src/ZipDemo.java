@@ -14,12 +14,12 @@ public class ZipDemo
 		zipDemo.zipFile("D:/work/java.zip", file);
 	}
 
-	private void zipFile(String zipFileName, File file) throws IOException
+	private void zipFile(String outputZipFileName, File file) throws IOException
 	{
 		byte[] buffer = new byte[1024];
 
 		try (
-				FileOutputStream fos = new FileOutputStream(zipFileName);
+				FileOutputStream fos = new FileOutputStream(outputZipFileName);
 				ZipOutputStream zos = new ZipOutputStream(fos);
 				FileInputStream fin = new FileInputStream(file))
 		{
