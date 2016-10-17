@@ -40,6 +40,6 @@ public class ZipDemo
 	}
 	/*
 	 * All Streams will be closed automatically because they
-	 * are within the try With Resources block
+	 * are within the "try-With-Resources" block.
 	 */
 }
