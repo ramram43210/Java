@@ -30,8 +30,8 @@ public class PushbackReaderDemo
 			/*
 			 * Reads characters into a portion of an array.
 			 */
-			int data = pushbackReader.read(charArray, 0, 5);
-			System.out.println(data);
+			int numberOfCharsRead = pushbackReader.read(charArray, 0, 5);
+			System.out.println("numberOfCharsRead = "+numberOfCharsRead);
 			System.out.println(new String(charArray));
 
 			/*
@@ -41,8 +41,8 @@ public class PushbackReaderDemo
 			 */
 			pushbackReader.unread(charArray, 0, 5);
 
-			data = pushbackReader.read(charArray, 0, 5);
-			System.out.println(data);
+			numberOfCharsRead = pushbackReader.read(charArray, 0, 5);
+			System.out.println("numberOfCharsRead = "+numberOfCharsRead);
 			System.out.println(new String(charArray));
 
 		}

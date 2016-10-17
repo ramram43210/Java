@@ -1,0 +1,4 @@
+numberOfCharsRead = 5
+Hello
+numberOfCharsRead = 5
+Hello
