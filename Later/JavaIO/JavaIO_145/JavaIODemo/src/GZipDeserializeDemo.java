@@ -22,7 +22,11 @@ public class GZipDeserializeDemo
 	public Person deserializePersonObject(String gzipPath)
 			throws ClassNotFoundException, IOException
 	{
-
+		/*
+						 * If the Streams are within the
+						 * "try-With-Resources" block, then it will be
+						 * closed automatically.
+		 */
 		try (
 				FileInputStream fin = new FileInputStream(gzipPath);
 				GZIPInputStream gis = new GZIPInputStream(fin);
