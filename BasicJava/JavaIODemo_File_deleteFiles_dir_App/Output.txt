@@ -1,0 +1,4 @@
+D:\work\HelloWorld.java isDeleted = true
+D:\work\Japan.txt isDeleted = true
+D:\work\java.doc isDeleted = true
+D:\work\myfile.txt isDeleted = true

@@ -23,7 +23,7 @@ public class FileDemo
 		System.out.println("Before Format : " + lastModified);
 
 		SimpleDateFormat simpleDateFormat = new SimpleDateFormat(
-				"MM/dd/yyyy HH:mm:ss");
+												"MM/dd/yyyy HH:mm:ss");
 
 		String formatedStr = simpleDateFormat.format(lastModified);
 		System.out.println("After Format : " + formatedStr);
