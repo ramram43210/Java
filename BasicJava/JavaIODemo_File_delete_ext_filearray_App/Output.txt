@@ -1,0 +1,2 @@
+D:\work\Hello.txt isDeleted = true
+D:\work\Java.txt isDeleted = true
