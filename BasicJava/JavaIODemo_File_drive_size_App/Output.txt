@@ -1,0 +1,8 @@
+ === bytes ===
+Total size : 129926488064 bytes
+Space free : 53480681472 bytes
+Space free : 53480681472 bytes
+ === gigabyte ===
+Total size : 121 GB
+Space free : 49 GB
+Space free : 49 GB

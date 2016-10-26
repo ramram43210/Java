@@ -1,0 +1,6 @@
+File is deleted : D:\work\java\index.html
+File is deleted : D:\work\java\jsp\async\async1.jsp
+....
+....
+File is deleted : D:\work\java\websocket-deprecated\echo.html
+Directory is deleted : D:\work\java
