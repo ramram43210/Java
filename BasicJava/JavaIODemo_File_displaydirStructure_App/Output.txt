@@ -1,0 +1,9 @@
+Path = D:\work\java
+Path = D:\work\java\index.html
+Path = D:\work\java\jsp
+Path = D:\work\java\jsp\async
+Path = D:\work\java\jsp\async\async1.jsp
+....
+....
+Path = D:\work\java\websocket-deprecated\echo.html
+
