@@ -1,14 +1,6 @@
 class DisplayThread extends Thread
 {
-	/*
-	 * Subclasses of Thread should override 
-	 * run() method.
-	 */
-	@Override
-	public void run()
-	{
-		System.out.println("Welcome to india");
-	}
+
 
 	public static void main(String args[])
 	{
@@ -22,5 +14,15 @@ class DisplayThread extends Thread
 		 * thread
 		 */
 		displayThread.start();
+	}
+
+	/*
+			 * Subclasses of Thread should override
+			 * run() method.
+			 */
+			@Override
+			public void run()
+			{
+				System.out.println("Welcome to india");
 	}
 }
