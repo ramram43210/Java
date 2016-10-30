@@ -1,0 +1,7 @@
+Directory copied from D:\Work\java  to D:\work\javanew
+File copied from D:\Work\java\index.html to D:\work\javanew\index.html
+----
+----
+File copied from D:\Work\java\websocket-deprecated\index.html to D:\work\javanew\websocket-deprecated\index.html
+File copied from D:\Work\java\websocket-deprecated\snake.html to D:\work\javanew\websocket-deprecated\snake.html
+Copied successfully.

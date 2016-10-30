@@ -20,12 +20,14 @@ public class FileDemo
 		}
 		else
 		{
-			copyFolder(srcDir, destDir);
+			FileDemo fileDemo = new FileDemo();
+			fileDemo.copydir(srcDir, destDir);
+			System.out.println("Copied successfully.");
 		}
 
 	}
 
-	public void copyFolder(File src, File dest) throws IOException
+	public void copydir(File src, File dest) throws IOException
 	{
 
 		if (src.isDirectory())
@@ -48,7 +50,7 @@ public class FileDemo
 				File srcFile = new File(src, fileName);
 				File destFile = new File(dest, fileName);
 				// recursive copy
-				copyFolder(srcFile, destFile);
+				copydir(srcFile, destFile);
 			}
 
 		}
@@ -59,7 +61,7 @@ public class FileDemo
 		}
 	}
 
-	private void fileCopy(File srcDir, File destDir)
+	private void fileCopy(File src, File dest)
 			throws FileNotFoundException, IOException
 	{
 
@@ -69,8 +71,8 @@ public class FileDemo
 		try
 		{
 			// If file, then copy it
-			in = new FileInputStream(srcDir);
-			out = new FileOutputStream(destDir);
+			in = new FileInputStream(src);
+			out = new FileOutputStream(dest);
 
 			byte[] buffer = new byte[1024];
 
@@ -93,6 +95,6 @@ public class FileDemo
 				out.close();
 			}
 		}
-		System.out.println("File copied from " + srcDir + " to " + destDir);
+		System.out.println("File copied from " + src + " to " + dest);
 	}
 }
