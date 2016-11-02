@@ -5,12 +5,12 @@
  * passing the object of your class that implements
  * Runnable so that your class run() method may execute.
  */
-class Display implements Runnable
+public class DisplayRunnable implements Runnable
 {
 	public static void main(String args[])
 	{
-		Display display = new Display();
-		Thread thread = new Thread(display);
+		DisplayRunnable displayRunnable = new DisplayRunnable();
+		Thread thread = new Thread(displayRunnable);
 		thread.start();
 	}
 
