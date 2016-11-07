@@ -14,12 +14,16 @@ public class ZipDemo
 		zipDemo.zipFile("D:/work/java.zip", file);
 	}
 
-	private void zipFile(String outputZipFileName, File file) throws IOException
+	private void zipFile(String outputZipFileName, File file)
+			throws IOException
 	{
 		byte[] buffer = new byte[1024];
 
-		try (
-				FileOutputStream fos = new FileOutputStream(outputZipFileName);
+		/*
+		 * All Streams will be closed automatically because they
+		 * are within the "try-With-Resources" block.
+		 */
+		try (FileOutputStream fos = new FileOutputStream(outputZipFileName);
 				ZipOutputStream zos = new ZipOutputStream(fos);
 				FileInputStream fin = new FileInputStream(file))
 		{
@@ -33,13 +37,14 @@ public class ZipDemo
 				zos.write(buffer, 0, len);
 			}
 
+			/*
+			 * Closes the current ZIP entry and positions
+			 * the stream for writing the next entry.
+			 */
 			zos.closeEntry();
 		}
 
 		System.out.println("Zip file is created...");
 	}
-	/*
-	 * All Streams will be closed automatically because they
-	 * are within the "try-With-Resources" block.
-	 */
+	
 }
