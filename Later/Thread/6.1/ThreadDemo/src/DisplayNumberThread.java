@@ -1,15 +1,3 @@
-/*
- * public long getId()
- * 
- * Returns the identifier of this Thread. The thread ID
- * is a positive long number generated when this thread
- * was created. The thread ID is unique and remains
- * unchanged during its lifetime. When a thread is
- * terminated, this thread ID may be reused.
- * 
- * Returns: this thread's ID.
- */
-
 class DisplayNumberThread extends Thread
 {
 
