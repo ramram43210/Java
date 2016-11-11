@@ -1,0 +1,8 @@
+Output to Zip : D:/work/Java.zip
+File Added : CityInfoDemo\.classpath
+File Added : CityInfoDemo\.project
+File Added : CityInfoDemo\.settings\.jsdtscope
+---
+---
+File Added : CityInfoDemo\WebContent\WEB-INF\web.xml
+Zip file is created...

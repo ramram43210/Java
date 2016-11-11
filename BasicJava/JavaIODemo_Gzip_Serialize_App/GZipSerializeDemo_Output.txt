@@ -1,0 +1,1 @@
+Person object is serialized and compressed.
