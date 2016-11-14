@@ -1,11 +1,11 @@
 import java.io.File;
 
-public class FileDemo
+public class FileDemo1
 {
 
 	public static void main(String[] args)
 	{
-		File file = new File("D:/java.txt");
+		File file = new File("/home/hello.sh");
 
 		/*
 		 * Marks the file or directory named by this
