@@ -1,0 +1,9 @@
+Before setting the thread name.
+dnt1 thread Name = Thread-0
+dnt2 thread Name = Thread-1
+Hi
+Hi
+
+After setting the thread name.
+dnt1 thread Name = DisplayNumberThread1
+dnt2 thread Name = DisplayNumberThread2

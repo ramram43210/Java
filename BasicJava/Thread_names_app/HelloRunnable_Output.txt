@@ -1,0 +1,2 @@
+Thread Name = HelloRunnableThread
+Hello from a thread!
