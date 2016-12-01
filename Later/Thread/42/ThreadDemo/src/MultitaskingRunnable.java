@@ -32,9 +32,4 @@ public class MultitaskingRunnable
 
 	}
 
-	public void run()
-	{
-		System.out.println("task 1");
-	}
-
 }
