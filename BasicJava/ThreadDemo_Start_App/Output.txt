@@ -1,0 +1,11 @@
+main
+Thread: 9 running
+Thread: 2 running
+Thread: 5 running
+Thread: 6 running
+Thread: 1 running
+Thread: 8 running
+Thread: 3 running
+Thread: 4 running
+Thread: 7 running
+Thread: 0 running

@@ -1,0 +1,4 @@
+Before sleep of = DisplayThread-1
+Before sleep of = DisplayThread-2
+After sleep of = DisplayThread-2
+After sleep of = DisplayThread-1
