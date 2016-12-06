@@ -19,9 +19,9 @@ public class RuntimeDemo
 		String[] cmdArray = new String[2];
 
 		cmdArray[0] = "notepad.exe";
-		cmdArray[1] = ".classpath";
+		cmdArray[1] = "Hello.txt";
 
-		System.out.println("Executing notepad.exe and opening example.txt");
+		System.out.println("Executing notepad.exe and opening Hello.txt");
 
 		/*
 		 * Returns the runtime object associated with the
