@@ -25,7 +25,8 @@ public class RuntimeDemo
 		 *
 		 * It will open a new notepad.
 		 */
-		runtime.exec("notepad.exe");
+		Process process = runtime.exec("notepad.exe");
+		System.out.println("is process alive = " + process.isAlive());
 	}
 
 }
