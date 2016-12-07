@@ -1,0 +1,4 @@
+Hello by = Thread-0
+Exception in thread "main" java.lang.IllegalThreadStateException
+	at java.lang.Thread.start(Thread.java:705)
+	at DisplayThread.main(DisplayThread.java:9)
