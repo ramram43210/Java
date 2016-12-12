@@ -1,0 +1,4 @@
+Thread name =Thread-1, Thread Priority = 5
+
+Thread name =Thread-0, Thread Priority = 5
+

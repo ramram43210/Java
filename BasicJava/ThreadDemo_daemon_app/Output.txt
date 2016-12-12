@@ -1,0 +1,3 @@
+user thread = Thread 2
+user thread = Thread 3
+Daemon thread = Thread 1

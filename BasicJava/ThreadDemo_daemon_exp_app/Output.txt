@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.IllegalThreadStateException
+	at java.lang.Thread.setDaemon(Thread.java:1352)
+	at DisplayThread.main(DisplayThread.java:51)
+user thread = Thread 1
