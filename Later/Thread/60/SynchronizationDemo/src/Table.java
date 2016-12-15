@@ -19,12 +19,14 @@ public class Table
 		}
 	}
 	*/
-	
+
 	/*
 	 *  Method is synchronized
 	 */
 	public synchronized void printTable(int n)
 	{
+		System.out.println("Thread Name = "
+					+ Thread.currentThread().getName());
 		for (int i = 1; i <= 5; i++)
 		{
 			System.out.println(n * i);

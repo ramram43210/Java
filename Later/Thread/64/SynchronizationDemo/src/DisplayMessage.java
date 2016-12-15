@@ -1,8 +1,10 @@
 public class DisplayMessage
 {
-	
+
 	/*public void showMessage(String msg)
 	{
+		System.out.println("Thread Name = "
+					+ Thread.currentThread().getName());
 		System.out.print("[" + msg);
 		try
 		{
@@ -20,6 +22,8 @@ public class DisplayMessage
 	 */
 	public synchronized void showMessage(String msg)
 	{
+		System.out.println("Thread Name = "
+					+ Thread.currentThread().getName());
 		System.out.print("[" + msg);
 		try
 		{
