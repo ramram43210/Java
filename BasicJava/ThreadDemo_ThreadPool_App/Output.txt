@@ -1,0 +1,21 @@
+pool-1-thread-1 (Start) message = Hello 0
+pool-1-thread-2 (Start) message = Hello 1
+pool-1-thread-3 (Start) message = Hello 2
+pool-1-thread-2 (End)
+pool-1-thread-2 (Start) message = Hello 3
+pool-1-thread-1 (End)
+pool-1-thread-1 (Start) message = Hello 4
+pool-1-thread-3 (End)
+pool-1-thread-3 (Start) message = Hello 5
+pool-1-thread-2 (End)
+pool-1-thread-2 (Start) message = Hello 6
+pool-1-thread-1 (End)
+pool-1-thread-1 (Start) message = Hello 7
+pool-1-thread-3 (End)
+pool-1-thread-3 (Start) message = Hello 8
+pool-1-thread-2 (End)
+pool-1-thread-2 (Start) message = Hello 9
+pool-1-thread-1 (End)
+pool-1-thread-3 (End)
+pool-1-thread-2 (End)
+Finished all threads
