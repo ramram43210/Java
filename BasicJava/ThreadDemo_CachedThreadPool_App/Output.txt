@@ -1,0 +1,28 @@
+pool-1-thread-2 taskNumber : 1, percent complete: 0
+pool-1-thread-1 taskNumber : 0, percent complete: 0
+pool-1-thread-3 taskNumber : 2, percent complete: 0
+pool-1-thread-4 taskNumber : 3, percent complete: 0
+pool-1-thread-2 taskNumber : 1, percent complete: 20
+pool-1-thread-4 taskNumber : 3, percent complete: 20
+pool-1-thread-1 taskNumber : 0, percent complete: 20
+pool-1-thread-3 taskNumber : 2, percent complete: 20
+pool-1-thread-4 taskNumber : 3, percent complete: 40
+pool-1-thread-3 taskNumber : 2, percent complete: 40
+pool-1-thread-2 taskNumber : 1, percent complete: 40
+pool-1-thread-4 taskNumber : 3, percent complete: 60
+pool-1-thread-3 taskNumber : 2, percent complete: 60
+pool-1-thread-2 taskNumber : 1, percent complete: 60
+pool-1-thread-1 taskNumber : 0, percent complete: 40
+pool-1-thread-2 taskNumber : 1, percent complete: 80
+pool-1-thread-3 taskNumber : 2, percent complete: 80
+pool-1-thread-2 taskNumber : 1, percent complete: 100
+pool-1-thread-4 taskNumber : 3, percent complete: 80
+pool-1-thread-1 taskNumber : 0, percent complete: 60
+pool-1-thread-4 taskNumber : 3, percent complete: 100
+pool-1-thread-3 taskNumber : 2, percent complete: 100
+pool-1-thread-1 taskNumber : 0, percent complete: 80
+pool-1-thread-1 taskNumber : 0, percent complete: 100
+Ending task : 0
+Ending task : 1
+Ending task : 2
+Ending task : 3
