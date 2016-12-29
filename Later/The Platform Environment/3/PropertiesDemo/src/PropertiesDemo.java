@@ -3,19 +3,23 @@ import java.io.IOException;
 import java.util.Properties;
 
 /*
- * public String getProperty(String key)
- *
- * Parameters:
+ * public String getProperty(String key, String
+ * defaultValue)
+ * 
+ * Parameters: 
  * ----------
- *
- * key - the property key.
- *
- * Returns:
+ * 
+ * key - the hashtable key. 
+ * 
+ * defaultValue - a default value.
+ * 
+ * Returns: 
  * -------
- *
+ * 
  * the value in this property list with the specified
  * key value.
  */
+
 class PropertiesDemo
 {
 
@@ -36,10 +40,16 @@ class PropertiesDemo
 
 			/*
 			 * Searches for the property with the specified
-			 * key in this property list.
+			 * key in this property list. If the key is not
+			 * found in this property list, the default
+			 * property list, and its defaults, recursively,
+			 * are then checked. The method returns the
+			 * default value argument if the property is not
+			 * found.
 			 */
-			String user = p.getProperty("user");
-			String password = p.getProperty("password");
+
+			String user = p.getProperty("user", "system");
+			String password = p.getProperty("password", "Oracle");
 
 			System.out.println("user = "+user);
 			System.out.println("password = "+password);
