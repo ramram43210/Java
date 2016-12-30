@@ -1,0 +1,28 @@
+pool-1-thread-1 Start. taskNumber = task1
+pool-1-thread-2 Start. taskNumber = task2
+pool-1-thread-3 Start. taskNumber = task5
+task7 is rejected
+task8 is rejected
+pool-1-thread-4 Start. taskNumber = task6
+task9 is rejected
+task10 is rejected
+[monitor] [0/2] Active: 0, Completed: 0, Task: 5, isShutdown: false, isTerminated: false
+[monitor] [4/2] Active: 4, Completed: 0, Task: 6, isShutdown: false, isTerminated: false
+pool-1-thread-1 End of taskNumber =task1
+pool-1-thread-1 Start. taskNumber = task3
+pool-1-thread-2 End of taskNumber =task2
+pool-1-thread-2 Start. taskNumber = task4
+pool-1-thread-3 End of taskNumber =task5
+pool-1-thread-4 End of taskNumber =task6
+[monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
+pool-1-thread-1 End of taskNumber =task3
+pool-1-thread-2 End of taskNumber =task4
+[monitor] [4/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+[monitor] [0/2] Active: 0, Completed: 6, Task: 6, isShutdown: true, isTerminated: true
+[monitor] [0/2] Active: 0, Completed: 6, Task: 6, isShutdown: true, isTerminated: true
