@@ -1,6 +1,6 @@
 public class EnumDemo1
 {
-	public enum Days
+	public enum Day
 	{
 		SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
 	}

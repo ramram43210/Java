@@ -1,7 +1,7 @@
 /*
  * Enum is Defined outside of the class.
  */
-enum Days
+enum Day
 {
 	SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
 }

@@ -1,6 +1,6 @@
 public class EnumDemo2
 {
-	public enum Directions 
+	public enum Direction
 	{
 		NORTH, SOUTH, EAST, WEST
 	}

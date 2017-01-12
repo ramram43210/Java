@@ -3,7 +3,7 @@ public class EnumInsideDemo
 	/*
 	 * Enum is Defined inside of the class.
 	 */
-	private enum Days
+	private enum Day
 	{
 		SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
 	}
