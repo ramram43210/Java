@@ -1,0 +1,8 @@
+Thread Group Name: Group A
+Run by = thread3
+java.lang.ThreadGroup[name=Group A,maxpri=10]
+Run by = thread2
+Run by = thread1
+    Thread[thread1,5,Group A]
+    Thread[thread2,5,Group A]
+    Thread[thread3,5,Group A]

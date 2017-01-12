@@ -1,0 +1,7 @@
+Active threads in "Child ThreadGroup" = 3
+Active threads in "Parent ThreadGroup" = 5
+Run by = thread2
+Run by = thread4
+Run by = thread3
+Run by = thread5
+Run by = thread1
