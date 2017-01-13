@@ -1,0 +1,4 @@
+Parent ThreadGroup is the parent of Child ThreadGroup? true
+Child ThreadGroup is the parent of Parent ThreadGroup? false
+Run by = thread2
+Run by = thread1

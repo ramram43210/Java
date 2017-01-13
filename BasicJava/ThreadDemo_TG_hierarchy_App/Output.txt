@@ -1,0 +1,15 @@
+Run by = thread3 , Thread GroupName = Child ThreadGroup
+ , Parent Thread GroupName = Parent ThreadGroup
+
+Run by = thread2 , Thread GroupName = Parent ThreadGroup
+ , Parent Thread GroupName = main
+
+Run by = thread1 , Thread GroupName = Parent ThreadGroup
+ , Parent Thread GroupName = main
+
+Run by = thread5 , Thread GroupName = Child ThreadGroup
+ , Parent Thread GroupName = Parent ThreadGroup
+
+Run by = thread4 , Thread GroupName = Child ThreadGroup
+ , Parent Thread GroupName = Parent ThreadGroup
+
