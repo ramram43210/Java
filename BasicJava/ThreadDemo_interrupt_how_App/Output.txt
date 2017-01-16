@@ -1,0 +1,8 @@
+Executing Thread-0
+Thread-0 interrupted:
+java.lang.InterruptedException: sleep interrupted
+
+Executing Thread-1
+Thread-1 interrupted:
+java.lang.InterruptedException: sleep interrupted
+

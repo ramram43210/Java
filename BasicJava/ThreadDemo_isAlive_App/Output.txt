@@ -1,0 +1,2 @@
+Thread-0 - isAlive = true
+Thread-0 - isAlive after join = false
