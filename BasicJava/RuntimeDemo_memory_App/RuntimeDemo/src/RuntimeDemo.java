@@ -1,4 +1,4 @@
-public class RuntimeDemo2
+public class RuntimeDemo
 {
 	public static void main(String[] args)
 	{
@@ -24,5 +24,4 @@ public class RuntimeDemo2
 		 */
 		System.out.println("max Memory: " + runtime.maxMemory());
 	}
-
 }

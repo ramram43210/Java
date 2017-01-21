@@ -1,0 +1,3 @@
+Executing notepad.exe and opening Hello.txt
+is process alive = true
+Hello.txt should now open.

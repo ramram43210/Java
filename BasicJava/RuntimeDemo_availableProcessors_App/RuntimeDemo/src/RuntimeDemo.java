@@ -1,4 +1,4 @@
-public class RuntimeDemo1
+public class RuntimeDemo
 {
 	public static void main(String[] args) 
 	{

@@ -1,0 +1,3 @@
+Total Memory: 112721920
+Free Memory: 112134704
+max Memory: 1659371520
