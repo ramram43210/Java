@@ -1,0 +1,23 @@
+-------------------------------------
+If showMessage method is synchronized,
+then below will be the output:
+-------------------------------------
+
+Thread Name = Thread-0
+[welcome]
+Thread Name = Thread-2
+[Peter]
+Thread Name = Thread-1
+[Hello]
+
+-----------------------------------------
+If showMessage method is not synchronized, 
+then below will be the output:
+-----------------------------------------
+
+Thread Name = Thread-0
+[welcomeThread Name = Thread-2
+Thread Name = Thread-1
+[Hello[Peter]
+]
+]
