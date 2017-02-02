@@ -1,0 +1,25 @@
+-------------------------------------
+If showMessage method has synchronized block,
+then below will be the output:
+-------------------------------------
+
+Thread Name = Thread-0
+[welcome]
+Thread Name = Thread-1
+[Hello]
+Thread Name = Thread-2
+[Peter]
+
+-----------------------------------------
+If showMessage method does not have synchronized block,
+then below will be the output:
+-----------------------------------------
+Thread Name = Thread-0
+Thread Name = Thread-1
+Thread Name = Thread-2
+[Hello[welcome[Peter]
+]
+]
+
+
+

@@ -1,0 +1,37 @@
+-------------------------------------
+If printTable method has synchronized block,
+then below will be the output:
+-------------------------------------
+
+Thread Name = Thread-0
+5
+10
+15
+20
+25
+Thread Name = Thread-1
+100
+200
+300
+400
+500
+
+-----------------------------------------
+If printTable method does not have synchronized block,
+then below will be the output:
+-----------------------------------------
+Thread Name = Thread-1
+100
+Thread Name = Thread-0
+5
+200
+10
+15
+300
+20
+400
+25
+500
+
+
+
