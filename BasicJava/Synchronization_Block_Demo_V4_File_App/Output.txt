@@ -1,0 +1,39 @@
+-------------------------------------
+If printCount method has synchronized block,
+then below will be the output:
+-------------------------------------
+
+Thread Name = Thread1
+Counter   ---   5
+Counter   ---   4
+Counter   ---   3
+Counter   ---   2
+Counter   ---   1
+
+Thread Name = Thread2
+Counter   ---   5
+Counter   ---   4
+Counter   ---   3
+Counter   ---   2
+Counter   ---   1
+
+-----------------------------------------
+If printCount method does not have synchronized block,
+then below will be the output:
+-----------------------------------------
+Thread Name = Thread1
+Thread Name = Thread2
+Counter   ---   5
+Counter   ---   5
+Counter   ---   4
+Counter   ---   4
+Counter   ---   3
+Counter   ---   3
+Counter   ---   2
+Counter   ---   2
+Counter   ---   1
+Counter   ---   1
+
+
+
+
