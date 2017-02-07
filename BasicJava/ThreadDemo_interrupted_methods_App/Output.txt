@@ -1,0 +1,3 @@
+Before Thread.interrupted() is called = true
+After Thread.interrupted() is called = false
+code for interrupted thread

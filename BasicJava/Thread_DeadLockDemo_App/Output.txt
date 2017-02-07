@@ -1,0 +1,2 @@
+Thread 1: locked resource 1
+Thread 2: locked resource 2
