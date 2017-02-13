@@ -12,6 +12,9 @@ public class GenericForDemo3
 		map.put(2, "Peter");
 		map.put(3, "Juli");
 
+		/*
+		 * Java's Generic For Loop or for each loop.
+		 */
 		for (Integer key : map.keySet())
 		{
 			String value = map.get(key);
@@ -19,7 +22,10 @@ public class GenericForDemo3
 		}
 
 		System.out.println("-------------------------------");
-			
+
+		/*
+		 * Java's Generic For Loop or for each loop.
+		 */
 		for (String value : map.values())
 		{
 			System.out.println(value);

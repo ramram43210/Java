@@ -12,6 +12,9 @@ public class GenericForDemo1
 		list.add("Juli");
 		list.add("Stephan");
 
+		/*
+		 * Java's Generic For Loop or for each loop.
+		 */
 		for (String aString : list)
 		{
 			System.out.println(aString);

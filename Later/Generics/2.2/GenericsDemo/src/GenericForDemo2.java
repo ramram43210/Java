@@ -11,7 +11,10 @@ public class GenericForDemo2
 		set.add(100);
 		set.add(200);
 		set.add(300);
-		
+
+		/*
+		 * Java's Generic For Loop or for each loop.
+		 */
 		for (Integer integerValue : set)
 		{
 			System.out.println(integerValue);
