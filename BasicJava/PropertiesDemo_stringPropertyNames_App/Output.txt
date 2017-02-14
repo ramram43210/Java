@@ -1,0 +1,2 @@
+Key = user , Value = root 
+Key = password , Value = oracle 
