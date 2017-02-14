@@ -4,7 +4,7 @@ import java.util.Properties;
 
 /*
  * public String getProperty(String key, String
- * defaultValue)
+ * 										defaultValue)
  * 
  * Parameters: 
  * ----------
