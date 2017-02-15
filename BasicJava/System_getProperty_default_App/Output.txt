@@ -1,0 +1,2 @@
+value1 = hello
+value2 = Windows 7
