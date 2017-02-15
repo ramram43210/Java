@@ -1,0 +1,2 @@
+value = Windows 7
+value1 = null
