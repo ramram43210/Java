@@ -2,11 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-@FunctionalInterface
-interface Message
-{
-	String displayMessage(String strValue);
-}
 
 /**
  * Java Lambda Expression Example: Comparator
@@ -25,16 +20,16 @@ public class LambdaDemo
 		list.add(new Product(3, "Laptop", 150000f));
 
 		System.out.println("Before Sorting on the basis of name...\n");
-		
+
 		displayProductInfo(list);
-		
+
 		System.out.println("\nAfter Sorting on the basis of name...\n");
 
 		// implementing lambda expression
 		Collections.sort(list, (p1, p2) -> {
 			return p1.getName().compareTo(p2.getName());
 		});
-	
+
 		displayProductInfo(list);
 	}
 
