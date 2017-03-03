@@ -9,21 +9,32 @@ public class LambdaDemo
 	public static void main(String[] args)
 	{
 
-		List<Developer> listDevs = getDevelopers();
+		List<Developer> developerList = getDevelopers();
 
 		System.out.println("-----------Before Sort-----------");
-		for (Developer developer : listDevs)
+		for (Developer developer : developerList)
 		{
 			System.out.println(developer);
 		}
 
-		System.out.println("\n-----------After Sort------------");
+		System.out.println(
+				"\n-----------After Sort by Age------------");
 		// lambda here...
-		listDevs.sort((Developer o1, Developer o2) -> o1.getAge()
-														- o2.getAge());
+		developerList.sort((Developer o1, Developer o2) -> o1.getAge()
+															- o2.getAge());
 
 		// java 8 only, lambda also, to print the List
-		listDevs.forEach(
+		developerList.forEach(
+				(developer) -> System.out.println(developer));
+
+		System.out.println(
+				"\n-----------After Sort by Name------------");
+		// lambda
+		developerList.sort((Developer o1, Developer o2) -> o1
+									.getName().compareTo(o2.getName()));
+
+		// java 8 only, lambda also, to print the List
+		developerList.forEach(
 				(developer) -> System.out.println(developer));
 
 	}
