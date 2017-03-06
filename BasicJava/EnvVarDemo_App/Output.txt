@@ -1,0 +1,42 @@
+LOCALAPPDATA=C:\Users\Ramesh\AppData\Local
+PROCESSOR_LEVEL=6
+FP_NO_HOST_CHECK=NO
+USERDOMAIN=Ramesh-PC
+LOGONSERVER=\\RAMESH-PC
+JAVA_HOME=C:\Java\jdk1.8.0_111
+PROMPT=$P$G
+SESSIONNAME=Console
+ALLUSERSPROFILE=C:\ProgramData
+PROCESSOR_ARCHITECTURE=AMD64
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+SystemDrive=C:
+=ExitCode=00000000
+=C:=C:\
+APPDATA=C:\Users\Ramesh\AppData\Roaming
+USERNAME=Ramesh
+ProgramFiles(x86)=C:\Program Files (x86)
+CommonProgramFiles=C:\Program Files\Common Files
+Path=C:/Java/jre1.8.0_111/bin/server;C:/Java/jre1.8.0_111/bin;C:/Java/jre1.8.0_111/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Lenovo\Bluetooth Software\syswow64;C:\Program Files\OpenVPN\bin;C:\Java\jdk1.8.0_111\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\TortoiseHg\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\eclipse;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+COMPUTERNAME=RAMESH-PC
+PROCESSOR_REVISION=2a07
+CommonProgramW6432=C:\Program Files\Common Files
+ComSpec=C:\Windows\system32\cmd.exe
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+=D:=D:\eclipse
+HOMEPATH=\Users\Ramesh
+SystemRoot=C:\Windows
+TEMP=C:\Users\Ramesh\AppData\Local\Temp
+HOMEDRIVE=C:
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+USERPROFILE=C:\Users\Ramesh
+TMP=C:\Users\Ramesh\AppData\Local\Temp
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ProgramFiles=C:\Program Files
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=4
+windir=C:\Windows
+AMDAPPSDKROOT=C:\Program Files (x86)\AMD APP\
+=::=::\

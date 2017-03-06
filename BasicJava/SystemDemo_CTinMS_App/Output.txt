@@ -1,0 +1,2 @@
+Current Time in milliseconds = 1488772077364
+Current date and Time = Mon Mar 06 09:17:57 IST 2017

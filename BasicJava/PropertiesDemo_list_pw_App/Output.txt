@@ -1,0 +1,3 @@
+-- listing properties --
+user=root 
+password=oracle 
