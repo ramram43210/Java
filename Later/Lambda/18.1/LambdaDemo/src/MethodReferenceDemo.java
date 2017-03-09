@@ -1,3 +1,10 @@
+/**
+ *
+ * We have defined a functional interface Dog and referring a
+ * static method dogEating() to it's functional method eat().
+ *
+ */
+
 @FunctionalInterface
 interface Dog
 {
