@@ -1,0 +1,2 @@
+Before copy, destArray = 1,2,3,4,
+After copy, destArray = 30,40,50,4,
