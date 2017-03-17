@@ -1,0 +1,7 @@
+MONDAY is which day? 1
+TUESDAY is which day? 2
+WEDNESDAY is which day? 3
+THURSDAY is which day? 4
+FRIDAY is which day? 5
+SATURDAY is which day? 6
+SUNDAY is which day? 7

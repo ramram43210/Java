@@ -1,0 +1,4 @@
+WINTER, SeasonNumber =  5
+SPRING, SeasonNumber =  10
+SUMMER, SeasonNumber =  15
+FALL, SeasonNumber =  20
