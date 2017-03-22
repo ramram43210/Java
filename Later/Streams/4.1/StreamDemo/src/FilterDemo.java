@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * Filtering Collection without using Stream:
- *
+ * 
  * In this example, We are filtering data without using
  * stream. This approach we are used before the stream package was
  * released.
@@ -22,20 +22,20 @@ public class FilterDemo
 		productList.add(new Product(3, "Nokia mobile", 10000));
 		productList.add(new Product(4, "Samsung mobile", 40000));
 
-		List<String> filteredProductPriceList = new ArrayList<String>();
+		List<Product> filteredProductPriceList = new ArrayList<Product>();
 
 		for (Product product : productList)
 		{
 
 			/*
 			 * Filter the product, whose price is less than 30000 and
-			 * add the product name in filteredProductPriceList.
-			 *
+			 * add the product in filteredProductPriceList.
+			 * 
 			 */
 			if (product.getPrice() < 30000)
 			{
-				// Adding product name
-				filteredProductPriceList.add(product.getName());
+				// Adding product
+				filteredProductPriceList.add(product);
 			}
 		}
 		System.out.println(filteredProductPriceList);
