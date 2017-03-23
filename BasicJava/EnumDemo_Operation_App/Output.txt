@@ -1,0 +1,2 @@
+Multiply Result = 8
+Plus Result = 6

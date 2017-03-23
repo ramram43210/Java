@@ -1,0 +1,3 @@
+Company Code: 101 - Company Name: PAYPAL
+Company Code: 201 - Company Name: GOOGLE
+Company Code: 301 - Company Name: YAHOO
