@@ -3,8 +3,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Filtering Collection by using Stream:
- * 
+ * Filtering and Iterating Collection:
+ *
  * Here, we are filtering data by using stream. You can see that code
  * is optimized and maintained. Stream provides fast execution.
  *
