@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.LongSummaryStatistics;
-import java.util.stream.Collectors;
+
 /**
  *
  * Find Max and Min Product Price.
