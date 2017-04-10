@@ -8,7 +8,7 @@ import java.util.stream.Stream;
  * expression as its only argument, and uses it to change every
  * individual element in the stream. Its return value is a new Stream
  * object containing the changed elements.
- * 
+ *
  * How to use map to convert all elements in an array of strings to
  * uppercase.
  */
@@ -24,11 +24,11 @@ public class StreamDemo
 		/*
 		 * passing a lambda expression, one which can convert a string
 		 * to uppercase.
-		 * 
+		 *
 		 * The Stream object returned contains the changed strings.
 		 */
 		Stream<String> upperCaseStream = stream
-				.map(s -> s.toUpperCase());
+				.map(name -> name.toUpperCase());
 
 		String[] upperCaseNameArray = upperCaseStream
 				.toArray(String[]::new);
