@@ -1,10 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * 
+ *
  * Convert Stream to array using stream.toArray(EntryType[]::new)
  *
  */
@@ -20,7 +19,7 @@ public class StreamDemo
 		Stream<Integer> stream = list.stream();
 		Integer[] evenNumbersArr = stream.filter(i -> i % 2 == 0)
 								.toArray(Integer[]::new);
-		
+
 		for (Integer evenNumber : evenNumbersArr)
 		{
 			System.out.println(evenNumber);
