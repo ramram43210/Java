@@ -1,5 +1,5 @@
 import java.util.stream.Stream;
-
+Using Stream.of(arrayOfElements)
 public class StreamDemo2
 {
 	public static void main(String[] args)

@@ -1,5 +1,5 @@
 import java.util.stream.Stream;
-
+Using Stream.of(val1, val2, val3….)
 public class StreamDemo1
 {
 	public static void main(String[] args)
