@@ -1,0 +1,8 @@
+Mobile Phone List:
+-------------------
+Samsung costs 500 dollars
+Nokia costs 300 dollars
+Motorola costs 400 dollars
+-------------------
+
+MobileName = Motorola

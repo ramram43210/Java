@@ -1,0 +1,5 @@
+All car prices:
+TATA costs 2 thousand dollars.
+AUDI costs 60 thousand dollars.
+FIAT costs 20 thousand dollars.
+HONDA costs 15 thousand dollars.
