@@ -1,0 +1,3 @@
+Compile time error:
+
+The method eatchicken() of type Dog must override or implement a supertype method.	
