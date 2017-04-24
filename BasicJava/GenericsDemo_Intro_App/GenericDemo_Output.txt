@@ -1,0 +1,2 @@
+[Peter, Ram]
+stringValue = Peter

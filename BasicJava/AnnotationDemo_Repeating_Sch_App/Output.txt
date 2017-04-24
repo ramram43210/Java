@@ -1,0 +1,12 @@
+@Schedules(value=[@Schedule(hour=12, dayOfMonth=first, dayOfWeek=Mon), 
+@Schedule(hour=17, dayOfMonth=second, dayOfWeek=Tue), 
+@Schedule(hour=24, dayOfMonth=third, dayOfWeek=Wed)])
+
+@Schedule(hour=12, dayOfMonth=first, dayOfWeek=Mon) , 
+dayOfMonth = first , dayOfWeek = Mon , hour = 12
+
+@Schedule(hour=17, dayOfMonth=second, dayOfWeek=Tue) , 
+dayOfMonth = second , dayOfWeek = Tue , hour = 17
+
+@Schedule(hour=24, dayOfMonth=third, dayOfWeek=Wed) , 
+dayOfMonth = third , dayOfWeek = Wed , hour = 24

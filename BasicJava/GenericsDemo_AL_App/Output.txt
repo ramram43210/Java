@@ -1,0 +1,6 @@
+[Peter, Ram, Juli]
+stringValue = Peter
+
+Peter
+Ram
+Juli

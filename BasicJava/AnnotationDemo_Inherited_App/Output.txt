@@ -1,0 +1,2 @@
+Super class Annotation = @MyAnnotation()
+Sub class Annotation = @MyAnnotation()

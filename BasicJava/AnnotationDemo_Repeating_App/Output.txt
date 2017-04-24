@@ -1,0 +1,15 @@
+Number of car manufacturers is 4
+@Manufacturer(name=Mercedes Benz) , name = Mercedes Benz
+@Manufacturer(name=Toyota) , name = Toyota
+@Manufacturer(name=BMW) , name = BMW
+@Manufacturer(name=Range Rover) , name = Range Rover
+
+-------Printing out Car Manufacturers--------
+@Cars(value=[@Manufacturer(name=Mercedes Benz), 
+@Manufacturer(name=Toyota), @Manufacturer(name=BMW), 
+@Manufacturer(name=Range Rover)])
+
+@Manufacturer(name=Mercedes Benz) , name = Mercedes Benz
+@Manufacturer(name=Toyota) , name = Toyota
+@Manufacturer(name=BMW) , name = BMW
+@Manufacturer(name=Range Rover) , name = Range Rover

@@ -1,0 +1,3 @@
+value is: 2
+message is: hello
+DoubleValue is: 5.5

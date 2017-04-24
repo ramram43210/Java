@@ -1,0 +1,3 @@
+[Peter, 10]
+stringValue  = Peter
+integerValue = 10
