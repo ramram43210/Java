@@ -1,0 +1,8 @@
+----------Using for-each loop---------------
+John
+Peter
+Juli
+----------Using Iterator---------------------
+John
+Peter
+Juli
