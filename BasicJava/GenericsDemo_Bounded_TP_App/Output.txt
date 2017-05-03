@@ -1,0 +1,8 @@
+T: java.lang.Integer
+U: java.lang.Integer
+-------------------
+T: java.lang.Integer
+U: java.lang.Double
+-------------------
+T: java.lang.Integer
+U: java.lang.Long

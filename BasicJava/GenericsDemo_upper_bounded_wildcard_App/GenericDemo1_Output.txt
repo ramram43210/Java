@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	The method sum(List<Number>) in the type GenericDemo1 
+	is not applicable for the arguments (List<Integer>)
+
+	at GenericDemo1.main(GenericDemo1.java:20)

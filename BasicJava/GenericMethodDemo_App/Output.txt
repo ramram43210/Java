@@ -1,0 +1,13 @@
+Printing Integer Array
+100
+200
+300
+400
+500
+
+Printing Character Array
+J
+A
+V
+A
+

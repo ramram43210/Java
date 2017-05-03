@@ -1,0 +1,1 @@
+is p1 and p2 are same? = true
