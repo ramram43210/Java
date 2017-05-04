@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class StreamFindDemo
+public class StreamFlatMapDemo
 {
 	public static void main(String[] args)
 	{
@@ -12,7 +12,7 @@ public class StreamFindDemo
 
 		/*
 		 * Stream.flatMap()
-		 * 
+		 *
 		 * It returns a stream of object after applying mapping
 		 * function on each element and then flattens the result.
 		 */

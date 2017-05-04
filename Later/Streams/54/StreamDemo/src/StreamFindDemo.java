@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class StreamFindDemo
+public class StreamForEachDemo
 {
 	public static void main(String[] args)
 	{
