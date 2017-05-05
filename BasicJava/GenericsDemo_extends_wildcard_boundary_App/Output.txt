@@ -1,0 +1,9 @@
+class A
+value =  10
+------------
+class B
+value =  10
+------------
+class C
+value =  10
+------------

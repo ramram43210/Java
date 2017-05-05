@@ -1,0 +1,2 @@
+listA = [A@15db9742, B@6d06d69c, C@7852e922]
+listObject =  [A@4e25154f, B@70dea4e, C@5c647e05]
