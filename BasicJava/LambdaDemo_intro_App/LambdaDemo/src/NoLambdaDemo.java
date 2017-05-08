@@ -10,6 +10,7 @@ public class NoLambdaDemo
 		 */
 		Dog dog = new Dog()
 		{
+			@Override
 			public void eat()
 			{
 				System.out.println("eating chicken");

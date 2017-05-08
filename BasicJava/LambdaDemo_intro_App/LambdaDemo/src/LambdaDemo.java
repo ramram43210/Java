@@ -7,10 +7,13 @@ public class LambdaDemo
 		/*
 		 * With lambda
 		 */
-		Dog dog = () -> {
+		Dog dog = () ->
+		{
 			System.out.println("eating chicken");
 		};
+
 		dog.eat();
+
 	}
 
 }

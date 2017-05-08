@@ -17,7 +17,8 @@ public class LambdaDemo
 		/*
 		 * Java Lambda Expression Example: Single Parameter.
 		 */
-		Dog dog = (foodName) -> {
+		Dog dog = (foodName) ->
+		{
 			System.out.println("eating " + foodName);
 		};
 		dog.eat("Mutton");
