@@ -3,6 +3,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+List of objects -> List of String
+Get all the name values from a list of the SoftwareEngineer objects.
+*/
+
 public class StreamDemo
 {
 	public static void main(String[] args)
