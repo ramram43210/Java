@@ -3,8 +3,8 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * 
- * Example to filter a Map and return a String.
+ *
+ * Example to filter a Map and return a map.
  */
 public class StreamDemo
 {
@@ -21,7 +21,7 @@ public class StreamDemo
                 .filter(map -> map.getKey() == 2)
                 .collect(Collectors.toMap(p -> p.getKey(), p -> p.getValue()));
 
-        System.out.println(filteredMap); 
+        System.out.println(filteredMap);
 
 	}
 
