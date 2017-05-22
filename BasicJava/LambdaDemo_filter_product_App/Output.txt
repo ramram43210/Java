@@ -1,0 +1,3 @@
+Sony LED TV: 60000.0
+Laptop: 80000.0
+Smart phone: 70000.0
