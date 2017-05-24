@@ -1,24 +1,22 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeSet;
 import java.util.stream.Collectors;
 
 public class StreamCollectDemo
 {
 	public static void main(String[] args)
 	{
-		List<Person> listPersons = new ArrayList<>();
+		List<Person> personList = new ArrayList<>();
 
-		listPersons.add(new Person("Alice","alice@gmail.com",	Gender.FEMALE, 26));
-		listPersons.add(new Person("Bob","bob@gmail.com", Gender.MALE, 32));
-		listPersons.add(new Person("Carol","carol@gmail.com",Gender.FEMALE, 23));
-		listPersons.add(new Person("David","david@gmail.com",	Gender.MALE, 39));
-		listPersons.add(new Person("Eric","eric@gmail.com", Gender.MALE, 26));
-		listPersons.add(new Person("Frank","frank@gmail.com",Gender.MALE, 33));
-		listPersons.add(new Person("Gibb","gibb@gmail.com", Gender.MALE, 27));
-		listPersons.add(new Person("Henry","henry@gmail.com",	Gender.MALE, 30));
-		listPersons.add(new Person("Isabell","isabell@gmail.com",Gender.FEMALE, 22));
-		listPersons.add(new Person("Jane","jane@gmail.com",Gender.FEMALE, 24));
-
+		personList.add(new Person("Alice","alice@gmail.com",	Gender.FEMALE, 26));
+		personList.add(new Person("Bob","bob@gmail.com", Gender.MALE, 32));
+		personList.add(new Person("Carol","carol@gmail.com",Gender.FEMALE, 23));
+		personList.add(new Person("David","david@gmail.com",	Gender.MALE, 39));
+		personList.add(new Person("Eric","eric@gmail.com", Gender.MALE, 26));
+		
 		/*
 		 * The collect() operation accumulates elements in a stream into a
 		 * container such as a collection. It performs mutable reduction
@@ -27,14 +25,42 @@ public class StreamCollectDemo
 		 * implementation that provides useful reduction operations. The
 		 * Collectors class is a common implementation in the JDK. And we are
 		 * going to see how it is used in the following examples.
-		 *
-		 * The following example accumulates emails of the persons into a list
+		 * 
+		 * The following code accumulates emails of the persons into a list
 		 * collection:
 		 */
-		List<String> listEmails = listPersons.stream().map(p -> p.getEmail())
+		List<String> listEmails = personList.stream().map(p -> p.getEmail())
 													  .collect(Collectors.toList());
 
-		listEmails.forEach(email -> System.out.println(email));
+		System.out.println("listEmails = "+ listEmails);
+		
+		/*
+		 * We can specify exactly which type of collection as the result. For
+		 * example, the following code collects emails into a TreeSet:
+		 */
+		Set<String> setEmails = personList.stream()
+                .map(p -> p.getEmail())
+                .collect(Collectors.toCollection(TreeSet::new));
+		
+		System.out.println("setEmails = "+ setEmails);
+		
+		/*
+		 * The following code groups the person by gender:
+		 */
+		Map<Gender, List<Person>> byGenderMap = personList.stream()
+				.collect(Collectors.groupingBy(p -> p.getGender()));
+
+		System.out.println("Groups by gender = " + byGenderMap);
+		
+		/*
+		 * The following code accumulates names and concatenates them into
+		 * a String, separated by commas:
+		 */
+		String names = personList.stream().map(p -> p.getName())
+				.collect(Collectors.joining(", "));
+		
+		System.out.println("names = "+names);
+		
 	}
 
 }
