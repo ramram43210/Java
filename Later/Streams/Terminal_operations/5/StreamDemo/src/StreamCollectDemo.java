@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StreamNoneMatchDemo
+public class StreamCollectDemo
 {
 	public static void main(String[] args)
 	{
@@ -27,7 +27,7 @@ public class StreamNoneMatchDemo
 		 * implementation that provides useful reduction operations. The
 		 * Collectors class is a common implementation in the JDK. And we are
 		 * going to see how it is used in the following examples.
-		 * 
+		 *
 		 * The following example accumulates emails of the persons into a list
 		 * collection:
 		 */
