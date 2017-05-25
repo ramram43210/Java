@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class StreamCollectDemo
+public class StreamForEachDemo
 {
 	public static void main(String[] args)
 	{
@@ -12,7 +12,7 @@ public class StreamCollectDemo
 		personList.add(new Person("Carol","carol@gmail.com",Gender.FEMALE, 23));
 		personList.add(new Person("David","david@gmail.com",	Gender.MALE, 39));
 		personList.add(new Person("Eric","eric@gmail.com", Gender.MALE, 26));
-		
+
 		/*
 		 * The forEach() operation performs an action for each element in the
 		 * stream, thus creating a side effect, such as print out information of
@@ -20,7 +20,7 @@ public class StreamCollectDemo
 		 */
 		personList.stream().filter(p -> p.getGender().equals(Gender.FEMALE))
 													.forEach(System.out::println);
-		
+
 	}
 
 }
