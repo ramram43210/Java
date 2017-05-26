@@ -1,0 +1,17 @@
+-----------Before Sort-----------
+Developer [name=Peter, age=33]
+Developer [name=John, age=22]
+Developer [name=Ram, age=15]
+Developer [name=Steve, age=55]
+
+-----------After Sort by Age------------
+Developer [name=Ram, age=15]
+Developer [name=John, age=22]
+Developer [name=Peter, age=33]
+Developer [name=Steve, age=55]
+
+-----------After Sort by Name------------
+Developer [name=John, age=22]
+Developer [name=Peter, age=33]
+Developer [name=Ram, age=15]
+Developer [name=Steve, age=55]

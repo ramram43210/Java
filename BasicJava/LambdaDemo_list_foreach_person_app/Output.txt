@@ -1,0 +1,17 @@
+---------- With out lambda-----------------
+Person [name=Carla, age=33]
+Person [name=Balu, age=32]
+Person [name=Bharth, age=40]
+Person [name=Ajay, age=31]
+
+----------With lambda-----------------
+Person [name=Carla, age=33]
+Person [name=Balu, age=32]
+Person [name=Bharth, age=40]
+Person [name=Ajay, age=31]
+
+----------Method Reference-------------
+Person [name=Carla, age=33]
+Person [name=Balu, age=32]
+Person [name=Bharth, age=40]
+Person [name=Ajay, age=31]
