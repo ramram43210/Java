@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class StreamFilterDemo
+public class StreamMapDemo
 {
 	public static void main(String[] args)
 	{
@@ -20,21 +20,21 @@ public class StreamFilterDemo
 		 * are the results of applying a given function to the elements of the
 		 * current stream. For example, converting a stream of Objects to a
 		 * stream of String or a stream of primitive numbers.
-		 * 
+		 *
 		 * The Stream API provides 4 methods for the map operation:
-		 * 
+		 *
 		 * map(): transforms a stream of objects of type T to a stream of
 		 * objects of type R.
-		 * 
+		 *
 		 * mapToInt(): transforms a stream of objects to a stream of int
 		 * primitives.
-		 * 
+		 *
 		 * mapToLong(): transforms a stream of objects to a stream of long
 		 * primitives.
-		 * 
+		 *
 		 * mapToDouble(): transforms a stream of objects to a stream of double
 		 * primitives.
-		 * 
+		 *
 		 */
 		Stream<String> stringStream = personList.stream()
 				.map(p -> p.getEmail());
@@ -43,20 +43,20 @@ public class StreamFilterDemo
 		System.out.println("\n----------------------\n");
 
 		personList.stream().map(p -> p.getEmail()).forEach(System.out::println);
-		
+
 		System.out.println("\n----------------------\n");
-		
+
 		IntStream intStream =personList.stream().mapToInt(p -> p.getAge());
 		intStream.forEach(age -> System.out.print(age + " - "));
 
 		System.out.println("\n----------------------\n");
-		
+
 		personList.stream().mapToInt(p -> p.getAge())
 				.forEach(age -> System.out.print(age + " - "));
-		
-		
+
+
 		System.out.println("\n----------------------\n");
-		
+
 		personList.stream().map(p -> p.getName().toUpperCase())
 				.forEach(System.out::println);
 

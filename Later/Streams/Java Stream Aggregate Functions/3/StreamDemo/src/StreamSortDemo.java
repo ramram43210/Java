@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class StreamFilterDemo
+public class StreamSortDemo
 {
 	public static void main(String[] args)
 	{
@@ -17,23 +17,23 @@ public class StreamFilterDemo
 		 * The Stream API provides two overloads of the sorted operation that
 		 * returns a new stream consisting elements sorted according to natural
 		 * order or by a specified comparator:
-		 * 
-		 * 1.sorted(): sorts by natural order 
+		 *
+		 * 1.sorted(): sorts by natural order
 		 * 2.sorted(comparator): sorts by a comparator
-		 * 
+		 *
 		 * The following code returns a stream of persons who are sorted by
 		 * their age into ascending order:
-		 * 
+		 *
 		 */
-		
+
 		System.out.println("----------Sorted by Age-------------------");
-		
+
 		personList.stream().sorted()
 				.forEach(p -> System.out.println(p));
-		
-		
+
+
 		System.out.println("\n----------Sorted by Name-------------------");
-		
+
 		/*
 		 * The following code shows how to use a specified comparator to return
 		 * a stream of persons who are sorted by their name:
