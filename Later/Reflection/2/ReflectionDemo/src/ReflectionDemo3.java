@@ -1,6 +1,6 @@
 public class ReflectionDemo3
 {
-	public static void main(String[] args) throws ClassNotFoundException
+	public static void main(String[] args)
 	{
 		/*
 		 * If a type is available but there is no instance then it is possible

@@ -1,6 +1,6 @@
 public class ReflectionDemo2
 {
-	public static void main(String[] args) throws ClassNotFoundException
+	public static void main(String[] args)
 	{
 		Student student = new Student("Peter", 25);
 
@@ -10,7 +10,7 @@ public class ReflectionDemo2
 		 */
 		Class<? extends Student> classObj = student.getClass();
 		System.out.println(classObj.getName());
-		
+
 	}
 
 }
