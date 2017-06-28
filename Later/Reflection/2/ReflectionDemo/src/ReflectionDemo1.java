@@ -12,6 +12,7 @@ public class ReflectionDemo1
 		 */
 		Class<?> classObj = Class.forName("Student");
 		System.out.println(classObj.getName());
+		System.out.println(classObj.getSimpleName());
 	}
 
 }
