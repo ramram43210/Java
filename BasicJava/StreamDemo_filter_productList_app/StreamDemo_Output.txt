@@ -1,0 +1,2 @@
+Product [id=2, name=Lenovo mobile, price=15000]
+Product [id=3, name=Nokia mobile, price=10000]
