@@ -1,0 +1,2 @@
+Max price product = Product [id=4, name=Samsung mobile, price=40000]
+Min price product = Product [id=3, name=Nokia mobile, price=10000]

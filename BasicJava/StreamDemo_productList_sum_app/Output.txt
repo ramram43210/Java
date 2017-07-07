@@ -1,0 +1,6 @@
+LongSummaryStatistics{count=4, sum=90000, min=10000, average=22500.000000, max=40000}
+Count = 4
+Sum = 90000
+Max Price = 40000
+Min Price = 10000
+Average Price = 22500.0
