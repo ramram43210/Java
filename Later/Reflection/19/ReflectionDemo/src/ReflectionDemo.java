@@ -1,7 +1,7 @@
 import java.lang.reflect.Field;
 
 /**
- * 
+ *
  * Getting and Setting Field Values.
  *
  */
@@ -19,7 +19,7 @@ public class ReflectionDemo
 			System.out.println("Field Name = " + field.getName());
 			System.out.println("Field Type = " + field.getType());
 
-			Student student = new Student();
+			Student student = classObj.newInstance();
 			/*
 			 * Sets the field represented by this Field object on the specified
 			 * object argument to the specified new value.
