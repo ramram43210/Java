@@ -1,7 +1,7 @@
 import java.lang.reflect.Field;
 
 /**
- * 
+ *
  * We can access the fields (member variables) of a class.
  *
  */
@@ -20,7 +20,7 @@ public class ReflectionDemo
 
 		for (Field field : fieldArray)
 		{
-			System.out.println(field);
+			System.out.println(field.getName());
 		}
 
 	}
