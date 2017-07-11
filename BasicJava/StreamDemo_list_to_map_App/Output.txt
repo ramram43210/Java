@@ -1,0 +1,1 @@
+{Nokia mobile=10000, Lenovo mobile=15000, Samsung mobile=40000, Micromax mobile=10000, Sony mobile=25000}
