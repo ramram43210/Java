@@ -1,0 +1,2 @@
+java.util.stream.ReferencePipeline$Head@6d06d69c
+Count =  4
