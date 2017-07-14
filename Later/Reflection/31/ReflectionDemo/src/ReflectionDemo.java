@@ -9,10 +9,9 @@ public class ReflectionDemo
 {
 	public static void main(String[] args)
 	{
-		Method method;
 		try
 		{
-			method = Display.class.getMethod("getNameList", null);
+			Method method = Display.class.getMethod("getNameList", null);
 			Type returnType = method.getGenericReturnType();
 
 			if (returnType instanceof ParameterizedType)
