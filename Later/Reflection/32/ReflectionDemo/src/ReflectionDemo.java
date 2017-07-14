@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  * How to get Generic Method Return Types
+
+ We can access the generic parameter types of the method parameters
  */
 public class ReflectionDemo
 {
