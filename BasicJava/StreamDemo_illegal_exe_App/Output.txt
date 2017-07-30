@@ -1,0 +1,7 @@
+Peter
+Steve
+Juli
+Exception in thread "main" java.lang.IllegalStateException: stream has already been operated upon or closed
+	at java.util.stream.AbstractPipeline.sourceStageSpliterator(Unknown Source)
+	at java.util.stream.ReferencePipeline$Head.forEach(Unknown Source)
+	at StreamDemo.main(StreamDemo.java:18)

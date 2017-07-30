@@ -1,0 +1,19 @@
+running... 1 sec
+running... 2 sec
+running... 3 sec
+Going to call collect method..
+---------------------------------
+
+filter: [1]
+filter: [2]
+map: [2]
+filter: [3]
+filter: [4]
+map: [4]
+filter: [5]
+filter: [6]
+map: [6]
+filter: [7]
+filter: [8]
+map: [8]
+filter: [9]
