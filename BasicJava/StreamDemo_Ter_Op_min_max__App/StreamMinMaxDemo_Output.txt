@@ -1,0 +1,4 @@
+optionalIntMin = OptionalInt[1]
+min = 1
+optionalIntMax = OptionalInt[3]
+max = 3

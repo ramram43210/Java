@@ -1,0 +1,1 @@
+In customerList: [Peter, Dave] have the same lastName John.

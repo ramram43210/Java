@@ -1,0 +1,3 @@
+allMatch = false
+anyMatch = true
+noneMatch = false

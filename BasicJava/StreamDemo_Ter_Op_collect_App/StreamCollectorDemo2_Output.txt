@@ -1,0 +1,3 @@
+Smith: [Customer [firstName=Steve, lastName=Smith]]
+John: [Customer [firstName=Peter, lastName=John], Customer [firstName=Dave, lastName=John]]
+pattinson: [Customer [firstName=Robert, lastName=pattinson]]
