@@ -1,0 +1,2 @@
+With out filter, Count = 3
+After filter, Count =  2
