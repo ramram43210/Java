@@ -3,8 +3,8 @@ import java.util.regex.Pattern;
 
 public class RegexDemo
 {
-	private static final String REGEX = "foo";
-	private static final String INPUT = "fooooooooooooooooo";
+	private static final String REGEX = "bar";
+	private static final String INPUT = "barooooooooooooooo";
 
 	public static void main(String[] args)
 	{
