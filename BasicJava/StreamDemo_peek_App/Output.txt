@@ -1,0 +1,4 @@
+Filtered value: three
+Mapped value: THREE
+Filtered value: four
+Mapped value: FOUR

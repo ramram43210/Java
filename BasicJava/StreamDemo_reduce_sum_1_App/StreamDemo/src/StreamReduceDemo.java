@@ -9,8 +9,8 @@ public class StreamReduceDemo
 		 * reduce(): It performs reduction on stream elements using a
 		 * identity value and accumulation function.
 		 */
-		int[] array = { 3, 5, 10, 15 };
-		int sum = Arrays.stream(array).reduce(0, (x, y) -> x + y);
+		int[] intArray = { 3, 5, 10, 15 };
+		int sum = Arrays.stream(intArray).reduce(0, (x, y) -> x + y);
 		System.out.println("Sum:" + sum);
 	}
 }

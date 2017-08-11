@@ -12,7 +12,7 @@ public class StreamMaxMinDemo
 		 * max(): It finds maximum element for the given Comparator.
 		 */
 		String max = list.stream()
-				.max(Comparator.comparing(String::valueOf)).get();
+						 .max(Comparator.comparing(String::valueOf)).get();
 		
 		System.out.println("Max:" + max);
 
@@ -20,7 +20,7 @@ public class StreamMaxMinDemo
 		 * min(): It finds minimum element for the given Comparator.
 		 */
 		String min = list.stream()
-				.min(Comparator.comparing(String::valueOf)).get();
+				         .min(Comparator.comparing(String::valueOf)).get();
 		
 		System.out.println("Min:" + min);
 	}

@@ -9,8 +9,7 @@ public class StreamSkipDemo
 		 * skip(): It returns a stream skipping the given number of
 		 * elements.
 		 */
-		int[] array = { 5, 10, 15, 20 };
-		Arrays.stream(array).skip(2)
-				.forEach(s -> System.out.println(s + " "));
+		int[] intArray = { 5, 10, 15, 20 };
+		Arrays.stream(intArray).skip(2).forEach(s -> System.out.println(s + " "));
 	}
 }

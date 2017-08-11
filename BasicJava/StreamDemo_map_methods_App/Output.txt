@@ -1,0 +1,4 @@
+Stream = 1 4 9 16 
+DoubleStream = 1.0 4.0 9.0 16.0 
+LongStream = 1 4 9 16 
+IntStream = 1 4 9 16 

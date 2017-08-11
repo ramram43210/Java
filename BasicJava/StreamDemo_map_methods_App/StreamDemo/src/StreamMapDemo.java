@@ -25,8 +25,7 @@ public class StreamMapDemo
 		 * mapToDouble(): It returns DoubleStream after applying the
 		 * given function.
 		 */
-		DoubleStream doubleStream = list.stream()
-				.mapToDouble(i -> i * i);
+		DoubleStream doubleStream = list.stream().mapToDouble(i -> i * i);
 		doubleStream.forEach(s -> System.out.print(s + " "));
 
 		System.out.print("\nLongStream = ");
