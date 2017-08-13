@@ -1,0 +1,5 @@
+Length of array: 4
+A
+B
+C
+D
