@@ -2,10 +2,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 
- * This example searches the text for occurrences of the word John.
- * For each match found, group number 1 is extracted, which is what
- * matched the group marked with parentheses.
+ * Multiple Groups:
+ * A regular expression can have multiple groups.
  *
  */
 public class RegexDemo
@@ -19,7 +17,7 @@ public class RegexDemo
 		/*
 		 * This expression matches the text "John" followed by a
 		 * space, and then one or more characters.
-		 * 
+		 *
 		 * This expression contains a few characters with special
 		 * meanings in a regular expression. The . means
 		 * "any character". The + means "one or more times", and
