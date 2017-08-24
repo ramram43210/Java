@@ -1,0 +1,2 @@
+lowerAlphaList = [a, b, c ]
+upperAlphaList = [A, B, C ]
