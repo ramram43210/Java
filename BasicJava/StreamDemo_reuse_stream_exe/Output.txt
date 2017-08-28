@@ -1,0 +1,6 @@
+anyElement = Optional[a]
+Exception in thread "main" java.lang.IllegalStateException: 
+stream has already been operated upon or closed
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at StreamDemo.main(StreamDemo.java:28)

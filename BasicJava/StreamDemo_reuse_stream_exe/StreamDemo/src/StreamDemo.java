@@ -6,8 +6,7 @@ public class StreamDemo
 	public static void main(String[] args)
 	{
 
-		Stream<String> stream = Stream.of("a", "b", "c")
-				.filter(element -> element.contains("b"));
+		Stream<String> stream = Stream.of("a", "b", "c");				
 
 		Optional<String> anyElement = stream.findAny();
 

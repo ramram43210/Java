@@ -17,14 +17,17 @@ public class FlatMapDemo1
 
 		Student student2 = new Student();
 		student2.setName("John");
-		student2.addBook("Learning Oracle");
+		student2.addBook("Java in Action");
 		student2.addBook("Learning Java Script");
 
-		List<Student> list = new ArrayList<>();
-		list.add(student1);
-		list.add(student2);
+		List<Student> studentList = new ArrayList<>();
+		studentList.add(student1);
+		studentList.add(student2);
 
-		Stream<Set<String>> setStream = list.stream()
+		/*
+		 * Stream<Set<String>>
+		 */
+		Stream<Set<String>> setStream = studentList.stream()
 				.map(student -> student.getBookSet());
 
 		/*
@@ -36,7 +39,7 @@ public class FlatMapDemo1
 		List<String> bookList = stringStream.distinct()
 				.collect(Collectors.toList());
 
-		bookList.forEach(x -> System.out.println(x));
+		bookList.forEach(bookName -> System.out.println(bookName));
 	}
 
 }
