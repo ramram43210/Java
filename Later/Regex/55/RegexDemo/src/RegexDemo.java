@@ -1,29 +1,18 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-/*
-OR Class Example
-*/
+/**
+ * 
+ * NOR Class Example
+ *
+ */
 public class RegexDemo
 {
 
 	public static void main(String[] args)
 	{
-		/*
-		 * [abc] - Any of the elements in the set is matched
-		 */
-		calculateMatches("[abc]", "b");
-		calculateMatches("[abc]", "cab");
-		calculateMatches("[abc]", "cabABZ9");
-
-		/*
-		 * They can also be alternated as part of a String. In the
-		 * following example, when we create different words by
-		 * alternating the first letter with each element of the set,
-		 * they are all matched:
-		 */
-		calculateMatches("[bcr]at", "bat cat rat zat");
-
+		calculateMatches("[^abc]", "z");
+		calculateMatches("[^bcr]at", "sat mat eat");
+		calculateMatches("[^bcr]at", "sat mat eat bat cat");
 	}
 
 	private static void calculateMatches(String regex,
