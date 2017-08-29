@@ -12,6 +12,15 @@ public class RegexDemo
 		calculateMatches("[abc]", "b");
 		calculateMatches("[abc]", "cab");
 		calculateMatches("[abc]", "cabABZ9");
+
+		/*
+		 * They can also be alternated as part of a String. In the
+		 * following example, when we create different words by
+		 * alternating the first letter with each element of the set,
+		 * they are all matched:
+		 */
+		calculateMatches("[bcr]at", "bat cat rat zat");
+
 	}
 
 	private static void calculateMatches(String regex,
