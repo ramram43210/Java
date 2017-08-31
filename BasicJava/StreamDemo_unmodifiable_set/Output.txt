@@ -1,0 +1,3 @@
+unmodifiableSet = [Product [name=orange, price=15], Product [name=lemon, price=20], 
+Product [name=potatoes, price=15], Product [name=sugar, price=30], 
+Product [name=bread, price=20]]
