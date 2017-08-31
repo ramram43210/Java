@@ -2,7 +2,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 
+ *
  * Quantifiers
  *
  */
@@ -28,8 +28,9 @@ public class RegexDemo
 		Pattern pattern = Pattern.compile(regex);
 		Matcher matcher = pattern.matcher(inputText);
 
-		System.out
-				.println("is matching? = " + matcher.matches());
+		System.out.println("Regex = " + regex + " , "
+						+ "InputText = " + inputText + " is matching? = "
+				+ matcher.matches());
 	}
 
 }

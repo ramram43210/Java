@@ -2,7 +2,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- *
+ * 
  * Capturing Groups
  *
  */
@@ -13,12 +13,15 @@ public class RegexDemo
 	{
 
 		/*
-		 * The API also allows us to treat multiple characters as a
-		 * single unit through capturing groups.
+		 * Where there are two separate matches for the input, we can
+		 * have one match but propagating the same regex match to span
+		 * the entire length of the input using back referencing:
 		 */
-		calculateMatches("(\\d\\d)", "12");
-		calculateMatches("(\\d\\d)", "123");
-		calculateMatches("(\\d\\d)", "a23");
+		calculateMatches("(\\d\\d)\\1", "3434");
+		calculateMatches("(\\d\\d)\\1", "3499");
+
+		calculateMatches("(\\d\\d)\\1\\1", "343434");
+		calculateMatches("(\\d\\d)\\1\\1", "343439");
 
 	}
 
@@ -29,7 +32,7 @@ public class RegexDemo
 		Matcher matcher = pattern.matcher(inputText);
 
 		System.out.println("Regex = " + regex + " , "
-						+ "InputText = " + inputText + " is matching? = "
+				+ "InputText = " + inputText + " is matching? = "
 				+ matcher.matches());
 	}
 
