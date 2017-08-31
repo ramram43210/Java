@@ -1,0 +1,2 @@
+productNameList = [potatoes, orange, lemon, bread, sugar]
+listToString = [potatoes, orange, lemon, bread, sugar]

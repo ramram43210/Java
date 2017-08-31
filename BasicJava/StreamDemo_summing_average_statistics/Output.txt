@@ -1,0 +1,8 @@
+averagePrice = 20.0
+summingPrice = 100
+statistics = IntSummaryStatistics{count=5, sum=100, min=15, average=20.000000, max=30}
+Average = 20.0
+Count = 5
+Max = 30
+Min = 15
+Sum = 100

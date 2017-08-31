@@ -1,0 +1,7 @@
+20 = [Product [name=lemon, price=20], Product [name=bread, price=20]]
+30 = [Product [name=sugar, price=30]]
+15 = [Product [name=potatoes, price=15], Product [name=orange, price=15]]
+---------------------------------------------------
+false = [Product [name=potatoes, price=15], Product [name=orange, price=15], 
+        Product [name=lemon, price=20], Product [name=bread, price=20]]
+true = [Product [name=sugar, price=30]]
