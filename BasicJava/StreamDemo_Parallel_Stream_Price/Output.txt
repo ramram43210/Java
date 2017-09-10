@@ -1,0 +1,2 @@
+isParallel = true
+bigPrice = true

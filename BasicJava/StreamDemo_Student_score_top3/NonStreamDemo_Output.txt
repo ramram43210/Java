@@ -1,0 +1,6 @@
+Alice - 82
+Bob - 90
+David - 80
+Gary - 88
+Henry - 98
+Average score: 72.7
