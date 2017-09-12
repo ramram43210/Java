@@ -12,43 +12,57 @@ public class StreamDemo1
 	public static void main(String[] args)
 	{
 		List<Article> articleList = getArticleList();
-		
-		
-		Map<String, List<Article>> groupByAuthorMap  = groupByAuthorUsingForLoop(articleList);
-		System.out.println(groupByAuthorMap);
-		
-		System.out.println("------------------------------------------------------------------");
-		
+
+		Map<String, List<Article>> groupByAuthorMap = groupByAuthorUsingForLoop(
+				articleList);
+
+		for (String key : groupByAuthorMap.keySet())
+		{
+			System.out.println(key + " = " + groupByAuthorMap.get(key));
+		}
+
+		System.out.println("-----------------------------");
+
 		groupByAuthorMap = groupByAuthorUsingStream(articleList);
-		System.out.println(groupByAuthorMap);
+		for (String key : groupByAuthorMap.keySet())
+		{
+			System.out.println(key + " = " + groupByAuthorMap.get(key));
+		}
 	}
 
-	private static Map<String, List<Article>> groupByAuthorUsingForLoop(List<Article> articleList)
+	private static Map<String, List<Article>> groupByAuthorUsingForLoop(
+			List<Article> articleList)
 	{
 		/*
 		 * Before JDK8 - Using a for-loop
 		 */
 		Map<String, List<Article>> groupByAuthorMap = new HashMap<>();
 
-	    for (Article article : articleList) {
-	        if (groupByAuthorMap.containsKey(article.getAuthor())) {
-	        	groupByAuthorMap.get(article.getAuthor()).add(article);
-	        } else {
-	            ArrayList<Article> articles = new ArrayList<>();
-	            articles.add(article);
-	            groupByAuthorMap.put(article.getAuthor(), articles);
-	        }
-	    }
+		for (Article article : articleList)
+		{
+			if (groupByAuthorMap.containsKey(article.getAuthor()))
+			{
+				groupByAuthorMap.get(article.getAuthor()).add(article);
+			}
+			else
+			{
+				ArrayList<Article> articles = new ArrayList<>();
+				articles.add(article);
+				groupByAuthorMap.put(article.getAuthor(), articles);
+			}
+		}
 
-	    return groupByAuthorMap;
+		return groupByAuthorMap;
 	}
 
-	private static Map<String, List<Article>> groupByAuthorUsingStream(List<Article> articleList)
+	private static Map<String, List<Article>> groupByAuthorUsingStream(
+			List<Article> articleList)
 	{
 		/*
 		 * With JDK 8 - Using operations from the stream API
 		 */
-		Map<String, List<Article>> groupByAuthorMap = articleList.stream()
+		Map<String, List<Article>> groupByAuthorMap = articleList
+				.stream()
 				.collect(Collectors.groupingBy(Article::getAuthor));
 		return groupByAuthorMap;
 	}

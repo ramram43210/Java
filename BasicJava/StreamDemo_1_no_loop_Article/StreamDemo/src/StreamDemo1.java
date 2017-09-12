@@ -3,6 +3,8 @@ import java.util.List;
 import java.util.Optional;
 
 /**
+ * In Java 8 No more loops:
+ * 
  * Find the first article in the collection that has the tagName “Java”.
  */
 public class StreamDemo1
@@ -55,7 +57,7 @@ public class StreamDemo1
 		List<Article>  listOfArticle = new ArrayList<Article>();
 		
 		listOfArticle.add(new Article("Java complete Reference","John","Java"));
-		listOfArticle.add( new Article("Java Programming","John","Java"));
+		listOfArticle.add(new Article("Java Programming","John","Java"));
 		listOfArticle.add(new Article("RESTful web services","John","Web Service"));		
 		listOfArticle.add(new Article("Programming Ruby","John","Ruby"));
 		
