@@ -1,6 +1,6 @@
 import java.time.LocalTime;
 
-public class LocalDateDemo
+public class LocalTimeDemo
 {
 
 	public static void main(String[] args)
