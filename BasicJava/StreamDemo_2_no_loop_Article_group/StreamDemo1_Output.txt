@@ -1,0 +1,9 @@
+John = [Article [title=Java complete Reference, author=John, tagName=Java], 
+        Article [title=Java Programming, author=John, tagName=Java]]
+Peter = [Article [title=RESTful web services, author=Peter, tagName=Web Service], 
+        Article [title=Programming Ruby, author=Peter, tagName=Ruby]]
+-----------------------------
+John = [Article [title=Java complete Reference, author=John, tagName=Java], 
+       Article [title=Java Programming, author=John, tagName=Java]]
+Peter = [Article [title=RESTful web services, author=Peter, tagName=Web Service], 
+        Article [title=Programming Ruby, author=Peter, tagName=Ruby]]
