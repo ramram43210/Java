@@ -36,8 +36,7 @@ public class StreamGroupByDemo1
 			{
 				System.out.println(student);
 			}
-			System.out
-					.println("----------------------------------------------");
+			System.out.println("-------------------------------------");
 		}
 
 	}

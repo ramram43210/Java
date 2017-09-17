@@ -1,0 +1,7 @@
+--------Filterd based on FEMALE--------
+Person [name=Alice, gender=FEMALE, age=16]
+Person [name=Carol, gender=FEMALE, age=23]
+
+--------Filterd based on Male and Age<=25--------
+Person [name=Bob, gender=MALE, age=15]
+Person [name=David, gender=MALE, age=19]

@@ -25,11 +25,10 @@ public class StreamGroupByDemo3
 		 * this case Collectors.counting which will count the number of classes
 		 * in each level.
 		 */
-		Map<Integer, Long> groupByTeachersMap = studentList.stream()
-				.collect(Collectors.groupingBy(Student::getLevel,
-						Collectors.counting()));
+		Map<Integer, Long> groupByLevelMap = studentList.stream()
+				.collect(Collectors.groupingBy(Student::getLevel,Collectors.counting()));
 
-		for (Map.Entry<Integer, Long> entry : groupByTeachersMap.entrySet())
+		for (Map.Entry<Integer, Long> entry : groupByLevelMap.entrySet())
 		{
 			System.out.println("Level = " + entry.getKey() + ", Count = "
 					+ entry.getValue());

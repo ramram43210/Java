@@ -19,10 +19,10 @@ public class StreamGroupByDemo2
 	{
 		List<Student> studentList = getStudentList();
 
-		Map<Integer, List<Student>> groupByTeachersMap = studentList.stream()
+		Map<Integer, List<Student>> groupByLevelMap = studentList.stream()
 				.collect(Collectors.groupingBy(Student::getLevel));
 
-		for (Map.Entry<Integer, List<Student>> entry : groupByTeachersMap
+		for (Map.Entry<Integer, List<Student>> entry : groupByLevelMap
 				.entrySet())
 		{
 			System.out.println("Level : " + entry.getKey());
@@ -32,8 +32,7 @@ public class StreamGroupByDemo2
 			{
 				System.out.println(student);
 			}
-			System.out
-					.println("----------------------------------------------");
+			System.out.println("----------------------------------");
 		}
 
 	}

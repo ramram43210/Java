@@ -1,0 +1,9 @@
+Teacher Name : Mr.John
+Student [studentName=Peter, teacherName=Mr.John, level=1, className=Java Basics]
+Student [studentName=Ram, teacherName=Mr.John, level=1, className=Webservice Basics]
+Student [studentName=Juli, teacherName=Mr.John, level=2, className=Advance Java]
+-------------------------------------
+Teacher Name : Mr.Kumar
+Student [studentName=Dave, teacherName=Mr.Kumar, level=1, className=Ruby basics]
+Student [studentName=Raja, teacherName=Mr.Kumar, level=2, className=Advance Ruby]
+-------------------------------------
