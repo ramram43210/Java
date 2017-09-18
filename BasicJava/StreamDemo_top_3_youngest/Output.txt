@@ -1,0 +1,3 @@
+Person [name=Alice, gender=FEMALE, age=15]
+Person [name=Bob, gender=MALE, age=16]
+Person [name=Eric, gender=MALE, age=17]

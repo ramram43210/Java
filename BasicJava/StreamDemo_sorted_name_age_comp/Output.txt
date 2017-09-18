@@ -1,0 +1,13 @@
+----------Sorted by Age-------------------
+Person [name=Bob, gender=MALE, age=15]
+Person [name=Alice, gender=FEMALE, age=16]
+Person [name=David, gender=MALE, age=19]
+Person [name=Carol, gender=FEMALE, age=23]
+Person [name=Eric, gender=MALE, age=26]
+
+----------Sorted by Name-------------------
+Person [name=Alice, gender=FEMALE, age=16]
+Person [name=Bob, gender=MALE, age=15]
+Person [name=Carol, gender=FEMALE, age=23]
+Person [name=David, gender=MALE, age=19]
+Person [name=Eric, gender=MALE, age=26]
