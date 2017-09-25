@@ -1,0 +1,2 @@
+No one uses Yahoo mail? : true
+No one is less than 50? : false

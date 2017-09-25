@@ -1,0 +1,2 @@
+Are all persons male? : false
+Does everyone use GMail? : true

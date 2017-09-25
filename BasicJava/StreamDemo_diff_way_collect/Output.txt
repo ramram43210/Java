@@ -1,0 +1,5 @@
+emailList = [alice@gmail.com, bob@gmail.com, carol@gmail.com, david@gmail.com, eric@gmail.com]
+setEmails = [alice@gmail.com, bob@gmail.com, carol@gmail.com, david@gmail.com, eric@gmail.com]
+Groups by gender = {FEMALE=[Person [name=Alice], Person [name=Carol]], 
+                   MALE=[Person [name=Bob], Person [name=David], Person [name=Eric]]}
+names = Alice, Bob, Carol, David, Eric
