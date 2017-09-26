@@ -18,21 +18,19 @@ public class MonthDayDemo
 		 */
 		int dayOfTheMonth = monthDay.getDayOfMonth();
 		System.out.println("dayOfTheMonth = " + dayOfTheMonth);
-		
+
 		/*
 		 * Returns:the month-of-year, from 1 to 12
 		 */
 		int monthValue = monthDay.getMonthValue();
 		System.out.println("monthValue = " + monthValue);
-		
+
 		/*
 		 * Returns:the month-of-year, not null
 		 */
 		Month month = monthDay.getMonth();
 		System.out.println("month = " + month);
 		System.out.println("month value = " + month.getValue());
-		
-		
 
 	}
 
