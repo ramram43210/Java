@@ -21,7 +21,12 @@ public class MonthDayDemo
 		 */
 		monthDay = monthDay.with(Month.APRIL);
 
-		System.out.println("After month Change = " + monthDay);
+		System.out.println("After month Change1 = " + monthDay);
+		
+		
+		monthDay = monthDay.withMonth(8);
+
+		System.out.println("After month Change2 = " + monthDay);
 	}
 
 }
