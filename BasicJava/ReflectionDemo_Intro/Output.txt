@@ -1,0 +1,16 @@
+getName
+setName
+getAge
+setAge
+wait
+wait
+wait
+equals
+toString
+hashCode
+getClass
+notify
+notifyAll
+----------------------------------
+name
+age

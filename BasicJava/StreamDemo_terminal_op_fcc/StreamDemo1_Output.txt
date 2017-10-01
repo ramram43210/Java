@@ -1,0 +1,3 @@
+APPLE
+CAT
+DOG
