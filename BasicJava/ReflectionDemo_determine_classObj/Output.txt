@@ -1,0 +1,3 @@
+Is a Interface  = true
+Is a MemberClass = false
+Is a Primitive = false
