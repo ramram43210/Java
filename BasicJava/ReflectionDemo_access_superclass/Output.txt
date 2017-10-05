@@ -1,0 +1,3 @@
+class java.util.AbstractList
+Name = java.util.AbstractList
+Simple Name = AbstractList

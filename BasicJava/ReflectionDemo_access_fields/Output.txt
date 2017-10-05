@@ -1,0 +1,6 @@
+public java.lang.String Student.name
+name
+---------------------------------
+public java.lang.String Student.age
+age
+---------------------------------

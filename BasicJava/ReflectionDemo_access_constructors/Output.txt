@@ -1,0 +1,12 @@
+public java.util.ArrayList(java.util.Collection)
+Name = java.util.ArrayList
+ParameterCount = 1
+-----------------------------
+public java.util.ArrayList()
+Name = java.util.ArrayList
+ParameterCount = 0
+-----------------------------
+public java.util.ArrayList(int)
+Name = java.util.ArrayList
+ParameterCount = 1
+-----------------------------

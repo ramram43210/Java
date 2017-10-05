@@ -1,0 +1,5 @@
+Package Name = java.util
+ImplementationTitle = Java Runtime Environment
+ImplementationVersion = 1.8.0_144
+SpecificationVendor = Oracle Corporation
+SpecificationTitle = Java Platform API Specification
