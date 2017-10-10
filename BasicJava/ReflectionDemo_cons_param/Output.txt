@@ -1,0 +1,20 @@
+constructor = public java.util.HashSet(int)
+Parameter Count = 1
+Parameter Type = int
+Parameter Name = arg0
+--------------------------------
+constructor = public java.util.HashSet(int,float)
+Parameter Count = 2
+Parameter Type = int
+Parameter Name = arg0
+Parameter Type = float
+Parameter Name = arg1
+--------------------------------
+constructor = public java.util.HashSet(java.util.Collection)
+Parameter Count = 1
+Parameter Type = java.util.Collection<? extends E>
+Parameter Name = arg0
+--------------------------------
+constructor = public java.util.HashSet()
+Parameter Count = 0
+--------------------------------
