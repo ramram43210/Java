@@ -1,4 +1,3 @@
-import java.time.Instant;
 import java.time.OffsetTime;
 import java.time.ZoneId;
 import java.time.temporal.ChronoField;
@@ -15,13 +14,13 @@ public class OffsetTimeDemo
 
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * field - the field to query the range for, not null
-		 * 
+		 *
 		 * Returns:the range of valid values for the field, not null
 		 */
 		ValueRange valueRange = offsetTime.range(ChronoField.CLOCK_HOUR_OF_DAY);
-		
+
 		System.out.println("Range = " + valueRange);
 		System.out.println("Max   = " + valueRange.getMaximum());
 		System.out.println("min   = " + valueRange.getMinimum());
