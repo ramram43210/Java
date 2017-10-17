@@ -1,5 +1,4 @@
 import java.time.Clock;
-import java.time.ZoneId;
 
 public class ClockDemo
 {
@@ -10,7 +9,7 @@ public class ClockDemo
 
 		/*
 		 * Returns:
-		 * 
+		 *
 		 * the current millisecond instant from this clock, measured
 		 * from the Java epoch of 1970-01-01T00:00Z (UTC), not null
 		 */
