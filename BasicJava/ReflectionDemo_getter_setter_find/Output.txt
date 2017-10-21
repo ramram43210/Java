@@ -1,0 +1,5 @@
+getter: public java.lang.String Student.getName()
+setter: public void Student.setName(java.lang.String)
+getter: public int Student.getAge()
+setter: public void Student.setAge(int)
+getter: public final native java.lang.Class java.lang.Object.getClass()
