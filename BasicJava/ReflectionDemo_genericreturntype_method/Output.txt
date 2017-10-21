@@ -1,0 +1,3 @@
+type = java.util.List<java.lang.String>
+typeArgClass = class java.lang.String
+typeArgClass Name = java.lang.String

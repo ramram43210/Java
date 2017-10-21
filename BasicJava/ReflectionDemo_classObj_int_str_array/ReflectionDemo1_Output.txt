@@ -1,0 +1,2 @@
+class [Ljava.lang.String;
+[Ljava.lang.String;

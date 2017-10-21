@@ -1,0 +1,3 @@
+genericFieldType = java.util.List<java.lang.String>
+fieldArgClass = class java.lang.String
+fieldArgClass Name = java.lang.String

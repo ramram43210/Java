@@ -1,0 +1,3 @@
+genericParameterType = java.util.List<java.lang.String>
+parameterArgClass = class java.lang.String
+parameterArgClass Name = java.lang.String
