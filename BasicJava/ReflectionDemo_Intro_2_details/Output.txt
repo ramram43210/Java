@@ -1,0 +1,19 @@
+The name of class is Display
+The name of constructor is Display
+
+The public methods of class are : 
+method2
+method1
+wait
+wait
+wait
+equals
+toString
+hashCode
+getClass
+notify
+notifyAll
+
+Inside method2,The number is 19
+Inside method1,The string is JAVA
+Private method invoked
