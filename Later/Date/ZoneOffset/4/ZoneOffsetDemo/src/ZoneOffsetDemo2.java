@@ -8,15 +8,15 @@ public class ZoneOffsetDemo2
 	{
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * temporal - the temporal object to convert, not null
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * the zone-offset, not null
 		 */
-		ZoneOffset t = ZoneOffset.from(ZonedDateTime.now());
-		System.out.println(t);
+		ZoneOffset zoneOffset = ZoneOffset.from(ZonedDateTime.now());
+		System.out.println(zoneOffset);
 	}
 
 }
