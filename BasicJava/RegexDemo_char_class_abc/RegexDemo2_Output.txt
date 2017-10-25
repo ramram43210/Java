@@ -1,0 +1,6 @@
+[^abc] matches a = false
+[^abc] matches b = false
+[^abc] matches c = false
+[^abc] matches z = true
+[^abc] matches zz = false
+[^abc] matches zzz = false
