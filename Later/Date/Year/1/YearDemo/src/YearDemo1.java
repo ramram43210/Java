@@ -7,12 +7,12 @@ public class YearDemo1
 	{
 		/*
 		 * Returns:
-		 * 
+		 *
 		 * the current year using the system clock and default
 		 * time-zone, not null
 		 */
-		Year y = Year.now();
-		System.out.println(y);
+		Year year = Year.now();
+		System.out.println(year);
 	}
 
 }
