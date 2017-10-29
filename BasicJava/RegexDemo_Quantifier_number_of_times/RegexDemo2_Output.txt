@@ -1,0 +1,6 @@
+X{n,} = X occurs n or more times
+true
+true
+false
+false
+false

@@ -1,0 +1,6 @@
+* quantifier = occurs zero or more times
+true
+true
+true
+true
+false

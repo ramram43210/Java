@@ -1,0 +1,6 @@
+X{n} = X occurs n times only
+true
+false
+false
+false
+false

@@ -1,0 +1,3 @@
+[a-z&&[^bc]] matches h = true
+[a-z&&[^bc]] matches c = false
+[a-z&&[^bc]] matches hh = false

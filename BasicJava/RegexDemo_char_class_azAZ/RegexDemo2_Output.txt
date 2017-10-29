@@ -1,0 +1,5 @@
+[a-d[m-p]] matches a = true
+[a-d[m-p]] matches n = true
+[a-d[m-p]] matches e = false
+[a-d[m-p]] matches A = false
+[a-d[m-p]] matches am = false

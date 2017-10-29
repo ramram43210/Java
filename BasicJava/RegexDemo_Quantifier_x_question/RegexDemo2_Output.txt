@@ -1,0 +1,5 @@
++ quantifier = occurs once or more times
+true
+true
+true
+false

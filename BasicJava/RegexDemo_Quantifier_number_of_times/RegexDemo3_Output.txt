@@ -1,0 +1,7 @@
+X{y,z} = X occurs at least y times but less than or equal to z times
+true
+true
+false
+false
+false
+false

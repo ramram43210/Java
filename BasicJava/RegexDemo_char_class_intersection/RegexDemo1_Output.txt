@@ -1,0 +1,5 @@
+[a-z&&[def]] matches d = true
+[a-z&&[def]] matches e = true
+[a-z&&[def]] matches f = true
+[a-z&&[def]] matches z = false
+[a-z&&[def]] matches def = false

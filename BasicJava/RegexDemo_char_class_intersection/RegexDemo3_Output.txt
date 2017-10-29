@@ -1,0 +1,3 @@
+[a-z&&[^m-p]] matches b = true
+[a-z&&[^m-p]] matches o = false
+[a-z&&[^m-p]] matches bb = false

@@ -1,0 +1,4 @@
+[a-zA-Z] matches A = true
+[a-zA-Z] matches d = true
+[a-zA-Z] matches ddZY = false
+[a-zA-Z] matches 1 = false
