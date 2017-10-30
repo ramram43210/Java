@@ -21,8 +21,8 @@ public class YearDemo3
 		 * 
 		 * the amount of time between this year and the end year
 		 */
-		long l = year1.until(year2, ChronoUnit.YEARS);
-		System.out.println(l);
+		long value = year1.until(year2, ChronoUnit.YEARS);
+		System.out.println(value);
 
 	}
 
