@@ -1,0 +1,9 @@
+metacharacters W
+true
+false
+false
+false
+----------------------------------
+metacharacters W with quantifier....
+true
+false

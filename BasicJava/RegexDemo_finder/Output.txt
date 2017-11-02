@@ -1,0 +1,6 @@
+Enter regex pattern:
+india
+I found the text india starting at index 11 and ending at index 16
+Enter regex pattern:
+peter
+I found the text peter starting at index 17 and ending at index 22
