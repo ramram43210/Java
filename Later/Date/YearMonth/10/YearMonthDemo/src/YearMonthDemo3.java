@@ -17,12 +17,12 @@ public class YearMonthDemo3
 		 *
 		 * true if the day is valid for this year-month
 		 */
-		
-		boolean isValidMonthDay = yearMonth.isValidDay(12);
-		System.out.println("Day 12 isValidMonthDay = "+isValidMonthDay);
-		
+
+		boolean isValidDay = yearMonth.isValidDay(12);
+		System.out.println("Day 12 isValidDay = "+isValidDay);
+
 		isValidMonthDay = yearMonth.isValidDay(31);
-		System.out.println("Day 31 isValidMonthDay = "+isValidMonthDay);
+		System.out.println("Day 31 isValidDay = "+isValidDay);
 	}
 
 }
