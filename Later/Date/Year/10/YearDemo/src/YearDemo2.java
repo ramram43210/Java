@@ -8,18 +8,19 @@ public class YearDemo2
 	{
 		Year year = Year.of(2017);
 
-		/*
+		check?
+/*
 		 * Parameters:
-		 * 
-		 * field - the field to check, null returns false
-		 * 
+		 *
+		 * unit - the unit to check, null returns false
+		 *
 		 * Returns:
-		 * 
-		 * true if the field is supported on this year, false if not
+		 *
+		 * true if the unit can be added/subtracted, false if not
 		 */
 		boolean isYearSupported = year.isSupported(ChronoUnit.YEARS);
 		System.out.println("isYearSupported = "+isYearSupported);
-		
+
 		boolean isDaysSupported = year.isSupported(ChronoUnit.DAYS);
 		System.out.println("isDaysSupported = "+isDaysSupported);
 	}
