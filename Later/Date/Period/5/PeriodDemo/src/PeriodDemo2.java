@@ -1,42 +1,29 @@
+import java.time.LocalDate;
+import java.time.Month;
 import java.time.Period;
 
 public class PeriodDemo2
 {
 	public static void main(String[] args)
 	{
-		Period periodOfYears = Period.ofYears(2017);
-		System.out.println("Before Minus, periodOfYears = " + periodOfYears);
+		LocalDate localDate1 = LocalDate.of(2010, Month.JANUARY, 21);
+		System.out.println("localDate1 = "+localDate1);
+		
+		LocalDate localDate2 = LocalDate.of(2025, Month.JANUARY, 21);
+		System.out.println("localDate2 = "+localDate2);
 		
 		/*
 		 * Parameters:
 		 * 
-		 * yearsToSubtract - the years to subtract, positive or
-		 * negative
+		 * startDateInclusive - the start date, inclusive, not null
+		 * endDateExclusive - the end date, exclusive, not null
 		 * 
 		 * Returns:
 		 * 
-		 * a Period based on this period with the specified years
-		 * subtracted, not null
+		 * the period between this date and the end date, not null
 		 */
-		periodOfYears = periodOfYears.minusYears(13);
-		System.out.println("After Minus, periodOfYears = " + periodOfYears);
-		
-		
-		Period periodOfMonth = Period.ofMonths(12);
-		System.out.println("Before Minus, periodOfMonth = " + periodOfMonth);
-		
-		/*
-		 * Parameters:
-		 * 
-		 * amountToSubtract - the amount to subtract, not null
-		 * 
-		 * Returns:
-		 * 
-		 * a Period based on this period with the requested period
-		 * subtracted, not null
-		 */
-		periodOfMonth = periodOfMonth.minus(Period.ofMonths(10));
-		System.out.println("After Minus, periodOfMonth = " + periodOfMonth);
+		Period period = Period.between(localDate1,localDate2);
+	    System.out.println("period = "+ period);
 	}
 
 }
