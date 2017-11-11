@@ -1,0 +1,4 @@
+REGEX is: bar
+INPUT is: barooooooooooooooo
+lookingAt(): true
+matches(): false
