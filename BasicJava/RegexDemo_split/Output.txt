@@ -1,0 +1,5 @@
+Peter
+Welcome
+to
+india
+Number of split strings: 4
