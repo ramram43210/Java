@@ -1,0 +1,7 @@
+'peter34' is valid userName? = true
+'peter_34' is valid userName? = true
+'peter-34' is valid userName? = true
+
+'pk' is valid userName? = false
+'peter@89' is valid userName? = false
+'peter11111323445' is valid userName? = false

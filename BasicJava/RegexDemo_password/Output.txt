@@ -1,0 +1,9 @@
+'peter1AB@' is valid? = true
+'peter4COW$' is valid?  = true
+'peter78Dog%#' is valid?  = true
+--------------------------------------------------
+'p1AB@' is valid? = false
+'peter1@' is valid? = false
+'peterAB2*' is valid? = false
+'peterAB$' is valid? = false
+'PETER2$' is valid? = false

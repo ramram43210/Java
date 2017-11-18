@@ -1,0 +1,3 @@
+Found a cat.
+Found a dog.
+animalList = [cat, dog]
