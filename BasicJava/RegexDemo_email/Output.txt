@@ -1,0 +1,12 @@
+peter@yahoo.com is Valid = true
+peter@yahoo.net is Valid = true
+peter.50@yahoo.com is Valid = true
+peter-100@yahoo.com is Valid = true
+peter@gmail.com is Valid = true
+peter+900@oracle.com is Valid = true
+--------------------------------------
+peteryahoo.com is Valid = false
+peter.50@.yahoo.com is Valid = false
+peter.@yahoo.com is Valid = false
+peter@gmail@com is Valid = false
+peter..900@oracle.com is Valid = false

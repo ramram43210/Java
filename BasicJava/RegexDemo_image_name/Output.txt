@@ -1,0 +1,17 @@
+cat.jpg is Valid? = true
+cat.gif is Valid? = true
+cat.png is Valid? = true
+cat.bmp is Valid? = true
+dog.JPG is Valid? = true
+dog.GIF is Valid? = true
+dog.PNG is Valid? = true
+dog.BMP is Valid? = true
+rose.JpG is Valid? = true
+rose.gIF is Valid? = true
+rose.PNg is Valid? = true
+rose.BMp is Valid? = true
+--------------------------------------
+.jpg is Valid? = false
+ .gif is Valid? = false
+dog.txt is Valid? = false
+jpg is Valid? = false

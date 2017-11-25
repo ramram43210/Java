@@ -1,0 +1,8 @@
+2:00 am is Valid? = true
+2:00 AM is Valid? = true
+12:50 pm is Valid? = true
+--------------------------------------
+0:00 am is Valid? = false
+23:00 AM is Valid? = false
+12:90 pm is Valid? = false
+11:20 GM is Valid? = false
