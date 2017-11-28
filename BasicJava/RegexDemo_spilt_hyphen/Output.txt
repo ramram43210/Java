@@ -1,0 +1,6 @@
+stringArrry length = 5
+strValue = Hello
+strValue = peter
+strValue = how
+strValue = are
+strValue = you?

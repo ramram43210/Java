@@ -1,0 +1,8 @@
+2:00 is Valid? = true
+23:00 is Valid? = true
+14:50 is Valid? = true
+--------------------------------------
+24:00 is Valid? = false
+13:1 is Valid? = false
+1:9 is Valid? = false
+110:20 is Valid? = false
