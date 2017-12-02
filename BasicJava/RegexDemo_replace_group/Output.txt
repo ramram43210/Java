@@ -1,0 +1,2 @@
+replaceAll   = Steve peter about this, and Steve Doe writes about that, and Steve Wayne writes about everything.
+replaceFirst = Steve peter about this, and John Doe writes about that, and John Wayne writes about everything.

@@ -1,0 +1,2 @@
+CASE_INSENSITIVE matches   = true
+CASE_SENSITIVE matches   = false

@@ -1,0 +1,12 @@
+Group1 = John writes
+Group2 = John
+Group3 = writes
+--------------------------------
+Group1 = John Doe
+Group2 = John
+Group3 = Doe
+--------------------------------
+Group1 = John Wayne
+Group2 = John
+Group3 = Wayne
+--------------------------------
