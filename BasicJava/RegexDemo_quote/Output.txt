@@ -1,0 +1,2 @@
+regex = \Qdog$\E
+The cat says meow All cat say meow.
