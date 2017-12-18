@@ -1,0 +1,9 @@
+
+Generate project structure with Maven:
+
+mvn archetype:generate -DgroupId=com.ram.core -DartifactId=SpringHelloWorld -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+Convert to Eclipse project:
+
+mvn eclipse:eclipse
