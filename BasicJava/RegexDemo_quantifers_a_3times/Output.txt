@@ -1,0 +1,3 @@
+Regex = a{3} , InputText = aaa is matching? = true
+Regex = a{3} , InputText = aa is matching? = false
+Regex = a{3} , InputText = aaaaaa is matching? = false
