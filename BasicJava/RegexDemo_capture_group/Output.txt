@@ -1,0 +1,3 @@
+Regex = (\d\d) , InputText = 12 is matching? = true
+Regex = (\d\d) , InputText = 123 is matching? = false
+Regex = (\d\d) , InputText = a2 is matching? = false
