@@ -1,0 +1,4 @@
+Regex = (\d\d)\1 , InputText = 3434 is matching? = true
+Regex = (\d\d)\1 , InputText = 3499 is matching? = false
+Regex = (\d\d)\1\1 , InputText = 343434 is matching? = true
+Regex = (\d\d)\1\1 , InputText = 343439 is matching? = false
