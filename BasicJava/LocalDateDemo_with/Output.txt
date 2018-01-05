@@ -1,0 +1,4 @@
+date                  = 2018-01-05
+dateAfterDayChanged   = 2018-01-30
+dateAfterMonthChanged = 2018-02-05
+dateAfterYearChanged  = 2050-01-05

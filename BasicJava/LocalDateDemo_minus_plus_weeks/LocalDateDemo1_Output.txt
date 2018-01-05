@@ -1,0 +1,2 @@
+currentDate = 2018-01-05
+dateAfterWeekChanged = 2017-12-22

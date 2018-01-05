@@ -1,0 +1,5 @@
+2018-01-03
+Year = 2018
+Month = 1
+DayOfMonth = 3
+DayOfWeek = WEDNESDAY
