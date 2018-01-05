@@ -1,3 +1,0 @@
-date = 2018-01-04
-dateAfterMonthChanged = 2018-03-04
-dateAfterYearChanged = 2023-01-04
