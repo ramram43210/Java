@@ -1,0 +1,5 @@
+date1= 2018-07-03
+date2= 2017-03-03
+true
+false
+false

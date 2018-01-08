@@ -1,0 +1,11 @@
+dayOfMonthRange = 1 - 31
+Max DayOfMonth = 31
+Min DayOfMonth = 1
+--------------------------
+monthOfYearRange = 1 - 12
+Max MonthOfYear = 12
+Min MonthOfYear = 1
+--------------------------
+dayOfYearRange = 1 - 365
+Max DayOfYear = 365
+Min DayOfYear = 1

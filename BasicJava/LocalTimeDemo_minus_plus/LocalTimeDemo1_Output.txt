@@ -1,0 +1,4 @@
+time1         = 10:20:19.209
+Hours Changed = 08:20:19.209
+Min Changed   = 09:50:19.209
+Sec Changed   = 10:20:09.209
