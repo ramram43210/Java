@@ -1,0 +1,5 @@
+indiaTime   = 09:22:58.690
+bangkokTime = 10:53:24.641
+
+Hours between two Time Zone =  1
+Minutes between two time zone =  90
