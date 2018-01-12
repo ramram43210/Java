@@ -8,15 +8,15 @@ public class SimpleDateFormatDemo
 	{
 		try
 		{
-			SimpleDateFormat formatter = new SimpleDateFormat("DD/MM/YYYY");
+			SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
 
 			/*
 			 * Parameters:
-			 * 
+			 *
 			 * source - A String whose beginning should be parsed.
-			 * 
+			 *
 			 * Returns:
-			 * 
+			 *
 			 * A Date parsed from the string.
 			 */
 			Date date = formatter.parse("31/03/2015");
