@@ -9,18 +9,18 @@ public class SimpleDateFormatDemo
 		Date date = new Date();
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * pattern - the pattern describing the date and time format
 		 */
-		SimpleDateFormat formatter = new SimpleDateFormat("DD/MM/YYYY");
+		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
 
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * date - the time value to be formatted into a time string.
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * the formatted time string.
 		 */
 		String strDate = formatter.format(date);
