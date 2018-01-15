@@ -1,0 +1,9 @@
+date and Time         = 2017-01-03T20:25:30
+
+Year changed          = 2018-01-03T20:25:30
+Month changed         = 2018-10-03T20:25:30
+Day changed           = 2018-10-25T20:25:30
+Hour changed          = 2018-10-25T01:25:30
+Min changed           = 2018-10-25T01:10:30
+Sec changed           = 2018-10-25T01:10:20
+NanoSec changed       = 2018-10-25T01:10:20.000000050

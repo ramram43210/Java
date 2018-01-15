@@ -1,0 +1,10 @@
+Current date and Time = 2018-01-13T08:30:09.954
+
+Year changed          = 2016-01-13T08:30:09.954
+Month changed         = 2015-10-13T08:30:09.954
+Day changed           = 2015-10-08T08:30:09.954
+Hour changed          = 2015-10-08T07:30:09.954
+Min changed           = 2015-10-08T07:20:09.954
+Sec changed           = 2015-10-08T07:19:49.954
+NanoSec changed       = 2015-10-08T07:19:49.953999950
+Week changed          = 2015-09-17T07:19:49.953999950
