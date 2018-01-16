@@ -1,6 +1,6 @@
 import java.util.TimerTask;
 
-public class MyTimerTask extends TimerTask
+public class CleanUpTimerTask extends TimerTask
 {
 	public void run()
 	{
