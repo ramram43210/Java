@@ -1,0 +1,5 @@
+localDateTime1 = 2016-02-03T12:30:30
+localDateTime2 = 2017-03-03T12:30:30
+false
+false
+true

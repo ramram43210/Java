@@ -1,0 +1,2 @@
+Before Formatting = 2018-01-17T10:09:54.188
+After Formatting  = 17-01-2018 10:09:54
