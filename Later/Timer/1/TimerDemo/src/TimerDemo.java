@@ -25,15 +25,15 @@ public class TimerDemo
 		 * Schedules the specified task for execution at the specified
 		 * time. If the time is in the past, the task is scheduled for
 		 * immediate execution.
-		 * 
+		 *
 		 * Parameters:
-		 * 
+		 *
 		 * task - task to be scheduled.
-		 * 
+		 *
 		 * time - time at which task is to be executed.
 		 */
-		timer.schedule(myTimerTask, scheduleDateTime);
-		System.out.println("Timer has schedule the myTimerTask...");
+		timer.schedule(cleanuptask?, scheduleDateTime);
+		System.out.println("Timer has schedule the --------------------myTimerTask...");
 	}
 
 }

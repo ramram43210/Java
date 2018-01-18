@@ -13,7 +13,7 @@ public class TimerDemo
 		System.out.println("firstTime = " + firstTime);
 
 		timer.scheduleAtFixedRate(cleanUpTimerTask, firstTime, 1000);
-		System.out.println("Timer has schedule the myTimerTask...");
+		System.out.println("Timer has schedule the cleanUpTimerTask...");
 
 		Thread.sleep(5000);
 
@@ -26,13 +26,13 @@ public class TimerDemo
 		 * timer, but eliminates the references to the cancelled tasks
 		 * from the queue. If there are no external references to
 		 * these tasks, they become eligible for garbage collection.
-		 * 
+		 *
 		 * Most programs will have no need to call this method. It is
 		 * designed for use by the rare application that cancels a
 		 * large number of tasks.
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * the number of tasks removed from the queue.
 		 */
 		System.out.println("purge value :" + timer.purge());

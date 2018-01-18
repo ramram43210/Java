@@ -11,19 +11,19 @@ public class TimerDemo
 		/*
 		 * Schedules the specified task for execution after the
 		 * specified delay.
-		 * 
+		 *
 		 * Parameters:
-		 * 
+		 *
 		 * task - task to be scheduled.
-		 * 
+		 *
 		 * delay - delay in milliseconds before task is to be
 		 * executed.
-		 * 
+		 *
 		 * period - time in milliseconds between successive task
 		 * executions.
 		 */
 		timer.scheduleAtFixedRate(cleanUpTimerTask, 5000, 2000);
-		System.out.println("Timer has schedule the myTimerTask...");
+		System.out.println("Timer has schedule the cleanUpTimerTask...");
 	}
 
 }
