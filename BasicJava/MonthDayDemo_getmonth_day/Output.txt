@@ -1,0 +1,5 @@
+monthDay = --01-18
+dayOfTheMonth = 18
+monthValue = 1
+month = JANUARY
+month value = 1

@@ -1,0 +1,3 @@
+--01-19
+monthOfYear = 1
+dayOfMonth = 19
