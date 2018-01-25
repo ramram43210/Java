@@ -1,0 +1,12 @@
+2018-01-25T10:04:20.738+05:30
+Year  = 2018
+Month = JANUARY
+Month Value = 1
+getDayOfMonth = 25
+Hour = 10
+Min = 4
+Second = 20
+Nano Second = 738000000
+Offset = +05:30
+DayOfYear = 25
+DayOfWeek = THURSDAY
