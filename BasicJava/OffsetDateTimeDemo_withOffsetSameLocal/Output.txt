@@ -1,0 +1,2 @@
+offsetDateTime1       = 2017-02-03T10:15:30+01:00
+Offset changed        = 2017-02-03T10:15:30Z

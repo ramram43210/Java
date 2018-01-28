@@ -1,0 +1,9 @@
+offsetDateTime1       = 2017-02-03T10:15:30+01:00
+
+Year changed          = 2018-02-03T10:15:30+01:00
+Month changed         = 2018-10-03T10:15:30+01:00
+Day changed           = 2018-10-25T10:15:30+01:00
+Hour changed          = 2018-10-25T01:15:30+01:00
+Min changed           = 2018-10-25T01:10:30+01:00
+Sec changed           = 2018-10-25T01:10:20+01:00
+NanoSec changed       = 2018-10-25T01:10:20.000000050+01:00
