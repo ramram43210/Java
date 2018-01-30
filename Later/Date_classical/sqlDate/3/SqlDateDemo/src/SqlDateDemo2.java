@@ -3,18 +3,18 @@ import java.time.LocalDate;
 
 public class SqlDateDemo2
 {
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 		LocalDate localDate = LocalDate.now();
 		System.out.println(localDate);
 
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * date - a LocalDate to convert
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * a Date object
 		 */
 		Date date = Date.valueOf(localDate);

@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 public class TimestampDemo
 {
 
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 
 		long millis = System.currentTimeMillis();

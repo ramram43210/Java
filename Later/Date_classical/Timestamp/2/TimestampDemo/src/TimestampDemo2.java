@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 public class TimestampDemo2
 {
 
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 
 		long millis = System.currentTimeMillis();
@@ -15,11 +15,11 @@ public class TimestampDemo2
 
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * date - the time value to be formatted into a time string.
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * the formatted time string.
 		 */
 		String formatedStrDate = sdf.format(timestamp);

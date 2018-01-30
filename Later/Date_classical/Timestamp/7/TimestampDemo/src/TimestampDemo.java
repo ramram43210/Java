@@ -3,7 +3,7 @@ import java.sql.Timestamp;
 public class TimestampDemo
 {
 
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 
 		Timestamp timestamp = Timestamp.valueOf("2018-01-23 19:09:58.743");
@@ -13,7 +13,7 @@ public class TimestampDemo
 
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * time - the number of milliseconds.
 		 */
 		timestamp.setTime(time);
@@ -22,7 +22,7 @@ public class TimestampDemo
 
 		/*
 		 * Parameters:
-		 * 
+		 *
 		 * n - the new fractional seconds component
 		 */
 		timestamp.setNanos(3);

@@ -3,7 +3,7 @@ import java.time.Instant;
 
 public class SqlDateDemo2
 {
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 		long millis = System.currentTimeMillis();
 		java.sql.Date date = new Date(millis);
