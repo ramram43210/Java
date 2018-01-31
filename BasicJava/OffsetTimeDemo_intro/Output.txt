@@ -1,0 +1,6 @@
+currentTime = 09:55:12.169+05:30
+hour = 9
+minute = 55
+seconds = 12
+nanoSeconds = 169000000
+zoneOffset = +05:30

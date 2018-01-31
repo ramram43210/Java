@@ -1,0 +1,4 @@
+offsetTime = 09:58:56.596+05:30
+hour = 9
+minute = 58
+seconds = 56
