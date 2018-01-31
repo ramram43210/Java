@@ -3,7 +3,7 @@ import java.time.LocalDate;
 
 public class SqlDateDemo1
 {
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 		long millis = System.currentTimeMillis();
 		java.sql.Date date = new Date(millis);
@@ -11,7 +11,7 @@ public class SqlDateDemo1
 
 		/*
 		 * Returns:
-		 * 
+		 *
 		 * a LocalDate object representing the same date value
 		 */
 		LocalDate localDate = date.toLocalDate();

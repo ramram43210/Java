@@ -3,7 +3,7 @@ import java.sql.Timestamp;
 public class TimestampDemo1
 {
 
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 
 		long millis = System.currentTimeMillis();

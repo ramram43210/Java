@@ -4,9 +4,9 @@ import java.util.Date;
 public class TimestampDemo1
 {
 
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
-		
+
 		// method 1
 		long millis = System.currentTimeMillis();
 		Timestamp timestamp = new Timestamp(millis);
