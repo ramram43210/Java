@@ -1,0 +1,2 @@
+offsetTime1  = 06:30:40.000050Z
+offsetTime2  = 07:51:57.581Z

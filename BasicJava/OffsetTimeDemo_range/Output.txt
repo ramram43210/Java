@@ -1,0 +1,4 @@
+offsetTime = 08:19:20.784+05:30
+Range = 1 - 24
+Max   = 24
+min   = 1
