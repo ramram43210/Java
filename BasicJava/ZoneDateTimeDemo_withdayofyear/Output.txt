@@ -1,0 +1,2 @@
+zonedDateTime1    = 2017-02-03T10:15:30+01:00
+DayOfYear changed = 2017-05-30T10:15:30+01:00

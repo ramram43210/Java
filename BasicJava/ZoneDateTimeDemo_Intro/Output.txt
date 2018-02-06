@@ -1,0 +1,12 @@
+2018-02-05T09:58:45.137+05:30[Asia/Calcutta]
+Year  = 2018
+Month = FEBRUARY
+Month Value = 2
+getDayOfMonth = 5
+Hour = 9
+Min = 58
+Second = 45
+Nano Second = 137000000
+Offset = +05:30
+DayOfYear = 36
+DayOfWeek = MONDAY
