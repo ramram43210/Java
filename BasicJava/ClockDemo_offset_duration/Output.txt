@@ -1,0 +1,3 @@
+instant of baseClock = 2018-02-13T03:22:38.254Z
+duration = PT6H
+instant of clock     = 2018-02-13T09:23:36.572Z
