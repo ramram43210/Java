@@ -1,0 +1,2 @@
+Asia/Calcutta
+ZoneRules[currentStandardOffset=+05:30]
