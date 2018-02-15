@@ -1,0 +1,3 @@
+displayName FULL = India Time
+displayName SHORT = IT
+displayName NARROW = Asia/Calcutta
