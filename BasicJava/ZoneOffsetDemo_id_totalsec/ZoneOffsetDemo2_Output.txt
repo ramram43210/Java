@@ -1,0 +1,2 @@
+zoneOffset = +01:00
+totalSeconds = 3600

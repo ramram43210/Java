@@ -1,0 +1,3 @@
+zoneOffsetMin = -18:00
+zoneOffsetMax = +18:00
+zoneOffsetUtc = Z
