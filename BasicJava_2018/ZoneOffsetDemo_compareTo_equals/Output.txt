@@ -1,0 +1,4 @@
+zoneOffset1 = +02:00
+zoneOffset2 = +01:00
+-3600
+false
