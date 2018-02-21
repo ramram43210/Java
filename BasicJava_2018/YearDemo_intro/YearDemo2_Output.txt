@@ -1,0 +1,2 @@
+Minimum supported year = -999999999
+Maximum supported year =  999999999
