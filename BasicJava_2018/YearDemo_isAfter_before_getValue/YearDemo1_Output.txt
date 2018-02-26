@@ -1,0 +1,4 @@
+year1 = 2017
+year2 = 2014
+2017 is after 2014 = true
+2017 is before 2014 = false

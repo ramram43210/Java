@@ -1,0 +1,4 @@
+year1 = 2014
+year2 = 2018
+2014 is equal to 2018 = false
+2014 compare to 2018 = -4
