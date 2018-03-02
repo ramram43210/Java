@@ -1,0 +1,3 @@
+yearMonth1 = 2018-03
+yearMonth2 = 2048-03
+yearMonth3 = 2048-04

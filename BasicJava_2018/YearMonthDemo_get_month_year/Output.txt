@@ -1,0 +1,4 @@
+yearMonth = 2018-03
+monthValue = 3
+year = 2018
+month = MARCH

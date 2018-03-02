@@ -1,0 +1,3 @@
+yearMonth1 = 2018-03
+yearMonth2 = 1988-03
+yearMonth3 = 1988-02
