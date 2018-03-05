@@ -1,0 +1,4 @@
+yearMonth1 = 2014-11
+yearMonth2 = 2000-01
+yearDifference = -14
+monthDifference = -178

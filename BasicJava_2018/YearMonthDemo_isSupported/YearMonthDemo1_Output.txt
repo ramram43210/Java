@@ -1,0 +1,3 @@
+isYearSupported = true
+isMonthYearSupported = true
+isDayOfMonthSupported = false

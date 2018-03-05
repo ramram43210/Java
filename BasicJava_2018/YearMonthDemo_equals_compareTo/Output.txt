@@ -1,0 +1,4 @@
+yearMonth1 = 2016-03
+yearMonth2 = 2017-03
+2016-03 is equal to 2017-03 = false
+2016-03 compare to 2017-03 = -1

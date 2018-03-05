@@ -1,0 +1,3 @@
+yearMonth = 2017-02
+Day 12 isValidDay = true
+Day 31 isValidDay = false
