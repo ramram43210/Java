@@ -1,0 +1,4 @@
+Before Minus, periodOfDays = P12D
+After Minus, periodOfDays = P7D
+Before Minus, periodOfMonths = P12M
+After Minus, periodOfMonths = P7M
