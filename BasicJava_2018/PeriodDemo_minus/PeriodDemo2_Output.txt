@@ -1,0 +1,4 @@
+Before Minus, periodOfYears = P2017Y
+After Minus, periodOfYears = P2004Y
+Before Minus, periodOfMonths = P12M
+After Minus, periodOfMonths = P2M

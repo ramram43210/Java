@@ -1,0 +1,4 @@
+periodOfDays = P12D
+periodOfMonth = P12M
+periodOfYears = P2017Y
+periodWeekToDays = P14D
