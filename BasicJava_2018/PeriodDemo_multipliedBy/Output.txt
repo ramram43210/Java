@@ -1,0 +1,2 @@
+period1 = P12D
+period2 = P120D

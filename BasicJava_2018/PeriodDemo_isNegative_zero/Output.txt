@@ -1,0 +1,3 @@
+period = P12M
+isNegative = false
+isZero = false

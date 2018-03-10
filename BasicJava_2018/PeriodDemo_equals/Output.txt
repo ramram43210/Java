@@ -1,0 +1,3 @@
+period1 = P12D
+period2 = P12D
+isEqual = true

@@ -1,0 +1,2 @@
+period = P12M
+monthValue = 12
