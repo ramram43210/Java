@@ -8,9 +8,27 @@ public class ArraysDemo2
 
 		int[] intArr = { 10, 5, 8, 90, 50, 40 };
 
-		int searchKey = 5;
+		Arrays.sort(intArr);
+
+		System.out.println("The sorted int array is:");
+		int i = 0;
+		for (int number : intArr)
+		{
+			System.out.println("Index = " + i + ", Number = " + number);
+			++i;
+		}
 
 		/*
+		 * Searches a range of the specified array of ints for the
+		 * specified value using the binary search algorithm.
+		 * 
+		 * The range must be sorted (as by the sort(int[], int, int)
+		 * method) prior to making this call. If it is not sorted, the
+		 * results are undefined.
+		 * 
+		 * If the range contains multiple elements with the specified
+		 * value, there is no guarantee which one will be found.
+		 * 
 		 * Parameters:
 		 * 
 		 * a - the array to be searched
@@ -29,9 +47,11 @@ public class ArraysDemo2
 		 * within the specified range; otherwise, (-(insertion point)
 		 * - 1).
 		 */
+		int searchKey = 8;
 		int indexOfSearchKey = Arrays.binarySearch(intArr, 0, 3, searchKey);
 
-		System.out.println("indexOfSearchKey =  " + indexOfSearchKey);
+		System.out.println(
+				"indexOfSearchKey " + searchKey + " is =  " + indexOfSearchKey);
 	}
 
 }
