@@ -19,7 +19,7 @@ public class ArraysDemo1
 		Arrays.sort(longArray);
 
 		System.out.println("The sorted long array is:");
-		long i = 0;
+		int i = 0;
 		for (long number : longArray)
 		{
 			System.out.println("Index = " + i + ", Number = " + number);

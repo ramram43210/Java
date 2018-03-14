@@ -6,21 +6,21 @@ public class ArraysDemo1
 	public static void main(String[] args)
 	{
 
-		double[] doubleArray = { 5.2f, 2.3f, 7.6f, 3.4f, 9.8f };
+		Object[] objectArray = { 5, 2, 7, 3, 9 };
 
 		/*
 		 * Sorts the specified array into ascending numerical order.
-		 *
+		 * 
 		 * Parameters:
-		 *
+		 * 
 		 * a - the array to be sorted
-		 *
+		 * 
 		 */
-		Arrays.sort(doubleArray);
+		Arrays.sort(objectArray);
 
-		System.out.println("The sorted double array is:");
+		System.out.println("The sorted Object array is:");
 		int i = 0;
-		for (double number : doubleArray)
+		for (Object number : objectArray)
 		{
 			System.out.println("Index = " + i + ", Number = " + number);
 			++i;

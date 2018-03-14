@@ -10,16 +10,16 @@ public class ArraysDemo1
 
 		/*
 		 * Sorts the specified array into ascending numerical order.
-		 * 
+		 *
 		 * Parameters:
-		 * 
+		 *
 		 * a - the array to be sorted
-		 * 
+		 *
 		 */
 		Arrays.sort(floatArray);
 
 		System.out.println("The sorted float array is:");
-		float i = 0;
+		int i = 0;
 		for (float number : floatArray)
 		{
 			System.out.println("Index = " + i + ", Number = " + number);
