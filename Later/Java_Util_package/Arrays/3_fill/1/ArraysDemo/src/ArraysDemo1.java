@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+check next example
+
 public class ArraysDemo1
 {
 
@@ -17,9 +19,9 @@ public class ArraysDemo1
 		/*
 		 * Assigns the specified byte value to each element of the
 		 * specified array of bytes.
-		 * 
+		 *
 		 * Parameters:a - the array to be filled
-		 * 
+		 *
 		 * val - the value to be stored in all elements of the array
 		 */
 		Arrays.fill(byteArray, (byte) 8);
