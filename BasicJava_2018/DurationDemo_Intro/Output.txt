@@ -1,0 +1,3 @@
+duration = PT12H
+seconds = 43200
+abs = PT12H

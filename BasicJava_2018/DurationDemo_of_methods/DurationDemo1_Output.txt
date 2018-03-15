@@ -1,0 +1,2 @@
+duration1 = PT240H
+duration2 = PT10H
