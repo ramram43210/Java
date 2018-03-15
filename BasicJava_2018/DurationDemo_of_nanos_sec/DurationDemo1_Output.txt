@@ -1,0 +1,2 @@
+duration1 = PT0.002S
+duration2 = PT10S

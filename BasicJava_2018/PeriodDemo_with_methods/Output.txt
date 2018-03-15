@@ -1,0 +1,4 @@
+period1 = P12M
+period2[withDays] = P12M20D
+period3[withYears] = P2017Y12M20D
+period4[withMonths]= P2017Y1M20D

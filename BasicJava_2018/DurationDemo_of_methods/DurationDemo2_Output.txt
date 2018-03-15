@@ -1,0 +1,2 @@
+duration1 = PT1S
+duration2 = PT20M
