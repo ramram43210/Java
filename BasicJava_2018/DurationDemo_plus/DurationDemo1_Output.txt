@@ -1,0 +1,7 @@
+duration     = PT24H
+Plus 1 day   = PT48H
+Plus 2 hours = PT50H
+Plus 50 mins = PT50H50M
+Plus 40 secs = PT50H50M40S
+Plus 10 Millis = PT50H50M40.01S
+Plus 70000 Nanos = PT50H50M40.01007S

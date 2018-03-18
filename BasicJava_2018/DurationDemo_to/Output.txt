@@ -1,0 +1,6 @@
+duration    = PT48H
+toDays    = 2
+toHours   = 48
+toMinutes = 2880
+toMillis  = 172800000
+toNanos   = 172800000000000

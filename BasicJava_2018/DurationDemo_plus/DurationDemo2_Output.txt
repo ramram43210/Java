@@ -1,0 +1,3 @@
+duration         = PT24H
+Plus 1 days      = PT48H
+Plus 20 minutes  = PT48H20M
