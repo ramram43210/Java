@@ -14,15 +14,15 @@ public class ArraysDemo
 		/*
 		 * Copies the specified array, truncating or padding with
 		 * zeros (if necessary) so the copy has the specified length.
-		 * 
+		 *
 		 * Parameters:
-		 * 
+		 *
 		 * original - the array to be copied
-		 * 
+		 *
 		 * newLength - the length of the copy to be returned
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * a copy of the original array, truncated or padded with
 		 * zeros to obtain the specified length
 		 */
@@ -40,6 +40,16 @@ public class ArraysDemo
 		{
 			System.out.println("intValue = " + intValue);
 		}
+	}
+
+	private static void prlongArrayDetails(long[] longArray)
+		{
+			int i = 0;
+			for (long longValue : longArray)
+			{
+				System.out.println("longArray["+ i +"] = " + longValue);
+				++i;
+			}
 	}
 
 }
