@@ -1,0 +1,3 @@
+duration = PT12H
+secondsValue = 43200
+nanosValue = 0
