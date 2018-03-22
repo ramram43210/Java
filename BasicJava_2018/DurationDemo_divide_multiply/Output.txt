@@ -1,0 +1,3 @@
+Before dividedBy = PT12H
+After dividedBy 2 = PT6H
+After multipliedBy 3 = PT18H

@@ -1,0 +1,3 @@
+duration = PT-12H
+is duration Negative? = true
+is duration zero? = false
