@@ -1,0 +1,2 @@
+duration        = PT12H
+negatedDuration = PT-12H
