@@ -28,8 +28,8 @@ public class ArraysDemo
 		 * Returns:
 		 *
 		 * a new array containing the specified range from the
-		 * original array, truncated or padded with zeros to obtain
-		 * the required length
+		 * original array, truncated or padded with null characters to
+		 * obtain the required length
 		 */
 
 		char[] charArray2 = Arrays.copyOfRange(charArray1, 1, 5);
