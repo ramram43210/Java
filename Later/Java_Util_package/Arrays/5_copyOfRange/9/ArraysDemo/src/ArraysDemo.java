@@ -6,7 +6,7 @@ public class ArraysDemo
 	public static void main(String[] args)
 	{
 
-		Integer[] IntegerArray1 = new Integer[] { 5, 10, 15 };
+		Integer[] integerArray1 = new Integer[] { 5, 10, 15 };
 
 		System.out.println("printing IntegerArray1:");
 		prIntegerArrayDetails(IntegerArray1);
@@ -14,18 +14,18 @@ public class ArraysDemo
 		/*
 		 * public static <T> T[] copyOfRange(T[] original, int from,
 		 * 														int to)
-		 * 
+		 *
 		 * Type Parameters:
-		 * 
+		 *
 		 * T - the class of the objects in the array
 		 *
 		 * Parameters:
 		 *
 		 * original - the array from which a range is to be copied
-		 * 
+		 *
 		 * from - the initial index of the range to be copied,
 		 * inclusive
-		 * 
+		 *
 		 * to - the final index of the range to be copied, exclusive.
 		 * (This index may lie outside the array.)
 		 *
@@ -36,14 +36,14 @@ public class ArraysDemo
 		 * the required length
 		 */
 
-		Integer[] IntegerArray2 = Arrays.copyOfRange(IntegerArray1, 1, 5);
+		Integer[] integerArray2 = Arrays.copyOfRange(IntegerArray1, 1, 5);
 
 		System.out.println("\nprinting IntegerArray2:");
 		prIntegerArrayDetails(IntegerArray2);
 
 	}
 
-	private static void prIntegerArrayDetails(Integer[] IntegerArray)
+	private static void prIntegerArrayDetails(Integer[] integerArray)
 	{
 		Integer i = 0;
 		for (Integer IntegerValue : IntegerArray)
