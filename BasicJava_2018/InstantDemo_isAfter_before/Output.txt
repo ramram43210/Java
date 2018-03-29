@@ -1,0 +1,4 @@
+instant1 = 2016-12-03T10:15:30Z
+instant2 = 2018-03-28T03:40:39.091Z
+false
+true

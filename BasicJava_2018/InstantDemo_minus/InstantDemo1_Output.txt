@@ -1,0 +1,4 @@
+Before minus         = 2017-12-03T10:15:30Z
+After  minusSeconds  = 2017-12-03T07:28:50Z
+After  minusMillis   = 2017-12-03T07:28:30Z
+After  minusNanos    = 2017-12-03T07:28:29.999950Z
