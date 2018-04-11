@@ -1,0 +1,3 @@
+localDate = 2018-04-10
+Name = APRIL
+Value = 4

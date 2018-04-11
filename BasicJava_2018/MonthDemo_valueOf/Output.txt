@@ -1,0 +1,2 @@
+Name = JUNE
+Value = 6
