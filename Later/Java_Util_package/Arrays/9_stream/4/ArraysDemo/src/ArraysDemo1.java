@@ -9,16 +9,13 @@ public class ArraysDemo1
 
 		Integer[] integerArray = new Integer[] { 5, 15, 25, 35, 45 };
 
-		/*
-		 * Returns a sequential IntegerStream with the specified array
-		 * as its source.
-		 * 
+		copy
 		 * Parameters:
-		 * 
+		 *
 		 * array - the array, assumed to be unmodified during use
-		 * 
+		 *
 		 * Returns:
-		 * 
+		 *
 		 * an IntegerStream for the array
 		 */
 		Stream<Integer> stream = Arrays.stream(integerArray);
