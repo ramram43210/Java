@@ -1,0 +1,2 @@
+month = JUNE
+firstMonthOfQuarter = APRIL
