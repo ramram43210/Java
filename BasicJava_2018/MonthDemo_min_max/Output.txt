@@ -1,0 +1,3 @@
+month = FEBRUARY
+min length = 28
+max length = 29
