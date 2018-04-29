@@ -1,0 +1,4 @@
+dayOfWeek = MONDAY
+Name = MONDAY
+Value = 1
+Ordinal = 0
