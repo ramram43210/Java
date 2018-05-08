@@ -1,0 +1,2 @@
+dayOfWeek = FRIDAY
+dayOfWeek = WEDNESDAY
