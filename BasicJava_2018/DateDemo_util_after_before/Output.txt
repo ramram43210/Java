@@ -1,0 +1,4 @@
+date1 = Sat May 12 09:22:51 IST 2018
+date2 = Fri May 12 09:22:52 IST 2000
+Is date1 after date2 ? : true
+Is date1 before date2 ? : false
