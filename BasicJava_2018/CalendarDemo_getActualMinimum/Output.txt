@@ -1,0 +1,2 @@
+Minimum year = 1
+Minimum month = 0
