@@ -1,0 +1,2 @@
+en_US
+{Monday=2, Thursday=5, Friday=6, Sunday=1, Wednesday=4, Tuesday=3, Saturday=7}
