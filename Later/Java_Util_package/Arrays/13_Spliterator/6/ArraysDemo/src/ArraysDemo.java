@@ -3,17 +3,21 @@ import java.util.Spliterator;
 
 /**
  *
- * public static <T> Spliterator<T> spliterator(T[] array, int startInclusive,
- * 																int endExclusive)
+ * public static <T> Spliterator<T> spliterator(T[] array, int
+ * startInclusive, int endExclusive)
  *
- * Returns a Spliterator covering the specified range of the specified array.
+ * Returns a Spliterator covering the specified range of the specified
+ * array.
  *
  */
 
-public class ArraysDemo {
+public class ArraysDemo
+{
 
-	public static void main(String[] args) {
-		String[] strArray = { "Apple", "banana", "Orange", "Grapes", "Mango" };
+	public static void main(String[] args)
+	{
+		String[] strArray = { "Apple", "banana", "Orange", "Grapes",
+				"Mango" };
 
 		/*
 		 * Type Parameters:
@@ -26,7 +30,8 @@ public class ArraysDemo {
 		 * 
 		 * startInclusive - the first index to cover, inclusive
 		 * 
-		 * endExclusive - index immediately past the last index to cover
+		 * endExclusive - index immediately past the last index to
+		 * cover
 		 *
 		 * Returns:
 		 *
@@ -35,8 +40,8 @@ public class ArraysDemo {
 		Spliterator<String> s1 = Arrays.spliterator(strArray, 0, 3);
 
 		/*
-		 * Returns:a Spliterator covering some portion of the elements, or null if this
-		 * spliterator cannot be split
+		 * Returns:a Spliterator covering some portion of the
+		 * elements, or null if this spliterator cannot be split
 		 */
 		Spliterator<String> s2 = s1.trySplit();
 
