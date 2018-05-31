@@ -18,7 +18,7 @@ import java.util.EnumSet;
  *
  * Returns:
  *
- * an enum set initially containing the specified element
+ * an enum set initially containing the specified elements
  *
  */
 
