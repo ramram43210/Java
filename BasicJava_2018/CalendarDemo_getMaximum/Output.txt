@@ -1,0 +1,2 @@
+Maximum days = 7
+Maximum months = 11
