@@ -1,0 +1,2 @@
+Minimum days = 1
+Minimum months = 0

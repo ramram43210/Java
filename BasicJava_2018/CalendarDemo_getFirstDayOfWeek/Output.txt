@@ -1,0 +1,2 @@
+firstDayOfTheWeek = 1
+Sunday
