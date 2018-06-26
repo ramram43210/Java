@@ -1,0 +1,2 @@
+weekYear = 2018
+numberOfWeeks = 52

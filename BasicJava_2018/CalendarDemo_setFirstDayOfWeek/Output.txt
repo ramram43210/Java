@@ -1,0 +1,2 @@
+Current first day of the week = 1
+Altered first day of the week = 6
