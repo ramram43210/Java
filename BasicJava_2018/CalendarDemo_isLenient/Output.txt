@@ -1,0 +1,2 @@
+Calendar is lenient   = true
+Lenient after setting = false

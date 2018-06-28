@@ -1,0 +1,2 @@
+Before set, Minimal Days in Week = 1
+After set, Minimal Days in Week  = 4
