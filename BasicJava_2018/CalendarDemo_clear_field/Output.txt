@@ -1,0 +1,2 @@
+Before clear = Sun Jul 01 10:50:38 IST 2018
+After clear  = Wed Jul 01 10:50:38 IST 1970

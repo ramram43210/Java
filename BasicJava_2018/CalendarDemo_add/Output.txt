@@ -1,0 +1,4 @@
+The current date is = Sat Jun 30 08:58:24 IST 2018
+20 days later       = Fri Jul 20 08:58:24 IST 2018
+3 months later      = Sat Oct 20 08:58:24 IST 2018
+10 years later      = Fri Oct 20 08:58:24 IST 2028
