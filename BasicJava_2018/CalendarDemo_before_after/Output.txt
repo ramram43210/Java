@@ -1,0 +1,4 @@
+Current date = Tue Jul 03 09:39:19 IST 2018
+future date  = Wed Jul 03 09:39:20 IST 2030
+is cal1 before cal2 = true
+is cal1 After  cal2 = false
