@@ -1,0 +1,2 @@
+cal1        = Thu Jun 20 00:00:00 IST 2013
+Cloned cal2 = Thu Jun 20 00:00:00 IST 2013

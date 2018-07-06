@@ -1,0 +1,3 @@
+Month is 8
+After rolling 2, Month is 10
+After rolling -4, Month is 6
