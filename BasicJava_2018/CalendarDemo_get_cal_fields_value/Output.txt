@@ -1,0 +1,9 @@
+Sun Jul 08 08:50:01 IST 2018
+What day of the month = 8
+What day of the month = 8
+What day of the week = 1
+What week in month = 2
+What week in month = 2
+What day of the year = 189
+What week of the year = 28
+What hour of the day =  8

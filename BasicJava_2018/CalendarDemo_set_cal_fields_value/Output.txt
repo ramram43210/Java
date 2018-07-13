@@ -1,0 +1,5 @@
+Before Set = Sun Jul 08 09:01:59 IST 2018
+After Set  = Sun Jul 08 10:29:22 IST 2018
+Hour = 10
+Min = 29
+Sec = 22
