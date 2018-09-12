@@ -1,0 +1,4 @@
+Actual Maximum, DAY_OF_MONTH = 30
+Actual Maximum, MONTH = 11
+Actual Minimum, DAY_OF_MONTH = 1
+Actual Minimum, MONTH = 0

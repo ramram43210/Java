@@ -1,0 +1,4 @@
+Greatest Minimum, DAY_OF_MONTH = 1
+Greatest Minimum, MONTH = 0
+Least Maximum, DAY_OF_MONTH = 28
+Least Maximum, MONTH = 11
