@@ -1,0 +1,3 @@
+Maximum, DAY_OF_MONTH = 31
+Maximum, MONTH = 11
+Maximum, YEAR = 292278994
