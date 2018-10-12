@@ -1,0 +1,3 @@
+cal1 = Thu Oct 11 09:02:24 IST 2018
+cal2 = Thu Oct 11 09:02:24 IST 2018
+cal1 and cal2 are equal = true
