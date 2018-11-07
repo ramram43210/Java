@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at java.sql.Time.toInstant(Time.java:291)
+	at TimeDemo.main(TimeDemo.java:17)
