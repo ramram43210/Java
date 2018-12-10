@@ -1,0 +1,23 @@
+Available Ids for offset are: 
+Africa/Algiers
+Africa/Bangui
+Africa/Brazzaville
+Africa/Ceuta
+Africa/Douala
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+
+---
+---
+
+Europe/Stockholm
+Europe/Tirane
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Warsaw
+Europe/Zagreb
+Europe/Zurich
+MET
+Poland

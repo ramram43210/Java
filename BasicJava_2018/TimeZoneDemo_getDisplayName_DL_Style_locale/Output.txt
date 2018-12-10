@@ -1,0 +1,2 @@
+displayName = India Daylight Time
+displayName = IDT

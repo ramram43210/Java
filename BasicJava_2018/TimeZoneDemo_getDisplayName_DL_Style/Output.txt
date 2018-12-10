@@ -1,0 +1,2 @@
+displayName LONG  = India Daylight Time
+displayName SHORT = IDT
